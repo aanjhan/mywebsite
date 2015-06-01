@@ -25,7 +25,7 @@ img[alt="profilepic"] {
 
 .navbar-default {
   background-color: #eaeaea;
-  border-color: #eaeaea;
+  border-color: #bdbdbd;
 }
 .navbar-default .navbar-brand {
   color: #000000;
@@ -44,17 +44,17 @@ img[alt="profilepic"] {
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
   color: #cc0104;
-  background-color: #eaeaea;
+  background-color: #bdbdbd;
 }
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
   color: #cc0104;
-  background-color: #eaeaea;
+  background-color: #bdbdbd;
 }
 .navbar-default .navbar-toggle {
-  border-color: #eaeaea;
+  border-color: #bdbdbd;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-  background-color: #eaeaea;
+  background-color: #bdbdbd;
 }
 .navbar-default .navbar-toggle .icon-bar {
   background-color: #000000;
@@ -79,6 +79,6 @@ img[alt="profilepic"] {
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
     color: #cc0104;
-    background-color: #eaeaea;
+    background-color: #bdbdbd;
   }
 }
