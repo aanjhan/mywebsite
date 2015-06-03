@@ -2,7 +2,7 @@ name: "Aanjhan Ranganathan"
 description: ""
 
 url: "http://aanjhan.com"
-
+destination: _site
 paginate: 10
 
 markdown: rdiscount

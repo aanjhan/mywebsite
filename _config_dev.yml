@@ -1,6 +1,7 @@
 name: "Aanjhan Ranganathan"
 description: ""
 
+destination: _site_local
 url: "http://localhost:4000"
 
 paginate: 10
