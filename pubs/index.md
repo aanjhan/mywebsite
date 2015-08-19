@@ -12,12 +12,12 @@ The following are the list of papers (sorted in reverse chronological order) tha
 - **Proximity Verification for Contactless Access Control and Authentication Systems** 
 <a href="assets/fmcw_acsac2015.pdf" class="label label-primary">Paper</a> <a href="assets/fmcw_acsac2015.bib" class="label label-default">Bibtex</a><br/>
 *Aanjhan Ranganathan*, Boris Danev, Srdjan Capkun<br/>
-In Proceedings of the 28th Annual Computer Security Applications Conference (**ACSAC 2015**)
+In Proceedings of the 28th Annual Computer Security Applications Conference (**ACSAC 2015**)(to appear)
 
 - **Thermal Covert Channels on Multi-core Platforms** 
 <a href="assets/thermalchannel_usenix2015.pdf" class="label label-primary">Paper</a> <a href="assets/thermal_usenix15.bib" class="label label-default">Bibtex</a><br/>
 Ramya Jayaram Masti, Devendra Rai, *Aanjhan Ranganathan*, Christian Müller, Lothar Thiele, Srdjan Capkun.<br/>
-In the proceedings of 24th USENIX Security Symposium (**USENIX Security 15**) (to appear) 
+In the proceedings of 24th USENIX Security Symposium (**USENIX Security 15**) 
 
 - **W-SPS: Designing a Wide-Area Secure Positioning System**
 <a href="assets/wsps-iacr230.pdf" class="label label-primary">Paper</a> <a href="assets/wsps_eprint.bib" class="label label-default">Bibtex</a><br/>
