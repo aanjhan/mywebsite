@@ -9,6 +9,7 @@ Aanjhan is currently pursuing his PhD with the [System Security Group at ETH Zur
 Prior to joining the [System Security group at ETH Zurich], he worked at Robert Bosch GmbH's Car Multimedia Division "Blaupunkt" for over 3 years involved in research and development of embedded modules for top automotive manufacturers including Audi and Volkswagen. He holds a bachelors degree in Electronic and Communication engineering from Anna University in Chennai, India and a Masters degree in Microelectronics from [Ecole Polytechnique Federale de Lausanne], Switzerland.
 
 ### Recent News
+* Our paper on "Proximity Verification for Contactless Access Control and Authentication Systems" got accepted for publication at **Annual Computer Security Applications Conference (ACSAC 2015)**.
 * Our paper on "Thermal Covert Channels on Multi-core Platforms" got accepted for publication at **Usenix Security Symposium 2015**.
 
 
