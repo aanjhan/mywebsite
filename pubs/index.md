@@ -9,15 +9,15 @@ The following are the list of papers (sorted in reverse chronological order) tha
 
 ### 2015
 
-- **Proximity Verification for Contactless Access Control and Authentication Systems** 
+- **Proximity Verification for Contactless Access Control and Authentication Systems**
 <a href="assets/fmcw_acsac2015.pdf" class="label label-primary">Paper</a> <a href="assets/fmcw_acsac2015.bib" class="label label-default">Bibtex</a><br/>
 *Aanjhan Ranganathan*, Boris Danev, Srdjan Capkun<br/>
 In Proceedings of the 28th Annual Computer Security Applications Conference (**ACSAC 2015**)
 
-- **Thermal Covert Channels on Multi-core Platforms** 
+- **Thermal Covert Channels on Multi-core Platforms**
 <a href="assets/thermalchannel_usenix2015.pdf" class="label label-primary">Paper</a> <a href="assets/thermal_usenix15.bib" class="label label-default">Bibtex</a><br/>
 Ramya Jayaram Masti, Devendra Rai, *Aanjhan Ranganathan*, Christian Müller, Lothar Thiele, Srdjan Capkun.<br/>
-In the proceedings of 24th USENIX Security Symposium (**USENIX Security 15**) 
+In the proceedings of 24th USENIX Security Symposium (**USENIX Security 15**)
 
 - **W-SPS: Designing a Wide-Area Secure Positioning System**
 <a href="assets/wsps-iacr230.pdf" class="label label-primary">Paper</a> <a href="assets/wsps_eprint.bib" class="label label-default">Bibtex</a><br/>
@@ -44,22 +44,22 @@ In Security and Privacy (SP), 2013 IEEE Symposium on (**IEEE S&P 2013**)
 
 ### 2012
 
-- **Enabling Trusted Scheduling in Embedded Systems** 
+- **Enabling Trusted Scheduling in Embedded Systems**
 <a href="assets/trusted_scheduling_acsac2012.pdf" class="label label-primary">Paper</a> <a href="assets/trustedscheduling_acsac12.bib" class="label label-default">Bibtex</a><br/>
 Ramya Jayaram Masti, Claudio Marforio, *Aanjhan Ranganathan*, Aurélien Francillon, Srdjan Capkun.<br/>
 In Proceedings of the 28th Annual Computer Security Applications Conference (**ACSAC 2012**)
 
-- **Design and Implementation of a Terrorist Fraud Resilient Distance Bounding System** 
+- **Design and Implementation of a Terrorist Fraud Resilient Distance Bounding System**
 <a href="assets/terrorist-fraud-esorics2012.pdf" class="label label-primary">Paper</a> <a href="assets/terroristfraud_esorics12.bib" class="label label-default">Bibtex</a><br/>
 *Aanjhan Ranganathan*, Nils Ole Tippenhauer, Boris Skoric, Dave Singelée, Srdjan Capkun.<br/>
 In Computer Security – (**ESORICS 2012**)
 
-- **Counting stream registers: An efficient and effective snoop filter architecture** 
+- **Counting stream registers: An efficient and effective snoop filter architecture**
 <a href="assets/ranganathan_icsamos12.pdf" class="label label-primary">Paper</a> <a href="assets/snoopfilters_icsamos12.bib" class="label label-default">Bibtex</a><br/>
 *Aanjhan Ranganathan*, Ali Galip Bayrak, Theo Kluter, Philip Brisk, Edoardo Charbon, Paolo Ienne<br/>
 In Embedded Computer Systems (SAMOS), 2012 International Conference on (**ICSAMOS 2012**)
 
-- **Physical-layer attacks on chirp-based ranging systems** 
-<<a href="assets/chirp-wisec12-ranganathan.pdf" class="label label-primary">Paper</a> <a href="assets/chirp_wisec12.bib" class="label label-default">Bibtex</a><br/>
+- **Physical-layer attacks on chirp-based ranging systems**
+<a href="assets/chirp-wisec12-ranganathan.pdf" class="label label-primary">Paper</a> <a href="assets/chirp_wisec12.bib" class="label label-default">Bibtex</a><br/>
 *Aanjhan Ranganathan*, Boris Danev, Aurélien Francillon, Srdjan Capkun<br/>
 In Proceedings of the fifth ACM conference on Security and Privacy in Wireless and Mobile Networks (**WiSec 2012**)
