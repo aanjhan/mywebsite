@@ -7,6 +7,13 @@ layout: default
 
 The following are the list of papers (sorted in reverse chronological order) that I have (co)-authored.
 
+### 2016
+
+- **SPREE: Spoofing Resistant GPS Receiver**
+<a href="assets/spree_arxiv.pdf" class="label label-primary">Paper</a> <a href="assets/spree_arxiv.bib" class="label label-default">Bibtex</a><br/>
+*Aanjhan Ranganathan*, Hildur Ólafsdóttir, Srdjan Capkun<br/>
+arXiv preprint arXiv:1603.05462 (2016)
+
 ### 2015
 
 - **Proximity Verification for Contactless Access Control and Authentication Systems**
