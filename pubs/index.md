@@ -12,15 +12,15 @@ The following are the list of papers (sorted in reverse chronological order) tha
 - **SPREE: Spoofing Resistant GPS Receiver**
 <a href="assets/spree_arxiv.pdf" class="label label-primary">Paper</a> <a href="assets/spree_arxiv.bib" class="label label-default">Bibtex</a><br/>
 *Aanjhan Ranganathan*, Hildur Ólafsdóttir, Srdjan Capkun<br/>
-In Proceedings of the 22nd Annual International Conference on Mobile Computing and Networking (**Mobicom 2016**) (to appear)
+In Proceedings of the 22nd Annual International Conference on Mobile Computing and Networking (**MobiCom 2016**) (to appear)
 
 - **Investigation of Multi-device Location Spoofing Attacks on Air Traffic Control and Possible Countermeasures**<br/>
 Daniel Moser, Patrick Leu, Vincent Lenders, *Aanjhan Ranganathan*, Fabio Ricciato, Srdjan Capkun<br/>
-In Proceedings of the 22nd Annual International Conference on Mobile Computing and Networking (**Mobicom 2016**) (to appear)
+In Proceedings of the 22nd Annual International Conference on Mobile Computing and Networking (**MobiCom 2016**) (to appear)
 
 - **SALVE: Server Authentication with Location VErification**<br/>
 Der-Yeuan Yu, *Aanjhan Ranganathan*, Ramya Jayaram Masti, Claudio Soriente, Srdjan Capkun<br/>
-In Proceedings of the 22nd Annual International Conference on Mobile Computing and Networking (**Mobicom 2016**) (to appear)
+In Proceedings of the 22nd Annual International Conference on Mobile Computing and Networking (**MobiCom 2016**) (to appear)
 
 ### 2015
 
