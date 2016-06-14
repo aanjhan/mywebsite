@@ -9,6 +9,11 @@ The following are the list of papers (sorted in reverse chronological order) tha
 
 ### 2016
 
+- **Physical-layer Techniques for Secure Proximity Verification & Localization**
+<a href="assets/thesis_abstract.pdf" class="label label-primary">Abstract</a> <a href="assets/aanjhan_thesis.pdf" class="label label-primary">Full-text</a> <a href="assets/aanjhan_thesis.bib" class="label label-default">Bibtex</a><br/>
+*Aanjhan Ranganathan*<br/>
+Ph.D. Dissertation, 2016
+
 - **SPREE: Spoofing Resistant GPS Receiver**
 <a href="assets/spree_arxiv.pdf" class="label label-primary">Paper</a> <a href="assets/spree_arxiv.bib" class="label label-default">Bibtex</a><br/>
 *Aanjhan Ranganathan*, Hildur Ólafsdóttir, Srdjan Capkun<br/>
