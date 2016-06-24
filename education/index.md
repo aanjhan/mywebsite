@@ -4,6 +4,7 @@ layout: default
 ---
 
 #### Projects Supervised
+- *Improving Ultra-Wide Band Based Secure Ranging Systems*, Jaskirat Singh, Semester Thesis, SS 2016.
 - *Locating tags using Unmanned Aerial Vehicles*, Carl Olsson, Semester Thesis, SS 2015.
 - *Detection of Spoofing Attacks on Wireless Multilateration Systems*, Patrick Leu (in co-operation with Armasuisse), Master Thesis, SS 2015.
 - *Detection of GPS Spoofing Attacks*, Hildur Ólafsdóttir, Master Thesis, SS 2014.
