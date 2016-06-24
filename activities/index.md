@@ -5,6 +5,8 @@ layout: default
 
 ### Professional & Social Activities
 
+- Reviewer for IEEE Transactions on Industrial Informatics 2016
+- Reviewer for IEEE Communications Magazine 2016
 - Reviewer for IEEE Transactions on Information Forensics & Security 2016
 - External reviewer for several top conferences in wireless communication systems and security such as USENIX Security, IEEE S&P (Oakland), CCS, NDSS, Mobicom etc.
 - Technical Program Committee member for "Smart Medical Devices - from Lab to Clinical Practice" workshop 2015, 2016
