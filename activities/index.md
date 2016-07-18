@@ -5,6 +5,7 @@ layout: default
 
 ### Professional & Social Activities
 
+- Reviewer for IEEE Transactions on Mobile Computing 2016
 - Reviewer for IEEE Transactions on Industrial Informatics 2016
 - Reviewer for IEEE Communications Magazine 2016
 - Reviewer for IEEE Transactions on Information Forensics & Security 2016
