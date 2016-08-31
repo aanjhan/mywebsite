@@ -5,6 +5,8 @@ layout: default
 
 ### Professional & Social Activities
 
+- Program Committee member for RFIDSec 2016
+- Shadow PC member for AsiaCCS 2017
 - Reviewer for IEEE Transactions on Mobile Computing 2016
 - Reviewer for IEEE Transactions on Industrial Informatics 2016
 - Reviewer for IEEE Communications Magazine 2016
