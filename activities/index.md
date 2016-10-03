@@ -26,4 +26,4 @@ layout: default
 - Active Participation in Linux demo Days Conducted by the Chennai Linux users Group in creating Awareness on FLOSS to students in both the semi-urban and urban areas.
 
 [RTEMS]:http://www.rtems.com
-[GNUSim8085]:http://gnusim8085.sourceforge.net
+[GNUSim8085]:http://gnusim8085.github.io
