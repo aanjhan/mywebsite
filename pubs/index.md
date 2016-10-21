@@ -8,6 +8,9 @@ layout: default
 The following are the list of papers (sorted in reverse chronological order) that I have (co)-authored.
 
 ### 2016
+- **On the Security of Carrier Phase-based Ranging** <a href="assets/phase_ranging.pdf" class="label label-primary">Paper</a> <a href="phase_ranging.bib" class="label label-default">Bibtex</a><br/> 
+Hildur Ólafsdóttir, *Aanjhan Ranganathan*, Srdjan Capkun<br/>
+arXiv e-print (arXiv:1610.06077)
 
 - **Physical-layer Techniques for Secure Proximity Verification & Localization**
 <a href="assets/thesis_abstract.pdf" class="label label-primary">Abstract</a> <a href="assets/aanjhan_thesis.pdf" class="label label-primary">Full-text</a> <a href="assets/aanjhan_thesis.bib" class="label label-default">Bibtex</a><br/>
