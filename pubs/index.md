@@ -8,7 +8,7 @@ layout: default
 The following are the list of papers (sorted in reverse chronological order) that I have (co)-authored.
 
 ### 2016
-- **On the Security of Carrier Phase-based Ranging** <a href="assets/phase_ranging.pdf" class="label label-primary">Paper</a> <a href="phase_ranging.bib" class="label label-default">Bibtex</a><br/> 
+- **On the Security of Carrier Phase-based Ranging** <a href="assets/phase_ranging.pdf" class="label label-primary">Paper</a> <a href="assets/phase_ranging.bib" class="label label-default">Bibtex</a><br/> 
 Hildur Ólafsdóttir, *Aanjhan Ranganathan*, Srdjan Capkun<br/>
 arXiv e-print (arXiv:1610.06077)
 
