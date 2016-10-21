@@ -22,12 +22,12 @@ Ph.D. Dissertation, 2016
 *Aanjhan Ranganathan*, Hildur Ólafsdóttir, Srdjan Capkun<br/>
 In Proceedings of the 22nd Annual International Conference on Mobile Computing and Networking (**MobiCom 2016**)
 
-- **Investigation of Multi-device Location Spoofing Attacks on Air Traffic Control and Possible Countermeasures**<br/>
+- **Investigation of Multi-device Location Spoofing Attacks on Air Traffic Control and Possible Countermeasures**
 <a href="assets/tdoaSpoofing_moser16.pdf" class="label label-primary">Paper</a> <a href="assets/tdoaSpoofing.bib" class="label label-default">Bibtex</a><br/>
 Daniel Moser, Patrick Leu, Vincent Lenders, *Aanjhan Ranganathan*, Fabio Ricciato, Srdjan Capkun<br/>
 In Proceedings of the 22nd Annual International Conference on Mobile Computing and Networking (**MobiCom 2016**)
 
-- **SALVE: Server Authentication with Location VErification**<br/>
+- **SALVE: Server Authentication with Location VErification**
 <a href="assets/salve-yu.pdf" class="label label-primary">Paper</a> <a href="assets/salve.bib" class="label label-default">Bibtex</a><br/>
 Der-Yeuan Yu, *Aanjhan Ranganathan*, Ramya Jayaram Masti, Claudio Soriente, Srdjan Capkun<br/>
 In Proceedings of the 22nd Annual International Conference on Mobile Computing and Networking (**MobiCom 2016**)
