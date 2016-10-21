@@ -18,17 +18,19 @@ arXiv e-print (arXiv:1610.06077)
 Ph.D. Dissertation, 2016
 
 - **SPREE: Spoofing Resistant GPS Receiver**
-<a href="assets/spree_arxiv.pdf" class="label label-primary">Paper</a> <a href="assets/spree_arxiv.bib" class="label label-default">Bibtex</a><br/>
+<a href="assets/spree_mobicom2016.pdf" class="label label-primary">Paper</a> <a href="assets/spree_ranganathan16.bib" class="label label-default">Bibtex</a><br/>
 *Aanjhan Ranganathan*, Hildur Ólafsdóttir, Srdjan Capkun<br/>
-In Proceedings of the 22nd Annual International Conference on Mobile Computing and Networking (**MobiCom 2016**) (to appear)
+In Proceedings of the 22nd Annual International Conference on Mobile Computing and Networking (**MobiCom 2016**)
 
 - **Investigation of Multi-device Location Spoofing Attacks on Air Traffic Control and Possible Countermeasures**<br/>
+<a href="assets/tdoaSpoofing_moser16.pdf" class="label label-primary">Paper</a> <a href="assets/tdoaSpoofing.bib" class="label label-default">Bibtex</a><br/>
 Daniel Moser, Patrick Leu, Vincent Lenders, *Aanjhan Ranganathan*, Fabio Ricciato, Srdjan Capkun<br/>
-In Proceedings of the 22nd Annual International Conference on Mobile Computing and Networking (**MobiCom 2016**) (to appear)
+In Proceedings of the 22nd Annual International Conference on Mobile Computing and Networking (**MobiCom 2016**)
 
 - **SALVE: Server Authentication with Location VErification**<br/>
+<a href="assets/salve-yu.pdf" class="label label-primary">Paper</a> <a href="assets/salve.bib" class="label label-default">Bibtex</a><br/>
 Der-Yeuan Yu, *Aanjhan Ranganathan*, Ramya Jayaram Masti, Claudio Soriente, Srdjan Capkun<br/>
-In Proceedings of the 22nd Annual International Conference on Mobile Computing and Networking (**MobiCom 2016**) (to appear)
+In Proceedings of the 22nd Annual International Conference on Mobile Computing and Networking (**MobiCom 2016**)
 
 ### 2015
 
