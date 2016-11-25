@@ -11,9 +11,9 @@ Prior to joining the [System Security group at ETH Zurich], he worked at Robert 
 **I am currently in the job market looking for interesting research positions in the broad area of wireless / hardware systems and their security. <a href="assets/cv_aanjhan.pdf">[CV]</a>**
 
 ### Recent News
+* Nov 2016: *ETH Medal* My PhD thesis has been awarded the ETH medal for outstanding dissertation.
 * Jun 2016: *Hat-trick!!!* All three papers that we submitted to **ACM Mobicom 2016** got accepted.
 * Mar 2016: Successfully defended my thesis - **Physical-layer Techniques for Secure Proximity Verification and Localization**.
-* Aug 2015: Our paper on "Proximity Verification for Contactless Access Control and Authentication Systems" got accepted for publication at **Annual Computer Security Applications Conference (ACSAC 2015)**.
 
 [System Security group at ETH Zurich]:http://www.syssec.ethz.ch
 [Ecole Polytechnique Federale de Lausanne]:http://epfl.ch
