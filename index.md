@@ -11,6 +11,7 @@ Prior to joining the [System Security group at ETH Zurich], he worked at Robert 
 **I am currently in the job market looking for interesting research positions in the broad area of wireless / hardware systems and their security. <a href="assets/cv_aanjhan.pdf">[CV]</a>**
 
 ### Recent News
+* Feb 2017: Our paper on *Investigation of Multi-device Location Spoofing Attacks on Air Traffic Control* was awarded the **Cyber Award** for outstanding contribution in cyberspace and information research by the Federal Department of Defense, Switzerland.   
 * Nov 2016: My PhD thesis has been awarded the <a href="https://zisc.ethz.ch/2016/11/25/aanjhan-ranganathan-was-awarded-the-eth-medal/">**ETH medal for outstanding dissertation**</a>.
 * Sep 2016: <a href="http://www.spree-gnss.ch">SPREE</a> (our home built spoofing resilient GPS receiver) won the regional prize at the <a href="http://www.esnc.eu/index.php?anzeige=switzerland16.html">European Satellite Navigation Competition (ESNC)</a> organized by the ESA.
 * Jun 2016: *Hat-trick!!!* All three papers that we submitted to **ACM Mobicom 2016** got accepted.
