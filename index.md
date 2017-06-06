@@ -12,6 +12,7 @@ Aanjhan is currently a Senior Researcher in the [System Security Group at ETH Zu
 
 
 ### Recent News
+* June 2017: Our paper *On the Security of Carrier Phase-based Ranging* was accepted to **CHES 2017**.
 * Feb 2017: Our paper on *Investigation of Multi-device Location Spoofing Attacks on Air Traffic Control* was awarded the <a href="https://zisc.ethz.ch/2017/03/14/zisc-researchers-awarded-by-swiss-department-of-defense/">**Cyber Award**</a> for outstanding contribution in cyberspace and information research by the Federal Department of Defense, Switzerland.   
 * Nov 2016: My PhD thesis has been awarded the <a href="https://zisc.ethz.ch/2017/01/26/aanjhan-ranganathan-was-awarded-the-eth-medal/">**ETH medal for outstanding dissertation**</a>.
 * Sep 2016: <a href="http://www.spree-gnss.ch">SPREE</a> (our home built spoofing resilient GPS receiver) won the regional prize at the <a href="http://www.esnc.eu/index.php?anzeige=switzerland16.html">European Satellite Navigation Competition (ESNC)</a> organized by the ESA.
