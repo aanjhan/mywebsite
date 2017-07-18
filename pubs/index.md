@@ -14,7 +14,7 @@ In Proceedings of Cryptographic Hardware and Embedded Systems (**CHES 2017**) (*
 
 - **Are We Really Close? Verifying Proximity in Wireless Systems** <a href="assets/ieeemag_secureranging.pdf" class="label label-primary">Draft version</a><br/> 
 *Aanjhan Ranganathan*, Srdjan Capkun<br/>
-IEEE Security & Privacy Magazine (*to appear*)
+IEEE Security & Privacy Magazine (<a href="http://ieeexplore.ieee.org/document/7945214/">June-July edition</a>)
 
 ### 2016
 
