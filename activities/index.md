@@ -5,6 +5,7 @@ layout: default
 
 ### Professional & Social Activities
 
+- Publicity co-chair for CANS 2017
 - Program Committee member for RFIDSec 2016
 - Shadow PC member for AsiaCCS 2017
 - Reviewer for IEEE Transactions on Mobile Computing 2016
