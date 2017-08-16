@@ -9,22 +9,21 @@ I am currently involved in the following research themes (projects).
 
 </br>
 
-#### Designing a wide area secure positioning system
+#### SPREE - Spoofing Resistant GPS Reciever
 
-Location information is gaining importance in emerging applications, such as civilian or military navigation, people or asset tracking, emergency rescue and support, mining, exploration, smart grids, and modern networking systems. However, existing solutions (such as GPS) are vulnerable to spoofing attacks and do not allow the locations reported by remote parties to be verified.
+Global Navigations Satellite Systems (GNSS) such as GPS are critical to a large set of applications ranging from personal navigation to modern communication and networking systems. In addition to positioning and navigation, GPS is used today in many safety- and security-critical systems such as banking and finance (precision time-stamping of transactions), harbour ports (automate container movements within the harbour), law enforcement (parolee surveillance and tracking), smart grids (time-stamped load balancing) and communication systems (time synchronisation and hand-offs). With the advent of self-driving cars, unmanned aerial vehicles and the Internet of Things, the number of applications that rely on GNSS is only bound to increase. It has already been widely demonstrated that modern GNSS systems including GPS are vulnerable to signal spoofing and replay attacks. Many researchers have shown that it is possible to change the course of a ship, force a drone to land in an hostile area, cause large-scale power-grid black outs and disrupt communication systems by simply spoofing GPS signals. 
 
-Our research focuses on the design and realization of a Wide-Area Secure Positioning System that allows locations to be securely computed and verified. More information on this project can be found [here](http://www.securepositioning.com).
+SPREE is the first commercially off the shelf, single-antenna, receiver capable of detecting or significantly limiting all known GPS spoofing attacks described in the open literature. SPREE does not rely on GPS signal authentication and therefore can be used to detect both civilian and military GPS spoofing attacks. SPREE's design enables easy integration into modern GPS receivers with only a firmware upgrade and does not require any changes to the underlying hardware. SPREE implements a novel spoofing detection technique called auxiliary peak tracking that limits even a strong attacker (e.g., seamless takeover) from being able to move (spoof) a receiver to any arbitrary location or time. The auxiliary peak tracking technique leverages the presence of authentic signals in addition to the attacker's signals to detect spoofing attacks. SPREE can also reliably detect any manipulations to the navigation message contents. The combination of auxiliary peak tracking and the navigation message inspector severely limits even strong attackers capable of taking over a receiver that is currently locked (receiving and decoding) on to legitimate satellite signals without being noticed. SPREE guarantees that its estimated location and time are not more than few hundred meters and 1 us away from their true values. The project was recognized by the European Space Agency and awarded the [regional winning entry at the European Space Navigation Competition](http://www.esnc.eu/winner_award/esnc/).
 
-**Collaborators:** Der-Yeuan Yu, Ramya Jayaram Masti, Claudio Soriente, and Srdjan Capkun (ETH, Zurich).
+**Project Website**: [https://www.spree-gnss.ch](https://www.spree-gnss.ch)
 
 </br>
 
-#### Spoofing Aware GPS Receiver
+#### Designing a wide area secure positioning system
 
-The use of Global Positioning System (GPS) has become ubiquitous in a wide  variety of applications ranging from navigation and tracking to modern smart  grids and communication networks. Given the implications of both loss of  integrity or denial of service on these systems, it is important to secure GPS from attacks. Prior works have demonstrated the vulnerability of modern GPS receivers to signal spoofing attacks. Several countermeasures have been proposed for detecting or mitigating these attacks. However, the effectiveness of these countermeasures in real-world scenarios have not been evaluated. In this work, we present a *SPoofing AWare GPS receiver (SPAW)* capable of detecting majority of spoofing attacks described in the literature. We implement several spoofing detection techniques (both existing and novel) and evaluate their effectiveness both in real-world and against a publicly available repository of GPS spoofing scenarios.
+Location information is gaining importance in emerging applications, such as civilian or military navigation, people or asset tracking, emergency rescue and support, mining, exploration, smart grids, and modern networking systems. However, existing solutions (such as GPS) are vulnerable to spoofing attacks and do not allow the locations reported by remote parties to be verified. Our research focuses on the design and realization of a Wide-Area Secure Positioning System that allows locations to be securely computed and verified. 
 
-**Collaborators:** Hildur Olafsdottir and Srdjan Capkun (ETH Zurich).
-
+**Project Website**: [http://www.securepositioning.com](http://www.securepositioning.com)
 
 
 
