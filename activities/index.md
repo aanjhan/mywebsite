@@ -4,7 +4,7 @@ layout: default
 ---
 
 ### Professional & Social Activities
-
+- Student Travel Grant co-chair for ACM CCS 2018
 - Publicity co-chair for CANS 2017
 - Program Committee member for RFIDSec 2016
 - Shadow PC member for AsiaCCS 2017
