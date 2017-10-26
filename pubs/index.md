@@ -10,7 +10,7 @@ The following are the list of papers (sorted in reverse chronological order) tha
 ### 2017
 - **On the Security of Carrier Phase-based Ranging** <a href="assets/phase_ranging.pdf" class="label label-primary">Paper</a> <a href="assets/phase_ranging.bib" class="label label-default">Bibtex</a><br/> 
 Hildur Ólafsdóttir, *Aanjhan Ranganathan*, Srdjan Capkun<br/>
-In Proceedings of Cryptographic Hardware and Embedded Systems (**CHES 2017**) (*to appear*)
+In Proceedings of Cryptographic Hardware and Embedded Systems (**CHES 2017**)
 
 - **Are We Really Close? Verifying Proximity in Wireless Systems** <a href="assets/ieeemag_secureranging.pdf" class="label label-primary">Draft version</a><br/> 
 *Aanjhan Ranganathan*, Srdjan Capkun<br/>
