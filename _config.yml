@@ -3,7 +3,10 @@ description: ""
 
 url: "https://aanjhan.com"
 destination: _site
-paginate: 10
+#paginate: 10
 
 markdown: rdiscount
 permalink: pretty
+
+# Gems
+#gems: [jekyll-paginate]
