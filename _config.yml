@@ -5,7 +5,7 @@ url: "https://aanjhan.com"
 destination: _site
 #paginate: 10
 
-markdown: rdiscount
+markdown: kramdown
 permalink: pretty
 
 # Gems

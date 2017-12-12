@@ -3,7 +3,7 @@ title: Publications
 layout: default
 ---
 
-##{{page.title}}
+## Publications
 
 The following are the list of papers (sorted in reverse chronological order) that I have (co)-authored.
 
