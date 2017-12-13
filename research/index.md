@@ -7,7 +7,6 @@ layout: default
 
 I am currently involved in the following research themes (projects).
 
-</br>
 #### SPREE - Spoofing Resistant GPS Reciever
 
 Global Navigations Satellite Systems (GNSS) such as GPS are critical to a large set of applications ranging from personal navigation to modern communication and networking systems. In addition to positioning and navigation, GPS is used today in many safety- and security-critical systems such as banking and finance (precision time-stamping of transactions), harbour ports (automate container movements within the harbour), law enforcement (parolee surveillance and tracking), smart grids (time-stamped load balancing) and communication systems (time synchronisation and hand-offs). With the advent of self-driving cars, unmanned aerial vehicles and the Internet of Things, the number of applications that rely on GNSS is only bound to increase. It has already been widely demonstrated that modern GNSS systems including GPS are vulnerable to signal spoofing and replay attacks. Many researchers have shown that it is possible to change the course of a ship, force a drone to land in an hostile area, cause large-scale power-grid black outs and disrupt communication systems by simply spoofing GPS signals. 
@@ -16,7 +15,6 @@ SPREE is the first commercially off the shelf, single-antenna, receiver capable 
 
 **Project Website**: [https://www.spree-gnss.ch](https://www.spree-gnss.ch)
 
-</br>
 
 #### Designing a wide area secure positioning system
 

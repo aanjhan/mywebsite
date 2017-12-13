@@ -1,16 +1,17 @@
 ---
-title: CS7780/CS6700
-layout: default
+title: CS7780/CS6710
+layout: fullpage
 ---
 
 ## (CS7780) Special Topics on Networks: Wireless Security
 ### <span style="color:grey">Spring 2018</span>
-This course is also cross listed as **CS 6710 - Wireless Networks** for students of the *BSCS program with concentration in Cyber Operations*. 
+
+<span style="color:red">This course is also cross listed as **CS 6710 - Wireless Networks** for students of the *BSCS program with concentration in Cyber Operations*. </span>
 
 ### Logistics
 **Time and Location:** Tuesdays and Fridays from *1:35 - 3:15 pm* in Forsyth Building 236
 
-**Piazza:** All course related assignment submissions and interactions will take place over Piazza. [Piazza link here](https://piazza.com/northeastern/spring2018/cs7780) (*Note*: We will use the same Piazza page for both CS7780 and CS6710)
+**Piazza:** All course related assignment submissions and interactions will take place over [Piazza](https://piazza.com/northeastern/spring2018/cs7780) (*Note*: We will use the same Piazza class for both CS7780 and CS6710)
 
 **Office hours**: Fridays immediately after the course until 16:00  
 
@@ -46,7 +47,7 @@ There won't be any single text book for this course. Every lecture will contain 
 The grading scheme depends on the course you are enrolled in.
 
 
-#### <span class="label label-danger">CS6700</span>
+#### <span class="label label-danger">CS6710</span>
 
 | Assignments                             | 25% |
 | Midterm Exam (tentatively on 2nd March) | 25% |
@@ -71,21 +72,21 @@ The grading scheme depends on the course you are enrolled in.
 | 09th Jan | Introduction, Course logistics              |          |                        |
 | 12th Jan | Wireless Security Basics                    |          |                        |
 | 16th Jan | Wireless Security Basics                    |          |                        |
-| 19th Jan | Eavesdropping, Jamming, Signal Manipulation |          | <span class="label label-danger">CS6700</span> Assignment #1 assigned |
+| 19th Jan | Eavesdropping, Jamming, Signal Manipulation |          | <span class="label label-danger">CS6710</span> Assignment #1 assigned |
 | 23rd Jan | Related Paper discussion                    |          |                        |
-| 26th Jan | GNSS                                        |          | <span class="label label-danger">CS6700</span> Assignment #1 due      |
+| 26th Jan | GNSS                                        |          | <span class="label label-danger">CS6710</span> Assignment #1 due      |
 | 30th Jan | Related Paper discussion                    |          | <span class="label label-success">CS7780</span> Project Proposal due   |
-| 2nd Feb  | Project Proposal pitches                    |          | <span class="label label-success">CS7780</span>   |
+| 2nd Feb  | <span class="label label-success">CS7780</span> Project Proposal pitches                    |          |   |
 | 6th Feb  | Secure Proximity Verification               |          |                        |
-| 9th Feb  | Related Paper discussion                    |          | <span class="label label-danger">CS6700</span> Assignment #2 assigned |
+| 9th Feb  | Related Paper discussion                    |          | <span class="label label-danger">CS6710</span> Assignment #2 assigned |
 | 13th Feb |                                             |          |                        |
-| 16th Feb | Snow storm reserve day                      |          | <span class="label label-danger">CS6700</span> Assignment #2 due      |
+| 16th Feb | Snow storm reserve day                      |          | <span class="label label-danger">CS6710</span> Assignment #2 due      |
 | 20th Feb |                                             |          |                        |
 | 23rd Feb |                                             |          |                        |
-| 27th Feb | Intermediate Project Presentations          |          | <span class="label label-success">CS7780</span>    |
-| 2nd Mar  | Mid term exams (CS 6700)                    |          | <span class="label label-danger">CS6700</span>    |
-| 6th Mar  | Spring Break                                |          |                        |
-| 9th Mar  | Spring Break                                |          |                        |
+| 27th Feb | <span class="label label-success">CS7780</span> **Intermediate Project Presentations**          |          |     |
+| 2nd Mar  | <span class="label label-danger">CS6710</span> **Mid term exams**                     |          |    |
+| 6th Mar  | **Spring Break**                                |          |                        |
+| 9th Mar  | **Spring Break**                                |          |                        |
 | 13th Mar |                                             |          |                        |
 | 16th Mar |                                             |          |                        |
 | 20th Mar |                                             |          |                        |
@@ -97,10 +98,10 @@ The grading scheme depends on the course you are enrolled in.
 | 10th Apr |                                             |          |                        |
 | 13th Apr |                                             |          |                        |
 | 17th Apr |                                             |          |                        |
-| 20th Apr | Final Exams (CS 6700)                       |          |                        |
-| 24th Apr | Project Presentations                       |          | Optional for CS6700    |
-| 27th Apr | Project Presentations                       |          | Optional for CS6700    |
-{: .table }
+| 20th Apr | <span class="label label-danger">CS6710</span> **Final Exams**                      |          |                        |
+| 24th Apr | <span class="label label-success">CS7780</span> **Final Project Presentations**                       |          |     |
+| 27th Apr | <span class="label label-success">CS7780</span> **Final Project Presentations**                       |          |     |
+
 
 #### Acknowledgements
 This course is largely adopted from similar courses offered at ETH Zurich (Prof. Srdjan Capkun), CMU (Prof. Patrick Tague) and EPFL (Prof. Jean Pierre Hubaux).
