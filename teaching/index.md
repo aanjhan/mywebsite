@@ -2,8 +2,8 @@
 title: Teaching and Projects Supervised
 layout: default
 ---
-#### Courses at Northeastern (2018-)
-Spring 2018 - Special topics in Networks: Wireless Security [CS7780](teaching/courses/spring18/index.html)
+#### Courses at Northeastern (2018-present)
+**Spring 2018** - Special topics in Networks: Wireless Security <!--[CS7780](teaching/courses/spring18/index.html)-->
 
 #### Courses at ETH and EPFL (2010-2017)
 

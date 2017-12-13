@@ -7,10 +7,12 @@ layout: default
 ### <span style="color:grey">Spring 2018</span>
 This course is also cross listed as **CS 6710 - Wireless Networks** for students of the *BSCS program with concentration in Cyber Operations*. 
 
-### Time and Location
-Tuesdays and Fridays from **1:35 - 3:15 pm** in Forsyth Building 236
+### Logistics
+**Time and Location:** Tuesdays and Fridays from *1:35 - 3:15 pm* in Forsyth Building 236
 
-*Office hours*: Fridays immediately after the course until 16:00  
+**Piazza:** All course related assignment submissions and interactions will take place over Piazza. [Piazza link here](https://piazza.com/northeastern/spring2018/cs7780) (*Note*: We will use the same Piazza page for both CS7780 and CS6710)
+
+**Office hours**: Fridays immediately after the course until 16:00  
 
 ### Course Description
 Recent years have seen massive deployment of wireless devices and technologies around us. They are deployed in a wide variety of systems such as telephony, navigation, sensor networks, critical infrastructures etc. With the advent of the Internet of Things and autonomous cyber-physical systems, the proliferation of these wireless systems are only bound to increase. The broadcast nature of wireless technologies and the increased availabiloty of software defined radios have not only improved quality of life but pose significant security challenges. In particular, the course would cover the following topics:
@@ -62,6 +64,8 @@ The grading scheme depends on the course you are enrolled in.
 
 ### Schedule
 
+**Note:** The schedule is tentative and can change due to weather, travel, syllabus coverage speed etc.
+
 | Date     | Topic                                       | Readings | Notes                  |
 |----------|---------------------------------------------|----------|------------------------|
 | 09th Jan | Introduction, Course logistics              |          |                        |
@@ -73,13 +77,13 @@ The grading scheme depends on the course you are enrolled in.
 | 30th Jan | Related Paper discussion                    |          | <span class="label label-success">CS7780</span> Project Proposal due   |
 | 2nd Feb  | Project Proposal pitches                    |          | <span class="label label-success">CS7780</span>   |
 | 6th Feb  | Secure Proximity Verification               |          |                        |
-| 9th Feb  | Related Paper discussion                    |          | Assignment #2 assigned |
+| 9th Feb  | Related Paper discussion                    |          | <span class="label label-danger">CS6700</span> Assignment #2 assigned |
 | 13th Feb |                                             |          |                        |
-| 16th Feb | Snow storm reserve day                      |          | Assignment #2 due      |
+| 16th Feb | Snow storm reserve day                      |          | <span class="label label-danger">CS6700</span> Assignment #2 due      |
 | 20th Feb |                                             |          |                        |
 | 23rd Feb |                                             |          |                        |
-| 27th Feb | Intermediate Project Presentations          |          | Optional for CS6700    |
-| 2nd Mar  | Mid term exams (CS 6700)                    |          | Optional for CS7780    |
+| 27th Feb | Intermediate Project Presentations          |          | <span class="label label-success">CS7780</span>    |
+| 2nd Mar  | Mid term exams (CS 6700)                    |          | <span class="label label-danger">CS6700</span>    |
 | 6th Mar  | Spring Break                                |          |                        |
 | 9th Mar  | Spring Break                                |          |                        |
 | 13th Mar |                                             |          |                        |
