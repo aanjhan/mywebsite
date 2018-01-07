@@ -11,7 +11,7 @@ layout: fullpage
 ### Logistics
 **Time and Location:** Tuesdays and Fridays from *1:35 - 3:15 pm* in Forsyth Building 236
 
-**Piazza:** All course related assignment submissions and interactions will take place over [Piazza](https://piazza.com/northeastern/spring2018/cs7780) (*Note*: We will use the same Piazza class for both CS7780 and CS6710)
+**Piazza:** All course related assignment submissions and interactions will take place over [Piazza](https://piazza.com/northeastern/spring2018/cs7780/home) (*Note*: We will use the same Piazza class for both CS7780 and CS6710). [Enroll here](https://piazza.com/northeastern/spring2018/cs7780/)!
 
 **Office hours**: Fridays immediately after the course until 16:00  
 
@@ -44,24 +44,13 @@ There won't be any single text book for this course. Every lecture will contain 
 
 ### Grading
 
-The grading scheme depends on the course you are enrolled in.
-
-
-#### <span class="label label-danger">CS6710</span>
-
+| Paper summaries / Discussion            | 25% |
 | Assignments                             | 25% |
-| Midterm Exam (tentatively on 2nd March) | 25% |
-| Final Exam (tentatively on 20th April)  | 50% |
-
-
-#### <span class="label label-success">CS7780</span>
-
-| Paper summaries                         | 20% |
-| Class participation                     | 20% |
 | Project pitch                           | 10% |
 | Project report                          | 25% |
 | Project presentation                    | 25% |
 
+The assignments, paper summaries and the project are to be executed in small teams of 2.
 
 ### Schedule
 
@@ -72,35 +61,35 @@ The grading scheme depends on the course you are enrolled in.
 | 09th Jan | Introduction, Course logistics              |          |                        |
 | 12th Jan | Wireless Security Basics                    |          |                        |
 | 16th Jan | Wireless Security Basics                    |          |                        |
-| 19th Jan | Eavesdropping, Jamming, Signal Manipulation |          | <span class="label label-danger">CS6710</span> Assignment #1 assigned |
-| 23rd Jan | Related Paper discussion                    |          |                        |
-| 26th Jan | GNSS                                        |          | <span class="label label-danger">CS6710</span> Assignment #1 due      |
-| 30th Jan | Related Paper discussion                    |          | <span class="label label-success">CS7780</span> Project Proposal due   |
-| 2nd Feb  | <span class="label label-success">CS7780</span> Project Proposal pitches                    |          |   |
+| 19th Jan | Eavesdropping, Jamming, Signal Manipulation |          |                        |
+| 23rd Jan | Related Papers discussion                   |          |                        |
+| 26th Jan | GNSS                                        |          |                        |
+| 30th Jan | Related Paper discussion                    |          | Project Proposal due   |
+| 2nd Feb  | **Project Proposal pitches**                |          |                        |
 | 6th Feb  | Secure Proximity Verification               |          |                        |
-| 9th Feb  | Related Paper discussion                    |          | <span class="label label-danger">CS6710</span> Assignment #2 assigned |
-| 13th Feb |                                             |          |                        |
-| 16th Feb | Snow storm reserve day                      |          | <span class="label label-danger">CS6710</span> Assignment #2 due      |
-| 20th Feb |                                             |          |                        |
-| 23rd Feb |                                             |          |                        |
-| 27th Feb | <span class="label label-success">CS7780</span> **Intermediate Project Presentations**          |          |     |
-| 2nd Mar  | <span class="label label-danger">CS6710</span> **Mid term exams**                     |          |    |
-| 6th Mar  | **Spring Break**                                |          |                        |
-| 9th Mar  | **Spring Break**                                |          |                        |
-| 13th Mar |                                             |          |                        |
-| 16th Mar |                                             |          |                        |
-| 20th Mar |                                             |          |                        |
-| 23rd Mar |                                             |          |                        |
-| 27th Mar |                                             |          |                        |
-| 30th Mar |                                             |          |                        |
-| 3rd Apr  |                                             |          |                        |
-| 6th Apr  |                                             |          |                        |
-| 10th Apr |                                             |          |                        |
-| 13th Apr |                                             |          |                        |
-| 17th Apr |                                             |          |                        |
-| 20th Apr | <span class="label label-danger">CS6710</span> **Final Exams**                      |          |                        |
-| 24th Apr | <span class="label label-success">CS7780</span> **Final Project Presentations**                       |          |     |
-| 27th Apr | <span class="label label-success">CS7780</span> **Final Project Presentations**                       |          |     |
+| 9th Feb  | Related Paper discussion                    |          |                        |
+| 13th Feb | Secure Localization                         |          |                        |
+| 16th Feb | Related Paper discussion                    |          |                        |
+| 20th Feb | Channel based Key Establishment             |          |                        |
+| 23rd Feb | Related Paper discussion                    |          |                        |
+| 27th Feb | **Intermediate Project Presentations**      |          |                        |
+| 2nd Mar  | **Intermediate Project Presentations**      |          |                        |
+| 6th Mar  | **Spring Break**                            |          |                        |
+| 9th Mar  | **Spring Break**                            |          |                        |
+| 13th Mar | Broadcast authentication techniques         |          |                        |
+| 16th Mar | 802.11 security                             |          |                        |
+| 20th Mar | Related Paper Discussion                    |          |                        |
+| 23rd Mar | GSM/UMTS/LTE security                       |          |                        |
+| 27th Mar | Related Paper Discussion                   |          |                        |
+| 30th Mar | Low Power Wide Area Network (LPWAN)        |          |                        |
+| 3rd Apr  | Related Paper discussion                   |          |                        |
+| 6th Apr  | Guest Lecture (TBD)                        |          |                        |
+| 10th Apr | Device Pairing                              |          |                        |
+| 13th Apr | Related paper discussion                    |          |                        |
+| 17th Apr | Wireless signal fingerprinting                                            |          |                        |
+| 20th Apr | Related paper discussion        |          |                        |
+| 24th Apr | **Final Project Presentations**             |          |                        |
+| 27th Apr | **Final Project Presentations**             |          |                        |
 
 
 #### Acknowledgements
