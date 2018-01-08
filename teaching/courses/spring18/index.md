@@ -44,8 +44,8 @@ There won't be any single text book for this course. Every lecture will contain 
 
 ### Grading
 
-| Paper summaries / Discussion            | 25% |
-| Assignments                             | 25% |
+| Paper summaries / Discussion            | 37.5% |
+| Assignments                             | 12.5% |
 | Project pitch                           | 10% |
 | Project report                          | 25% |
 | Project presentation                    | 25% |
