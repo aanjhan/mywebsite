@@ -47,8 +47,8 @@ There won't be any single text book for this course. Every lecture will contain 
 | Paper summaries / Discussion            | 37.5% |
 | Assignments                             | 12.5% |
 | Project pitch                           | 10% |
-| Project report                          | 25% |
-| Project presentation                    | 25% |
+| Project report                          | 20% |
+| Project presentation                    | 20% |
 
 The assignments, paper summaries and the project are to be executed in small teams of 2.
 
@@ -60,11 +60,11 @@ The assignments, paper summaries and the project are to be executed in small tea
 |----------|---------------------------------------------|----------|------------------------|
 | 09th Jan | Introduction, Course logistics              |          |                        |
 | 12th Jan | Wireless Security Basics                    |          |                        |
-| 16th Jan | Wireless Security Basics                    |          |                        |
-| 19th Jan | Eavesdropping, Jamming, Signal Manipulation |          |                        |
-| 23rd Jan | Related Papers discussion                   |          |                        |
-| 26th Jan | GNSS                                        |          |                        |
-| 30th Jan | Related Paper discussion                    |          | Project Proposal due   |
+| 16th Jan | Jamming                                     |          |                        |
+| 19th Jan | GNSS Security                               |          | Assignment 1 available |
+| 23rd Jan | Project ideas / GNSS Security               |          |                        |
+| 26th Jan | Jamming papers discussion                   |          |                        |
+| 30th Jan | GNSS papers discussion                      |          |                        |
 | 2nd Feb  | **Project Proposal pitches**                |          |                        |
 | 6th Feb  | Secure Proximity Verification               |          |                        |
 | 9th Feb  | Related Paper discussion                    |          |                        |
@@ -86,7 +86,7 @@ The assignments, paper summaries and the project are to be executed in small tea
 | 6th Apr  | Guest Lecture (TBD)                        |          |                        |
 | 10th Apr | Device Pairing                              |          |                        |
 | 13th Apr | Related paper discussion                    |          |                        |
-| 17th Apr | Wireless signal fingerprinting                                            |          |                        |
+| 17th Apr | Wireless signal fingerprinting              |          |                        |
 | 20th Apr | Related paper discussion        |          |                        |
 | 24th Apr | **Final Project Presentations**             |          |                        |
 | 27th Apr | **Final Project Presentations**             |          |                        |
