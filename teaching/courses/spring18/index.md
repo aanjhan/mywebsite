@@ -65,8 +65,8 @@ The assignments, paper summaries and the project are to be executed in small tea
 | 23rd Jan | Project ideas / GNSS Security               |          |                        |
 | 26th Jan | Jamming papers discussion                   |          |                        |
 | 30th Jan | GNSS papers discussion                      |          |                        |
-| 2nd Feb  | **Project Proposal pitches**                |          |                        |
-| 6th Feb  | Secure Proximity Verification               |          |                        |
+| 2nd Feb  | Secure Proximity Verification                |          |                        |
+| 6th Feb  | **Project Proposal pitches**               |          |                        |
 | 9th Feb  | Related Paper discussion                    |          |                        |
 | 13th Feb | Secure Localization                         |          |                        |
 | 16th Feb | Related Paper discussion                    |          |                        |
