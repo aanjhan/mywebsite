@@ -70,8 +70,8 @@ The assignments, paper summaries and the project are to be executed in small tea
 | 9th Feb  | Related Paper discussion                    |          |                        |
 | 13th Feb | Secure Localization                         |          |                        |
 | 16th Feb | Related Paper discussion                    |          |                        |
-| 20th Feb | Channel based Key Establishment             |          |                        |
-| 23rd Feb | Related Paper discussion                    |          |                        |
+| 20th Feb | **No class**             |          |                        |
+| 23rd Feb | Channel based Key establishment                    |          |                        |
 | 27th Feb | **Intermediate Project Presentations**      |          |                        |
 | 2nd Mar  | **Intermediate Project Presentations**      |          |                        |
 | 6th Mar  | **Spring Break**                            |          |                        |
