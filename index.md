@@ -12,11 +12,10 @@ Aanjhan is an Assistant Professor in the [College of Computer and Information Sc
 
 
 ### Recent News
-* June 2017: Our article *Are We Really Close? Verifying Proximity in Wireless Systems* has appeared in the June/July edition of the IEEE Security & Privacy Magazine .
-* June 2017: Our paper *On the Security of Carrier Phase-based Ranging* was accepted to **CHES 2017**.
-* Feb 2017: Our paper on *Investigation of Multi-device Location Spoofing Attacks on Air Traffic Control* was awarded the <a href="https://zisc.ethz.ch/2017/03/14/zisc-researchers-awarded-by-swiss-department-of-defense/">**Cyber Award**</a> for outstanding contribution in cyberspace and information research by the Federal Department of Defense, Switzerland.   
-* Nov 2016: My PhD thesis has been awarded the <a href="https://zisc.ethz.ch/2017/01/26/aanjhan-ranganathan-was-awarded-the-eth-medal/">**ETH medal for outstanding dissertation**</a>.
-* Sep 2016: <a href="http://www.spree-gnss.ch">SPREE</a> (our home built spoofing resilient GPS receiver) won the regional prize at the <a href="http://www.esnc.eu/index.php?anzeige=switzerland16.html">European Satellite Navigation Competition (ESNC)</a> organized by the ESA.
+* Feb 2018: Invited to serve as co-chair of the Poster/Demo session at ACM WiSec 2018
+* Feb 2018: Invited to serve on the technical program committee of ACM WiSec 2018
+* Jan 2018: Started as tenure-track assistant professor at Northeastern University, Boston, USA
+* Dec 2017: Invited to serve as student travel grant co-chair for ACM CCS 2018
 
 [System Security group at ETH Zurich]:http://www.syssec.ethz.ch
 [EPFL]:http://epfl.ch
