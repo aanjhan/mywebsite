@@ -3,7 +3,8 @@ title: Teaching and Projects Supervised
 layout: default
 ---
 #### Courses at Northeastern (2018-present)
-**Spring 2018** - Special topics in Networks: Wireless Security (CS7780) / Wireless Networks (CS6710)  [webpage](teaching/courses/spring18/index.html)
+- **Fall 2018** - Fundamentals of Networking (CS 5700) (*more updates coming soon*)
+- **Spring 2018** - Special topics in Networks: Wireless Security (CS7780) / Wireless Networks (CS6710)  [webpage](teaching/courses/spring18/index.html)
 
 #### Courses at ETH and EPFL (2010-2017)
 
@@ -24,6 +25,8 @@ layout: default
 - TA, Hardware systems modeling II (SS 2010), Alain Vachoux.
 
 #### Projects Supervised
+- *Security of INS-augmented GNSS Systems*, Bruno Klopott, Semester Thesis, AS 2017
+- *Enabling spoofing resistance on commercial GPS Receivers*, Dominic Brutsch, AS 2016
 - *Improving Ultra-Wide Band Based Secure Ranging Systems*, Jaskirat Singh, Semester Thesis, SS 2016.
 - *Locating tags using Unmanned Aerial Vehicles*, Carl Olsson, Semester Thesis, SS 2015.
 - *Detection of Spoofing Attacks on Wireless Multilateration Systems*, Patrick Leu (in co-operation with Armasuisse), Master Thesis, SS 2015.
