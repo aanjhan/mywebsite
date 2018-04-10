@@ -7,6 +7,10 @@ layout: default
 
 The following are the list of papers (sorted in reverse chronological order) that I have (co)-authored.
 
+[17] **I Send, Therefore I Leak: Information Leakage in Low-Power Wide Area Networks**<br/> 
+Patrick Leu, Ivan Puddu, *Aanjhan Ranganathan*, Srdjan Capkun<br/>
+In Proceedings of ACM Conference on Security and Privacy in Wireless and Mobile
+Networks (**WiSec 2018**) (*conditionally accepted*)
 
 [16] **On the Security of Carrier Phase-based Ranging** <a href="assets/phase_ranging.pdf" class="label label-primary">Paper</a> <a href="assets/phase_ranging.bib" class="label label-default">Bibtex</a><br/> 
 Hildur Ólafsdóttir, *Aanjhan Ranganathan*, Srdjan Capkun<br/>
@@ -14,7 +18,7 @@ In Proceedings of Cryptographic Hardware and Embedded Systems (**CHES 2017**)
 
 [15] **Are We Really Close? Verifying Proximity in Wireless Systems** <a href="assets/ieeemag_secureranging.pdf" class="label label-primary">Draft version</a><br/> 
 *Aanjhan Ranganathan*, Srdjan Capkun<br/>
-IEEE Security & Privacy Magazine (<a href="http://ieeexplore.ieee.org/document/7945214/">June-July edition</a>)
+IEEE Security & Privacy Magazine (<a href="http://ieeexplore.ieee.org/document/7945214/">June-July 2017 edition</a>)
 
 [14] **Physical-layer Techniques for Secure Proximity Verification & Localization**
 <a href="assets/thesis_abstract.pdf" class="label label-primary">Abstract</a> <a href="assets/aanjhan_thesis.pdf" class="label label-primary">Full-text</a> <a href="assets/aanjhan_thesis.bib" class="label label-default">Bibtex</a><br/>
