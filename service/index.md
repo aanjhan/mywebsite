@@ -4,9 +4,11 @@ layout: default
 ---
 
 ### Professional & Social Activities
+- Technical Program Committee Member for NDSS 2019
+- Technical Program Committee Member for the 2nd ACM Workshop on the Internet of Safe Things 2018
 - Technical Program Committee member for Vehicular Technologies Conference 2018 (Fall)
-- Poster/Demo co-chair for ACM WiSec 2018
 - Technical Program Committee member for ACM WiSec 2018
+- Poster/Demo co-chair for WiSec 2018
 - Student Travel Grant co-chair for ACM CCS 2018
 - Publicity co-chair for CANS 2017
 - Program Committee member for RFIDSec 2016
