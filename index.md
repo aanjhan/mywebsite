@@ -12,12 +12,12 @@ Aanjhan is an Assistant Professor in the [College of Computer and Information Sc
 
 
 ### Recent News
+* Jun 2018: Invited to serve on the program committee of NDSS 2019
 * May 2018: Invited talk at armasuisse (Swiss Department of Defense, Research and Technology wing) in Thun, Switzerland
 * Apr 2018: Paper on information leakage in low-power wide area networks (conditionally) accepted at ACM WiSec 2018!
 * Feb 2018: Invited to serve as co-chair of the Poster/Demo session at ACM WiSec 2018
 * Feb 2018: Invited to serve on the technical program committee of ACM WiSec 2018
 * Jan 2018: Started as tenure-track assistant professor at Northeastern University, Boston, USA
-* Dec 2017: Invited to serve as student travel grant co-chair for ACM CCS 2018
 
 [System Security group at ETH Zurich]:http://www.syssec.ethz.ch
 [EPFL]:http://epfl.ch
