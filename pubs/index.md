@@ -7,10 +7,10 @@ layout: default
 
 The following are the list of papers (sorted in reverse chronological order) that I have (co)-authored.
 
-[17] **I Send, Therefore I Leak: Information Leakage in Low-Power Wide Area Networks**<br/> 
+[17] **I Send, Therefore I Leak: Information Leakage in Low-Power Wide Area Networks** <a href="assets/leu_lorawisec18.pdf" class="label label-primary">Paper</a><br/> 
 Patrick Leu, Ivan Puddu, *Aanjhan Ranganathan*, Srdjan Capkun<br/>
 In Proceedings of ACM Conference on Security and Privacy in Wireless and Mobile
-Networks (**WiSec 2018**) (_to appear_)
+Networks (**WiSec 2018**) 
 
 [16] **On the Security of Carrier Phase-based Ranging** <a href="assets/phase_ranging.pdf" class="label label-primary">Paper</a> <a href="assets/phase_ranging.bib" class="label label-default">Bibtex</a><br/> 
 Hildur Ólafsdóttir, *Aanjhan Ranganathan*, Srdjan Capkun<br/>
