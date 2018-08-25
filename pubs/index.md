@@ -7,6 +7,10 @@ layout: default
 
 The following are the list of papers (sorted in reverse chronological order) that I have (co)-authored.
 
+[18] **Security of GPS/INS based On-road Location Tracking Systems**<a href="assets/gpsins_sashank.pdf" class="label label-primary">Paper</a><br/>
+Sashank Narain, *Aanjhan Ranganathan*, Guevara Noubir<br/>
+arXiv Pre-print 2018
+
 [17] **I Send, Therefore I Leak: Information Leakage in Low-Power Wide Area Networks** <a href="assets/leu_lorawisec18.pdf" class="label label-primary">Paper</a><br/> 
 Patrick Leu, Ivan Puddu, *Aanjhan Ranganathan*, Srdjan Capkun<br/>
 In Proceedings of ACM Conference on Security and Privacy in Wireless and Mobile
