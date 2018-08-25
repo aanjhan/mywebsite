@@ -9,7 +9,7 @@ The following are the list of papers (sorted in reverse chronological order) tha
 
 [18] **Security of GPS/INS based On-road Location Tracking Systems** <a href="assets/gpsins_sashank.pdf" class="label label-primary">Paper</a><br/>
 Sashank Narain, *Aanjhan Ranganathan*, Guevara Noubir<br/>
-arXiv Pre-print 2018
+arXiv Pre-print 2018 (<a href="https://arxiv.org/abs/1808.03515">arXiv:1808.03515</a>)
 
 [17] **I Send, Therefore I Leak: Information Leakage in Low-Power Wide Area Networks** <a href="assets/leu_lorawisec18.pdf" class="label label-primary">Paper</a><br/> 
 Patrick Leu, Ivan Puddu, *Aanjhan Ranganathan*, Srdjan Capkun<br/>
