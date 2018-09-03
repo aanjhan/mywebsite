@@ -15,16 +15,11 @@ layout: fullpage
 
 **Office hours**: Thursdays from 2:30 to 3:30 pm in ISEC 608  
 
+**TA**: Praveen Haldoderi Venkatesha Murthy  <haldodderivenkates.p@husky.neu.edu>
+
 ### Course Description
 
-
-
-
-**Course Objective**: 
-
-### Prerequisites
-
-
+Computer networking is a rapidly advancing field, and the Internet is already an integral part of society. It is therefore important for computer scientists and computer engineers to be familiar with the fundamentals of computer networking. This course will focus on the architecture, algorithms, and protocols of the Internet. Topics include local area networking, routing, congestion control, network security, and applications such as peer-to-peer and content distribution networks. This course will be systems oriented, and students will work on hands-on projects to learn how to build and understand Internet applications.
 
 ### Reading Materials
 The course will be based on the following two textbooks
@@ -32,42 +27,54 @@ The course will be based on the following two textbooks
 - Computer Networks: A Systems Approach (Peterson and Davie, 5th Edition)
 - Distributed Systems: Concepts and Design (Coulouris etal., 5th Edition)
 
+### Projects
+There will be five programming projects throughout the semester (_three for undergraduates_). **Programming projects are due at 11:59:59pm on the specified date**. **No late submissions.** We will use a turn-in script to create a compressed archive of the project files, timestamp them, and submit them for grading. These projects require significant design and coding, hence students are recommended to start early! 
+
+You will form groups of two people (possibly three, if necessary) to do the projects. You may switch groups between programming projects. Groups must be either all undergraduates or all graduate students.
+
+**Important Note:** If you refered or obtained a key idea from a book, person or any online source, then the source of the idea (it can be code as well) must be cited. I am _not_ against looking up additional sources to complete the projects but I will not tolerate academic dishonesty. If I think some part of the project has been blindly copied without understanding, I reserve the right to cross-examine the submitted project.
+
 ### Grading
+
+| **Projects:**         | 4%, 8%, 12%, 16%, 20% |
+| **Midterm and Final:** | 15% and 20%           |
+| **Participation:**     | 5%                    |
+
 
 
 ### Schedule
 
 **Note:** The schedule is tentative and can change due to weather, travel, syllabus coverage speed etc.
 
-| Date   | Topic                   | Readings | Notes |
-|--------|-------------------------|----------|-------|
-| 6-Sep  |                         |          |       |
-| 10-Sep |                         |          |       |
-| 13-Sep |                         |          |       |
-| 17-Sep |                         |          |       |
-| 20-Sep |                         |          |       |
-| 24-Sep |                         |          |       |
-| 27-Sep |                         |          |       |
-| 1-Oct  |                         |          |       |
-| 4-Oct  |                         |          |       |
-| 8-Oct  | No class - Columbus Day |          |       |
-| 11-Oct |                         |          |       |
-| 15-Oct |                         |          |       |
-| 18-Oct |                         |          |       |
-| 22-Oct |                         |          |       |
-| 25-Oct |                         |          |       |
-| 29-Oct |                         |          |       |
-| 1-Nov  |                         |          |       |
-| 5-Nov  |                         |          |       |
-| 8-Nov  |                         |          |       |
-| 12-Nov | Veterans Day (No class) |          |       |
-| 15-Nov |                         |          |       |
-| 19-Nov |                         |          |       |
-| 22-Nov | Thanksgiving (No class) |          |       |
-| 26-Nov |                         |          |       |
-| 29-Nov |                         |          |       |
-| 3-Dec  | Recap / Q&A             |          |       |
-| 6-Dec  | Final Exam              |          |       |
+| Date   | Topic                                       | Readings | Notes                               |
+|--------|---------------------------------------------|----------|-------------------------------------|
+| 6-Sep  | Fast Track Intro to Networking              |          | Guest Lecture: Prof. Guevara Noubir |
+| 10-Sep | Course Logistics, History, Architecture     |          |                                     |
+| 13-Sep | Physical Layer                              |          |                                     |
+| 17-Sep | Data Link Layer                             |          | Project 1 out                       |
+| 20-Sep | Bridging, Network Layer                     |          |                                     |
+| 24-Sep | Network Layer (contd…), Intradomain routing |          |                                     |
+| 27-Sep | Interdomain routing                         |          |                                     |
+| 1-Oct  | Transport layer                             |          | Project 1 due; Project 2 out        |
+| 4-Oct  | Congestion control                          |          |                                     |
+| 8-Oct  | **Columbus Day (No class)**                 |          |                                     |
+| 11-Oct | DNS, NAT                                    |          |                                     |
+| 15-Oct | Content Delivery Networks                   |          | Project 2 due; Project 3 out        |
+| 18-Oct | **Mid term Exam**                           |          |                                     |
+| 22-Oct | IXPs                                        |          |                                     |
+| 25-Oct | P2P, Bittorrent                             |          |                                     |
+| 29-Oct | Other Overlay Networks                      |          | Project 3 due; Project 4 out        |
+| 1-Nov  | TLS                                         |          |                                     |
+| 5-Nov  | Anonymity                                   |          |                                     |
+| 8-Nov  | Wireless networks (802.11)                  |          |                                     |
+| 12-Nov | **Veterans Day (No class)**                 |          | Project 4 due; Project 5 out        |
+| 15-Nov | Wireless networks (802.11) contd…           |          |                                     |
+| 19-Nov | Guest Lecture                               |          |                                     |
+| 22-Nov | **Thanksgiving (No class)**                 |          |                                     |
+| 26-Nov | Mobile Networks 2G, 3G and beyond           |          |                                     |
+| 29-Nov | Mobile Networks 2G, 3G and beyond contd…    |          | Project 5 due                       |
+| 3-Dec  | Recap / Q&A                                 |          |                                     |
+| 6-Dec  | **Final Exam**                              |          |                                     |
 
 #### Acknowledgements
 This course is largely adopted from previous courses given at Northeastern by Profs. David Choffnes, Christo Wilson, Cristina Nita-Rotaru, Guevara Noubir.

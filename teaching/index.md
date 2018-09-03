@@ -3,7 +3,7 @@ title: Teaching and Projects Supervised
 layout: default
 ---
 #### Courses at Northeastern (2018-present)
-- **Fall 2018** - Fundamentals of Networking (CS 5700) (*more updates coming soon*)
+- **Fall 2018** - Fundamentals of Networking (CS 5700) / Network Fundamentals (CS 4700) [webpage](teaching/courses/fall18/index.html)
 - **Spring 2018** - Special topics in Networks: Wireless Security (CS7780) / Wireless Networks (CS6710)  [webpage](teaching/courses/spring18/index.html)
 
 #### Courses at ETH and EPFL (2010-2017)
