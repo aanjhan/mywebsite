@@ -4,7 +4,7 @@ layout: fullpage
 ---
 
 ## (CS5700) Fundamentals of Computer Networks
-### <span style="color:grey">Spring 2018</span>
+### <span style="color:grey">Fall 2018</span>
 
 <span style="color:red">This course is also cross listed as **CS 4700 - Network Fundamentals** for undergraduate students.</span>
 
