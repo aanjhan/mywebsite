@@ -15,7 +15,7 @@ layout: fullpage
 
 **Office hours**: Thursdays from 2:30 to 3:30 pm in ISEC 608  
 
-**TA**: Praveen Haldoderi Venkatesha Murthy  <haldodderivenkates.p@husky.neu.edu>
+**TAs**: Praveen Haldoderi Venkatesha Murthy  <haldodderivenkates.p@husky.neu.edu>, Shlomi Yaakobovich <yaakobovich.a@husky.neu.edu>
 
 ### Course Description
 
