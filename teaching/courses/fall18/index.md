@@ -74,7 +74,7 @@ You will form groups of two people (possibly three, if necessary) to do the proj
 | 26-Nov | Mobile Networks 2G, 3G and beyond           |          |                                     |
 | 29-Nov | Mobile Networks 2G, 3G and beyond contd…    |          | Project 5 due                       |
 | 3-Dec  | Recap / Q&A                                 |          |                                     |
-| 6-Dec  | **Final Exam**                              |          |                                     |
+| 7-14 Dec | **Final Exam** (exact date announced by registrar) |          |                            |
 
 #### Acknowledgements
 This course is largely adopted from previous courses given at Northeastern by Profs. David Choffnes, Christo Wilson, Cristina Nita-Rotaru, Guevara Noubir.
