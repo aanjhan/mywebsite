@@ -51,8 +51,8 @@ You will form groups of two people (possibly three, if necessary) to do the proj
 | Date   | Topic                                       | Readings | Notes                               |
 |--------|---------------------------------------------|----------|-------------------------------------|
 | 6-Sep  | Fast Track Intro to Networking              |          | Guest Lecture: Prof. Guevara Noubir |
-| 10-Sep | Course Logistics, History, Architecture     |          |                                     |
-| 13-Sep | Physical Layer                              |          |                                     |
+| 10-Sep | Course Logistics, History      |          |                                     |
+| 13-Sep | Architecture, Physical Layer                              |          |                                     |
 | 17-Sep | Data Link Layer                             |          | Project 1 out                       |
 | 20-Sep | Bridging, Network Layer                     |          |                                     |
 | 24-Sep | Network Layer (contd…), Intradomain routing |          |                                     |
