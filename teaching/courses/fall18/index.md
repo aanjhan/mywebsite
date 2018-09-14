@@ -19,6 +19,8 @@ layout: fullpage
 
 **TA office hours**: Mondays 1:45-2:45pm, WVH 370 (alternative in case Monday is a holiday, Tuesdays 3-4 pm)
 
+**Contact Email**: <cs5700f18-staff@ccs.neu.edu>
+
 ### Course Description
 
 Computer networking is a rapidly advancing field, and the Internet is already an integral part of society. It is therefore important for computer scientists and computer engineers to be familiar with the fundamentals of computer networking. This course will focus on the architecture, algorithms, and protocols of the Internet. Topics include local area networking, routing, congestion control, network security, and applications such as peer-to-peer and content distribution networks. This course will be systems oriented, and students will work on hands-on projects to learn how to build and understand Internet applications.
