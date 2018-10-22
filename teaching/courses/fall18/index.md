@@ -62,14 +62,14 @@ You will form groups of two people (possibly three, if necessary) to do the proj
 | 1-Oct  | Transport layer                             |          | Project 1 due; Project 2 out        |
 | 4-Oct  | Congestion control                          |          |                                     |
 | 8-Oct  | **Columbus Day (No class)**                 |          |                                     |
-| 11-Oct | DNS, NAT                                    |          |                                     |
-| 15-Oct | Content Delivery Networks                   |          | Project 2 due; Project 3 out        |
+| 11-Oct | DNS                                     |          |                                     |
+| 15-Oct | NAT                   |          | Project 2 due; Project 3 out        |
 | 18-Oct | **Mid term Exam**                           |          |                                     |
-| 22-Oct | IXPs                                        |          |                                     |
-| 25-Oct | P2P, Bittorrent                             |          |                                     |
-| 29-Oct | Other Overlay Networks                      |          | Project 3 due; Project 4 out        |
+| 22-Oct | Content Delivery Networks                                        |          |                                     |
+| 25-Oct | IXP                             |          |                                     |
+| 29-Oct | P2P / Bitorrent                      |          | Project 3 due; Project 4 out        |
 | 1-Nov  | TLS                                         |          |                                     |
-| 5-Nov  | Anonymity                                   |          |                                     |
+| 5-Nov  | Anonymous Communications                                   |          |                                     |
 | 8-Nov  | Wireless networks (802.11)                  |          |                                     |
 | 12-Nov | **Veterans Day (No class)**                 |          | Project 4 due; Project 5 out        |
 | 15-Nov | Wireless networks (802.11) contd…           |          |                                     |
