@@ -53,8 +53,8 @@ You will form groups of two people (possibly three, if necessary) to do the proj
 | Date   | Topic                                       | Readings | Notes                               |
 |--------|---------------------------------------------|----------|-------------------------------------|
 | 6-Sep  | Fast Track Intro to Networking              |          | Guest Lecture: Prof. Guevara Noubir |
-| 10-Sep | Course Logistics, History      |          |                                     |
-| 13-Sep | Architecture, Physical Layer                              |          |                                     |
+| 10-Sep | Course Logistics, History                   |          |                                     |
+| 13-Sep | Architecture, Physical Layer                |          |                                     |
 | 17-Sep | Data Link Layer                             |          | Project 1 out                       |
 | 20-Sep | Bridging, Network Layer                     |          |                                     |
 | 24-Sep | Network Layer (contd…), Intradomain routing |          |                                     |
@@ -62,23 +62,23 @@ You will form groups of two people (possibly three, if necessary) to do the proj
 | 1-Oct  | Transport layer                             |          | Project 1 due; Project 2 out        |
 | 4-Oct  | Congestion control                          |          |                                     |
 | 8-Oct  | **Columbus Day (No class)**                 |          |                                     |
-| 11-Oct | DNS                                     |          |                                     |
-| 15-Oct | NAT                   |          | Project 2 due; Project 3 out        |
+| 11-Oct | DNS                                         |          |                                     |
+| 15-Oct | NAT                                         |          | Project 2 due; Project 3 out        |
 | 18-Oct | **Mid term Exam**                           |          |                                     |
-| 22-Oct | Content Delivery Networks                                        |          |                                     |
-| 25-Oct | IXP                             |          |                                     |
-| 29-Oct | P2P / Bitorrent                      |          | Project 3 due; Project 4 out        |
-| 1-Nov  | TLS                                         |          |                                     |
-| 5-Nov  | Anonymous Communications                                   |          |                                     |
-| 8-Nov  | Wireless networks (802.11)                  |          |                                     |
-| 12-Nov | **Veterans Day (No class)**                 |          | Project 4 due; Project 5 out        |
-| 15-Nov | Wireless networks (802.11) contd…           |          |                                     |
+| 22-Oct | Content Delivery Networks                   |          |                                     |
+| 25-Oct | IXP                                         |          |                                     |
+| 29-Oct | Cellular Networks                           |          | Project 3 due                       |
+| 1-Nov  | P2P / Bitorrent                             |          | Project 4 out                       |
+| 5-Nov  | Bitorrent contd...                          |          |                                     |
+| 8-Nov  | TLS                                         |          |                                     |
+| 12-Nov | **Veterans Day (No class)**                 |          |                                     |
+| 15-Nov | Anonymous Communications                    |          | Project 4 due; Project 5 out        |
 | 19-Nov | Guest Lecture                               |          |                                     |
 | 22-Nov | **Thanksgiving (No class)**                 |          |                                     |
-| 26-Nov | Mobile Networks 2G, 3G and beyond           |          |                                     |
-| 29-Nov | Mobile Networks 2G, 3G and beyond contd…    |          | Project 5 due                       |
-| 3-Dec  | Recap / Q&A                                 |          |                                     |
-| 10-Dec | **Final Exam**  |          |  3.30 - 5.30 pm                |
+| 26-Nov | Next generation networks                    |          |                                     |
+| 29-Nov | Next generation networks                    |          |                                     |
+| 3-Dec  | Recap / Q&A                                 |          | Project 5 due                       |
+| 10-Dec | **Final Exam**                              |          |  3.30 - 5.30 pm                     |
 
 #### Acknowledgements
 This course is largely adopted from previous courses given at Northeastern by Profs. David Choffnes, Christo Wilson, Cristina Nita-Rotaru, Guevara Noubir.
