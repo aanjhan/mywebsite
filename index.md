@@ -26,5 +26,5 @@ Aanjhan is an Assistant Professor in the [Khoury College of Computer and Informa
 [System Security group at ETH Zurich]:http://www.syssec.ethz.ch
 [EPFL]:http://epfl.ch
 [Prof. Dr. Srdjan Capkun]:http://www.syssec.ethz.ch/people/capkun.html
-[Khoury College of Computer and Information Science]:http://khoury.northeastern.edu
+[Khoury College of Computer and Information Sciences]:http://khoury.northeastern.edu
 [Northeastern University]:http://www.northeastern.edu
