@@ -12,6 +12,7 @@ Aanjhan is an Assistant Professor in the [Khoury College of Computer and Informa
 
 
 ### News
+* Jan 2019: Paper on the security of GPS/INS based road navigation systems accepted at IEEE S&P 2019.
 * Jan 2019: Harshad Sathaye joins the group as a PhD student. Welcome, Harshad!
 * Dec 2018: Invited to serve on the program committee of IEEE S&P 2020
 * Dec 2018: Invited to serve on the program committee of ACM Wisec 2019
