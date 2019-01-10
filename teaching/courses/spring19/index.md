@@ -48,7 +48,11 @@ There won't be any single text book for this course. Every lecture will contain 
 
 The grades will be based on paper summary reports, presentations and project work during the course of the semester.
 
-*The exact grading scheme will be made availabe in the first week of January.*
+| Paper summaries / Discussion            | 45% |
+| Assignments                             | 10% |
+| Project pitch                           | 5%  |
+| Project report                          | 20% |
+| Project presentation                    | 20% |
 
 The assignments, paper summaries and the project are to be executed in small teams of 2.
 
@@ -56,11 +60,25 @@ The assignments, paper summaries and the project are to be executed in small tea
 
 **Note:** The schedule is tentative and can change due to weather, travel, syllabus coverage speed etc.
 
-| Date     | Topic                                       | Readings | Notes                  |
-|----------|---------------------------------------------|----------|------------------------|
-| 10th Jan | Introduction, Course logistics              |          |                        |
+|   Date   |                           Topic                           |                      Notes                     |
+|--------|---------------------------------------------------------|----------------------------------------------|
+| 10th Jan | Course logistics, basic security notions, wireless basics |                                                |
+| 17th Jan | Jamming                                                   | Assignment #1 out                              |
+| 24th Jan | GNSS Security / Project ideas                             | One-on-one discussions begin                   |
+| 31st Jan | Paper presentations #1                                    | Attack demonstrations / Assignment #1 deadline |
+| 7th Feb  | Wireless channel-based security, Project pitches          |                                                |
+| 14th Feb | Secure localization, distance bounding                    |                                                |
+| 21st Feb | Wireless channel-based security, Paper presentations #2   |                                                |
+| 28th Feb | Project intermediate presentations                        |                                                |
+| 7th Mar  | **Spring Break**                                              |                                                |
+| 14th Mar | Broadcast authentication, Key distribution                |                                                |
+| 21st Mar | 802.11 wireless security                                  |                                                |
+| 28th Mar | WPA/WEP security (Practical assignment #2)                |                                                |
+| 4th Apr  | Cellular networks and security issues                     | Practical assignment #2 report deadline        |
+| 11th Apr | Paper presentations #3                                    |                                                |
+| 18th Apr | Guest lecture / reserve day                               |                                                |
+| 25th Apr | Final project presentations                               |                                                |
 
-*The schedule will be updated in the first week of January.*
 
 #### Acknowledgements
 This course is largely adopted from similar courses offered at ETH Zurich (Prof. Srdjan Capkun), CMU (Prof. Patrick Tague) and EPFL (Prof. Jean Pierre Hubaux).
