@@ -64,19 +64,19 @@ The assignments, paper summaries and the project are to be executed in small tea
 |--------|---------------------------------------------------------|----------------------------------------------|
 | 10th Jan | Course logistics, basic security notions, wireless basics |                                                |
 | 17th Jan | Jamming                                                   | Assignment #1 out                              |
-| 24th Jan | GNSS Security / Project ideas                             | One-on-one discussions begin                   |
-| 31st Jan | Paper presentations #1                                    | Attack demonstrations / Assignment #1 deadline |
+| 24th Jan | GNSS Security / Project ideas / Paper presentations #1                             | One-on-one discussions begin                   |
+| 31st Jan | GNSS Security / Paper presentations #1                                    | Attack demonstrations / Assignment #1 deadline |
 | 7th Feb  | Wireless channel-based security, Project pitches          |                                                |
 | 14th Feb | Secure localization, distance bounding                    |                                                |
 | 21st Feb | Wireless channel-based security, Paper presentations #2   |                                                |
-| 28th Feb | Project intermediate presentations                        |                                                |
+| 28th Feb | Paper presentations #2                        |                                                |
 | 7th Mar  | **Spring Break**                                              |                                                |
 | 14th Mar | Broadcast authentication, Key distribution                |                                                |
 | 21st Mar | 802.11 wireless security                                  |                                                |
 | 28th Mar | WPA/WEP security (Practical assignment #2)                |                                                |
 | 4th Apr  | Cellular networks and security issues                     | Practical assignment #2 report deadline        |
 | 11th Apr | Paper presentations #3                                    |                                                |
-| 18th Apr | Guest lecture / reserve day                               |                                                |
+| 18th Apr | Guest lecture / Paper presentations #3                               |                                                |
 | 25th Apr | Final project presentations                               |                                                |
 
 
