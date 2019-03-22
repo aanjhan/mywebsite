@@ -15,7 +15,7 @@ Aanjhan is an Assistant Professor in the [Khoury College of Computer Sciences] a
 * Mar 2019: Paper on wireless attacks on aircraft instrument landing systems accepted at Usenix Security 2019.
 * Feb 2019: Awarded the [NSF CRII grant] to build next-gen secure localization technologies. 
 * Jan 2019: Paper on the security of GPS/INS based road navigation systems accepted at IEEE S&P 2019.
-* Jan 2019: Harshad Sathaye joins the group as a PhD student. Welcome, Harshad!
+* Jan 2019: [Harshad Sathaye] joins the group as a PhD student. Welcome, Harshad!
 * Dec 2018: Invited to serve on the program committee of IEEE S&P 2020
 * Dec 2018: Invited to serve on the program committee of ACM Wisec 2019
 * Nov 2018: Invited to serve on the program committee of Safethings 2019
@@ -33,4 +33,5 @@ Aanjhan is an Assistant Professor in the [Khoury College of Computer Sciences] a
 [Khoury College of Computer Sciences]:http://khoury.northeastern.edu
 [Northeastern University]:http://www.northeastern.edu
 [Domien Schepers]:https://www.khoury.northeastern.edu/people/domien-schepers/
+[Harshad Sathaye]:https://www.khoury.northeastern.edu/people/harshad-sathaye/
 [NSF CRII grant]:https://www.nsf.gov/awardsearch/showAward?AWD_ID=1850264
