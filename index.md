@@ -13,6 +13,7 @@ Aanjhan is an Assistant Professor in the [Khoury College of Computer Sciences] a
 ### News
 
 * Mar 2019: Paper on wireless attacks on aircraft instrument landing systems accepted at Usenix Security 2019.
+* Mar 2019: Invited to serve on the program committee of Usenix Security 2020.
 * Feb 2019: Awarded the [NSF CRII grant] to build next-gen secure localization technologies. 
 * Jan 2019: Paper on the security of GPS/INS based road navigation systems accepted at IEEE S&P 2019.
 * Jan 2019: [Harshad Sathaye] joins the group as a PhD student. Welcome, Harshad!

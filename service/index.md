@@ -4,7 +4,12 @@ layout: default
 ---
 
 ### Professional & Social Activities
+- Technical Program Committee Member for Usenix Security 2020
+- Technical Program Committee Member for IEEE S&P 2020
 - Technical Program Committee Member for NDSS 2019
+- Replicability committee co-chair for WiSec 2019 
+- Technical Program Committee member for ACM WiSec 2019
+- Technical Program Committee Member for IEEE Workshop on the Internet of Safe Things 2019
 - Technical Program Committee Member for the 2nd ACM Workshop on the Internet of Safe Things 2018
 - Technical Program Committee member for Vehicular Technologies Conference 2018 (Fall)
 - Technical Program Committee member for ACM WiSec 2018
