@@ -12,6 +12,7 @@ Aanjhan is an Assistant Professor in the [Khoury College of Computer Sciences] a
 
 ### News
 
+* Apr 2019: Paper on new side-channel attacks on WPA-TKIP accepted at AsiaCCS 2019.
 * Mar 2019: Paper on wireless attacks on aircraft instrument landing systems accepted at Usenix Security 2019.
 * Mar 2019: Invited to serve on the program committee of Usenix Security 2020.
 * Feb 2019: Awarded the [NSF CRII grant] to build next-gen secure localization technologies. 

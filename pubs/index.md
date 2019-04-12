@@ -7,6 +7,10 @@ layout: default
 
 The following are the list of papers (sorted in reverse chronological order) that I have (co)-authored.
 
+[20] **Practical Side-Channel Attacks against WPA-TKIP**<br/>
+Domien Schepers, *Aanjhan Ranganathan*, Mathy Vanhoef<br/>
+In Proceedings of 14th ACM Asia Conference on Information, Computer and Communications Security (**ASIACCS 2019**) (_to appear_)
+
 [19] **Wireless Attacks on Aircraft Instrument Landing Systems** <a href="https://www.youtube.com/watch?v=Wp4CpyxYJq4" class="label label-danger">Video</a><br/>
 Harshad Sathaye, Domien Schepers, *Aanjhan Ranganathan*, Guevara Noubir<br/>
 In Proceedings of 28th USENIX Security Symposium (**USENIX Security 19**) (_to appear_)
