@@ -12,6 +12,8 @@ Aanjhan is an Assistant Professor in the [Khoury College of Computer Sciences] a
 
 ### News
 
+* May 2019: We got the best poster/demo award at [WiSec 2019](https://wisec19.fiu.edu) for our ILS spoofing demo. 
+* May 2019: Lots of media coverage on our ILS attack [[Ars Technica](https://arstechnica.com/information-technology/2019/05/the-radio-navigation-planes-use-to-land-safely-is-insecure-and-can-be-hacked/), [The Register](https://www.theregister.co.uk/2019/05/16/airplane_landing_security/), [Slashdot](https://it.slashdot.org/story/19/05/16/1632231/hackers-can-fake-radio-signals-to-hijack-aircraft-landing-systems-warn-researchers)]
 * Apr 2019: Paper on new side-channel attacks on WPA-TKIP accepted at AsiaCCS 2019.
 * Mar 2019: Paper on wireless attacks on aircraft instrument landing systems accepted at Usenix Security 2019.
 * Mar 2019: Invited to serve on the program committee of Usenix Security 2020.

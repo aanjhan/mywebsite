@@ -13,11 +13,13 @@ In Proceedings of 14th ACM Asia Conference on Information, Computer and Communic
 
 [19] **Wireless Attacks on Aircraft Instrument Landing Systems** <a href="assets/ils_usenix2019.pdf" class="label label-primary">Paper</a> <a href="https://www.youtube.com/watch?v=Wp4CpyxYJq4" class="label label-danger">Video</a><br/>
 Harshad Sathaye, Domien Schepers, *Aanjhan Ranganathan*, Guevara Noubir<br/>
-In Proceedings of 28th USENIX Security Symposium (**USENIX Security 19**) (_to appear_)
+In Proceedings of 28th USENIX Security Symposium (**USENIX Security 19**) (_to appear_)<br/>
+**_Best Poster/Demo award_** at **WiSec 2019**<br/>
+**_Media coverage:_** [[Ars Technica](https://arstechnica.com/information-technology/2019/05/the-radio-navigation-planes-use-to-land-safely-is-insecure-and-can-be-hacked/), [The Register](https://www.theregister.co.uk/2019/05/16/airplane_landing_security/), [Slashdot](https://it.slashdot.org/story/19/05/16/1632231/hackers-can-fake-radio-signals-to-hijack-aircraft-landing-systems-warn-researchers)]
 
 [18] **Security of GPS/INS based On-road Location Tracking Systems** <a href="assets/gpsins_sashank.pdf" class="label label-primary">Paper</a> <a href="https://www.youtube.com/watch?v=Tvj8Fv5jFLw" class="label label-danger">Video</a><br/>
 Sashank Narain, *Aanjhan Ranganathan*, Guevara Noubir<br/>
-In Proceedings of the 40th IEEE Symposium on Security and Privacy (**S&P 2019**) (_to appear_)
+In Proceedings of the 40th IEEE Symposium on Security and Privacy (**S&P 2019**)
 
 [17] **I Send, Therefore I Leak: Information Leakage in Low-Power Wide Area Networks** <a href="assets/leu_lorawisec18.pdf" class="label label-primary">Paper</a><br/> 
 Patrick Leu, Ivan Puddu, *Aanjhan Ranganathan*, Srdjan Capkun<br/>
