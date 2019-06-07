@@ -7,13 +7,13 @@ layout: default
 
 The following are the list of papers (sorted in reverse chronological order) that I have (co)-authored.
 
-[20] **Practical Side-Channel Attacks against WPA-TKIP**<br/>
+[20] **Practical Side-Channel Attacks against WPA-TKIP** <a href="assets/schepers_asiaccs2019_tkip.pdf" class="label label-primary">Paper</a><br/>
 Domien Schepers, *Aanjhan Ranganathan*, Mathy Vanhoef<br/>
-In Proceedings of 14th ACM Asia Conference on Information, Computer and Communications Security (**ASIACCS 2019**) (_to appear_)
+In Proceedings of 14th ACM Asia Conference on Information, Computer and Communications Security (**ASIACCS 2019**)
 
 [19] **Wireless Attacks on Aircraft Instrument Landing Systems** <a href="assets/ils_usenix2019.pdf" class="label label-primary">Paper</a> <a href="https://www.youtube.com/watch?v=Wp4CpyxYJq4" class="label label-danger">Video</a><br/>
 Harshad Sathaye, Domien Schepers, *Aanjhan Ranganathan*, Guevara Noubir<br/>
-In Proceedings of 28th USENIX Security Symposium (**USENIX Security 19**) (_to appear_)<br/>
+In Proceedings of 28th USENIX Security Symposium (**USENIX Security 19**) <br/>
 **_Best Poster/Demo award_** at **WiSec 2019**<br/>
 **_Media coverage:_** [[Ars Technica](https://arstechnica.com/information-technology/2019/05/the-radio-navigation-planes-use-to-land-safely-is-insecure-and-can-be-hacked/), [The Register](https://www.theregister.co.uk/2019/05/16/airplane_landing_security/), [Slashdot](https://it.slashdot.org/story/19/05/16/1632231/hackers-can-fake-radio-signals-to-hijack-aircraft-landing-systems-warn-researchers)]
 
