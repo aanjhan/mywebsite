@@ -18,6 +18,7 @@ I am very fortunate to work with the following motivated PhD students.
 
 ### News
 
+* Jul 2019: [Harshad Sathaye] will present our work on aircraft landing system security at the [Aviation Village, DEFCON](https://aviationvillage.org).
 * May 2019: We got the best poster/demo award at [WiSec 2019](https://wisec19.fiu.edu) for our ILS spoofing demo. 
 * May 2019: Lots of media coverage on our ILS attack [[Ars Technica](https://arstechnica.com/information-technology/2019/05/the-radio-navigation-planes-use-to-land-safely-is-insecure-and-can-be-hacked/), [The Register](https://www.theregister.co.uk/2019/05/16/airplane_landing_security/), [Slashdot](https://it.slashdot.org/story/19/05/16/1632231/hackers-can-fake-radio-signals-to-hijack-aircraft-landing-systems-warn-researchers)]
 * Apr 2019: Paper on new side-channel attacks on WPA-TKIP accepted at AsiaCCS 2019.
