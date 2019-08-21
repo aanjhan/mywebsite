@@ -11,10 +11,12 @@ layout: default
 Aanjhan is an Assistant Professor in the [Khoury College of Computer Sciences] at [Northeastern University] in Boston, USA, since January 2018. He is interested in building secure autonomous cyber-physical systems. He has worked on a wide variety of topics including physical-layer security of wireless systems, secure localization and proximity verification, trusted computing architectures, and side-channels. He is a recipient of several awards including the outstanding dissertation award from ETH Zurich, regional winner of European Space Agency’s Satellite Navigation competition and the Cyber Award from Armasuisse (Switzerland’s Department of Defense). Prior to joining Northeastern, he was a senior researcher in the System Security group at ETH Zurich and has over 3 years of industry research experience as a senior engineer at Robert Bosch GmbH's Car Multimedia Division "Blaupunkt" where he was involved in the development of embedded modules for top automotive manufacturers including Audi and Volkswagen. He holds an M.Sc with specialization in Electronics and Microelectronics from [EPFL], Switzerland and a Ph.D in Computer Science from ETH Zurich, Switzerland.
 
 #### Team
-I am very fortunate to work with the following motivated PhD students.
+I am very fortunate to work with some talented and motivated students.
 
-- [Harshad Sathaye] (January 2019 - present)
-- [Domien Schepers] (September 2018 - present)
+- Nakul Ramesh, MS student (September 2019 - Dec 2019)
+- Narmeen Shafqat, PhD student (September 2019 - present)
+- [Harshad Sathaye], PhD student (January 2019 - present)
+- [Domien Schepers], PhD student (September 2018 - present)
 
 ### News
 
