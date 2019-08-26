@@ -40,6 +40,35 @@ layout: fullpage
 
 **Note:** The schedule is tentative and can change due to weather, travel, syllabus coverage speed etc.
 
+| Date   	| Topic                    	| Assignments 	| Readings 	| Notes  	|
+|--------	|--------------------------	|-------------	|----------	|--------	|
+| 5 Sep  	| Intro / Course logistics 	|             	|          	|        	|
+| 9 Sep  	|                          	|             	|          	|        	|
+| 12 Sep 	|                          	|             	|          	|        	|
+| 16 Sep 	|                          	|             	|          	|        	|
+| 19 Sep 	|                          	|             	|          	|        	|
+| 23 Sep 	|                          	|             	|          	|        	|
+| 26 Sep 	|                          	|             	|          	| Travel 	|
+| 30 Sep 	|                          	|             	|          	| Travel 	|
+| 3 Oct  	|                          	|             	|          	|        	|
+| 7 Oct  	|                          	|             	|          	|        	|
+| 10 Oct 	|                          	|             	|          	|        	|
+| 14 Oct 	| No class - Columbus day  	|             	|          	|        	|
+| 17 Oct 	|                          	|             	|          	|        	|
+| 21 Oct 	|                          	|             	|          	|        	|
+| 24 Oct 	|                          	|             	|          	|        	|
+| 28 Oct 	|                          	|             	|          	|        	|
+| 31 Oct 	|                          	|             	|          	|        	|
+| 4 Nov 	|                          	|             	|          	|        	|
+| 7 Nov 	|                          	|             	|          	|        	|
+| 11 Nov 	| No class veterans day    	|             	|          	|        	|
+| 14 Nov 	|                          	|             	|          	|        	|
+| 18 Nov 	|                          	|             	|          	|        	|
+| 21 Nov 	|                          	|             	|          	| Travel   	|
+| 25 Nov 	|                          	|             	|          	|        	|
+| 28 Nov 	| Thanksgiving            	|             	|          	|        	|
+| 2 Dec 	| Final Class              	|             	|          	|        	|
+| 5 Dec 	| Reading day              	|             	|          	| G only   	|
 
 
 #### Acknowledgements
