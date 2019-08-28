@@ -10,11 +10,11 @@ layout: fullpage
 ### Logistics
 **Time and Location:** Mondays and Thursdays from *11:45 - 1:25 pm* in West Villate G 108
 
-**Piazza:** All course related interactions will take place over [Piazza](https://piazza.com/northeastern/fall2019/cs3650section2crn13481/home) (*Note*: We will use the same Piazza class for both CS5700 and CS4700). [Enroll here](https://piazza.com/northeastern/fall2019/cs3650section2crn13481)!
+**Piazza:** All course related interactions will take place over [Piazza](https://piazza.com/northeastern/fall2019/cs3650section2crn13481/home). [Enroll here](https://piazza.com/northeastern/fall2019/cs3650section2crn13481)!
 
 **Office hours**: Thursdays from 2:00 to 3:00 pm in ISEC 608  
 
-**TAs**: TBD
+**TAs**: Jennifer Ribeiro, Akash Parikh
 
 **TA office hours**: TBD
 
@@ -27,7 +27,7 @@ layout: fullpage
 ### Reading Materials
 
 
-### Projects
+### Labs / Homeworks
 
 
 ### Grading
@@ -48,8 +48,8 @@ layout: fullpage
 | 16 Sep 	|                          	|             	|          	|        	|
 | 19 Sep 	|                          	|             	|          	|        	|
 | 23 Sep 	|                          	|             	|          	|        	|
-| 26 Sep 	|                          	|             	|          	| Travel 	|
-| 30 Sep 	|                          	|             	|          	| Travel 	|
+| 26 Sep 	|                          	|             	|          	| T 	|
+| 30 Sep 	|                          	|             	|          	| T 	|
 | 3 Oct  	|                          	|             	|          	|        	|
 | 7 Oct  	|                          	|             	|          	|        	|
 | 10 Oct 	|                          	|             	|          	|        	|
@@ -64,7 +64,7 @@ layout: fullpage
 | 11 Nov 	| No class veterans day    	|             	|          	|        	|
 | 14 Nov 	|                          	|             	|          	|        	|
 | 18 Nov 	|                          	|             	|          	|        	|
-| 21 Nov 	|                          	|             	|          	| Travel   	|
+| 21 Nov 	| Final Quiz               	|             	|          	| T       	|
 | 25 Nov 	|                          	|             	|          	|        	|
 | 28 Nov 	| Thanksgiving            	|             	|          	|        	|
 | 2 Dec 	| Final Class              	|             	|          	|        	|
