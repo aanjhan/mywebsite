@@ -15,11 +15,9 @@ layout: fullpage
 
 **Office hours**: Thursdays from 2:00 to 3:00 pm in ISEC 608  
 
-**TAs**: Jennifer Ribeiro, Akash Parikh
+**TAs**: [Jennifer Ribeiro](mailto:ribeiro.je@husky.neu.edu), [Akash Parikh](mailto:parikh.ak@husky.neu.edu)
 
-**TA office hours**: TBD
-
-**Contact Email**: TBA
+**TA office hours**: Tuesdays 12 noon - 1 pm (somewhere in ISEC / Exact venue TBD)
 
 ### Course Description
 
@@ -38,6 +36,9 @@ The course will be based on the following three textbooks (it is not mandatory t
 There will be 8 programming labs throughout the semester. We will start the labs in class on Mondays and you will wrap it up on the due date mentioned. *Wrapping up means submission before start of class on that specific date.* We will use [Github Classroom](https://classroom.github.com/classrooms) for lab assignment and submissions.
 
 You will form groups of two people (possibly three, only if necessary) to do the projects. You may switch groups between programming projects.
+
+**Slip days:** Each team has 4 slip days that they can use at any time to extend a deadline.
+You don’t need to ask me, just turn-in late. In scenarios of changing teams, a team's slip days is the member with the lowest remaining slip days.
 
 **Important Note:** If you refered or obtained a key idea from a book, person or any online source, then the source of the idea (it can be code as well) must be cited. I am not against looking up additional sources to complete the projects but I will not tolerate academic dishonesty. If I think some part of the project has been blindly copied without understanding, I reserve the right to cross-examine the submitted lab.
 
