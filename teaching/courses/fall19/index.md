@@ -17,7 +17,7 @@ layout: fullpage
 
 **TAs**: [Jennifer Ribeiro](mailto:ribeiro.je@husky.neu.edu), [Akash Parikh](mailto:parikh.ak@husky.neu.edu)
 
-**TA office hours**: Tuesdays 12 noon - 1 pm (somewhere in ISEC / Exact venue TBD)
+**TA office hours**: Tuesdays 12 noon - 1 pm in ISEC 605
 
 ### Course Description
 
