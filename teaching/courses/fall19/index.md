@@ -53,38 +53,38 @@ You don’t need to ask me, just turn-in late. In scenarios of changing teams, a
 
 **Note:** The schedule is tentative and can change due to weather, travel, syllabus coverage speed etc. 
 
-| Date   | Topic                      | Lab (due dates)<sup>^</sup>                 | Readings | Notes  |
-|--------|----------------------------|---------------------|----------|--------|
-| 5 Sep  | Intro / Course logistics   |                     |          |        |
-| 9 Sep  | C Programming (The Basics) | Lab 1 (due: 16 Sep) |          |        |
-| 12 Sep | C contd...                 |                     |          |        |
-| 16 Sep | C Data structures          | Lab 2 (due: 23 Sep) |          |        |
-| 19 Sep | Assembly                   |                     |          |        |
-| 23 Sep | Assembly                   | Lab 3 (due: 30 Sep) |          |        |
-| 26 Sep | Compilers                  |                     |          | T      |
-| 30 Sep | Compilers                  | Lab 4 (due: 07 Oct) |          | T      |
-| 3 Oct  | Processor Architecture     |                     |          |        |
-| 7 Oct  | Memories                   |                     |          |        |
-| 10 Oct | Caches                     |                     |          |        |
-| 14 Oct | **No class - Columbus day**    |                     |          |        |
-| 17 Oct | Caches                     | Lab 5 (due: 24 Oct) |          |        |
-| 21 Oct | Concurrency                |                     |          |        |
-| 24 Oct | Concurrency                | Lab 6 (due 31 Oct)  |          |        |
-| 28 Oct | Operating Systems          |                     |          |        |
-| 31 Oct | Operating Systems          | Lab 7 (due 07 Nov)  |          |        |
-| 4 Nov  | Storage Devices            |                     |          |        |
-| 7 Nov  | Storage Devices            |                     |          |        |
-| 11 Nov | **No class veterans day**      |                     |          |        |
-| 14 Nov | Computer System Security   |                     |          |        |
-| 18 Nov | Computer System Security   |                     |          |        |
-| 21 Nov | **Final Quiz**                 |                     |          | T      |
-| 25 Nov | Computer System Security   | Lab 8: (due 02 Dec) |          |        |
-| 28 Nov | **Thanksgiving**               |                     |          |        |
-| 2 Dec  | Final Class                |                     |          |        |
-| 5 Dec  | Reading day                |                     |          | G only |
+| Date   | Topic                      | Lab (due dates)<sup>^</sup> | 
+|--------|----------------------------|---------------------|
+| 5 Sep  | Intro / Course logistics   |                     | 
+| 9 Sep  | C Programming (The Basics) | Lab 1 (due: 16 Sep) | 
+| 12 Sep | C contd...                 |                     | 
+| 16 Sep | C Data structures          | Lab 2 (due: 23 Sep) | 
+| 19 Sep | Assembly                   |                     | 
+| 23 Sep | Assembly                   | Lab 3 (due: 30 Sep) | 
+| 26 Sep | Compilers                  |                     |          
+| 30 Sep | Compilers                  | Lab 4 (due: 07 Oct) |          
+| 3 Oct  | Processor Architecture     |                     | 
+| 7 Oct  | Processor Architecture     |                     | 
+| 10 Oct | Hard disks, SSD            |                     | 
+| 14 Oct | **No class - Columbus day**|                     | 
+| 17 Oct | Caches                     | Lab 5 (due: 24 Oct) | 
+| 21 Oct | Caches                     |                     | 
+| 24 Oct | Virtual Memory             |                     | 
+| 28 Oct | Virtual Memory             |  Lab 6 (due 4 Nov)  | 
+| 31 Oct | Operating Systems          |                     | 
+| 4 Nov  | Operating Systems          | Lab 7 (due 14 Nov)  | 
+| 7 Nov  | Operating Systems          |                     | 
+| 11 Nov | **No class veterans day**  |                     | 
+| 14 Nov | Computer System Security   |                     | 
+| 18 Nov | Computer System Security   |                     | 
+| 21 Nov | **Final Quiz**             |                     |          
+| 25 Nov | Computer System Security   | Lab 8: (due 02 Dec) | 
+| 28 Nov | **Thanksgiving**           |                     | 
+| 2 Dec  | Final Class                |                     | 
+| 5 Dec  | Reading day                |                     | 
 
 
 **^** - Remember all labs are due *before the start of class* on the dates mentioned
 
 #### Acknowledgements
-This course is largely adopted from previous courses given at Northeastern by Profs. Gene Cooperman, Nat Tuck, Mike Shah, and Christo Wilson. Some parts are from similar course taught at ETH Zurich by Profs. Srdjan Capkun, Onur Mutlu, Markus Pueschel, and Frank Gurkaynak.
+This course is largely adopted from previous courses given at Northeastern by Profs. Gene Cooperman, Nat Tuck, Mike Shah, and Christo Wilson. Some parts are from similar course taught at ETH Zurich and UW Madison by Profs. Srdjan Capkun, Onur Mutlu, Markus Pueschel, Frank Gurkaynak, and Remzi Arpaci-Dusseau.
