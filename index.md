@@ -14,7 +14,7 @@ Aanjhan is an Assistant Professor in the [Khoury College of Computer Sciences] a
 I am very fortunate to work with some talented and motivated students.
 
 - Nakul Ramesh, MS student (September 2019 - Dec 2019)
-- Narmeen Shafqat, PhD student (September 2019 - present)
+- [Narmeen Shafqat], PhD student (September 2019 - present)
 - [Harshad Sathaye], PhD student (January 2019 - present)
 - [Domien Schepers], PhD student (September 2018 - present)
 
@@ -47,4 +47,5 @@ I am very fortunate to work with some talented and motivated students.
 [Northeastern University]:http://www.northeastern.edu
 [Domien Schepers]:https://www.khoury.northeastern.edu/people/domien-schepers/
 [Harshad Sathaye]:https://www.khoury.northeastern.edu/people/harshad-sathaye/
+[Narmeen Shafqat]:https://www.khoury.northeastern.edu/people/narmeen-shafqat/
 [NSF CRII grant]:https://www.nsf.gov/awardsearch/showAward?AWD_ID=1850264
