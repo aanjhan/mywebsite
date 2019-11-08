@@ -70,18 +70,18 @@ You don’t need to ask me, just turn-in late. In scenarios of changing teams, a
 | 17 Oct | Caches                     | Lab 5 (due: 24 Oct) | 
 | 21 Oct | Caches                     |                     | 
 | 24 Oct | Virtual Memory             |                     | 
-| 28 Oct | Virtual Memory             |  Lab 6 (due 4 Nov)  | 
-| 31 Oct | Operating Systems          |                     | 
-| 4 Nov  | Operating Systems          | Lab 7 (due 14 Nov)  | 
-| 7 Nov  | Operating Systems          |                     | 
+| 28 Oct | Virtual Memory             | Lab 6 (due 4 Nov)   | 
+| 31 Oct | Concurrency                |                     | 
+| 4 Nov  | Concurrency                | Lab 7 (due 14 Nov)  | 
+| 7 Nov  | Concurrency                |                     | 
 | 11 Nov | **No class veterans day**  |                     | 
 | 14 Nov | Computer System Security   |                     | 
 | 18 Nov | Computer System Security   |                     | 
 | 21 Nov | **Final Quiz**             |                     |          
-| 25 Nov | Computer System Security   | Lab 8: (due 02 Dec) | 
+| 25 Nov | xv6 - Operating System     | Lab 8: (due 02 Dec) | 
 | 28 Nov | **Thanksgiving**           |                     | 
 | 2 Dec  | Final Class                |                     | 
-| 5 Dec  | Reading day                |                     | 
+| 5 Dec  | Reading day **No class**   |                     | 
 
 
 **^** - Remember all labs are due *before the start of class* on the dates mentioned
