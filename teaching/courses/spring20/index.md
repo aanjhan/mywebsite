@@ -68,31 +68,31 @@ The assignments, paper summaries and the project are to be executed in small tea
 | 14 Jan | Wireless Basics                                      |       |
 | 16 Jan | Jamming                                              |       |
 | 21 Jan | Jamming, Project Ideas                               | One on one discussions for projects this week |
-| 23 Jan | Lab Exercise 1 (Intro to SDR)                        |       |
+| 23 Jan | <span class="label label-primary">lab</span> *Lab Exercise 1 (Intro to SDR)*                       |       |
 | 28 Jan | Wireless Channel-based Security                      |       |
-| 30 Jan | Project pitches                                      | Lab 1 due |
+| 30 Jan | *Project pitches*                                      | Lab 1 due |
 | 04 Feb | GNSS Security                                        |   |
-| 06 Feb | GNSS Security                                        |  Lab 2 out |
+| 06 Feb | GNSS Security                                        | <span class="label label-primary">lab</span> Lab 2 out |
 | 11 Feb | Secure Localization                                  |   |
 | 13 Feb | Secure Localization                                  | Lab 2 due |
-| 18 Feb | Paper presentation #1                                |       |
-| 20 Feb | Paper presentation #1                                |       |
+| 18 Feb | *Paper presentation #1*                               |       |
+| 20 Feb | *Paper presentation #1*                                |       |
 | 25 Feb | Broadcast authentication                             |       |
-| 27 Feb | Lab 3: Ring the bell                                 | Lab 3 due      |
-| 03 Mar | Spring Break (No classes)                            |       |
-| 05 Mar | Spring Break (No classes)                            |       |
+| 27 Feb | <span class="label label-primary">lab</span> *Lab 3: Ring the bell*                                | Lab 3 due      |
+| 03 Mar | **Spring Break (No classes)**                           |       |
+| 05 Mar | **Spring Break (No classes)**                            |       |
 | 10 Mar | 802.11 wireless security                             |       |
 | 12 Mar | 802.11 wireless security                             |       |
 | 17 Mar | 802.11 wireless security                             |       |
-| 19 Mar | Lab 4: WEP/WPA2 cracking                             |       |
+| 19 Mar | <span class="label label-primary">lab</span> *Lab 4: WEP/WPA2 cracking*                             |       |
 | 24 Mar | Cellular networks                                    |       |
 | 26 Mar | Cellular networks                                    | Lab 4 due      |
 | 31 Mar | Cellular networks                                    |       |
-| 02 Apr | Paper presentations #2                               |       |
-| 07 Apr | Paper presentations #2                               |       |
+| 02 Apr | *Paper presentations #2*                               |       |
+| 07 Apr | *Paper presentations #2*                               |       |
 | 09 Apr | Advance topics in wireless security                  |       |
 | 14 Apr | Advance topics in wireless security / Guest lecture  |       |
-| 16 Apr | Final Project presentation? (3 hr slot)              |       |
+| 16 Apr | *Final Project presentation? (3 hr slot)*            |       |
 
 #### Acknowledgements
 This course is largely adopted from similar courses offered at ETH Zurich (Prof. Srdjan Capkun), CMU (Prof. Patrick Tague) and EPFL (Prof. Jean Pierre Hubaux).
