@@ -78,10 +78,10 @@ The assignments, paper summaries and the project are to be executed in small tea
 | 18 Feb | *Paper presentation #1*                               |       |
 | 20 Feb | *Paper presentation #1*                                |       |
 | 25 Feb | Broadcast authentication                             |       |
-| 27 Feb | <span class="label label-primary">lab</span> *Lab 3: Ring the bell*                                | Lab 3 due      |
+| 27 Feb | <span class="label label-primary">lab</span> *Lab 3: Ring the bell*                                |       |
 | 03 Mar | **Spring Break (No classes)**                           |       |
 | 05 Mar | **Spring Break (No classes)**                            |       |
-| 10 Mar | 802.11 wireless security                             |       |
+| 10 Mar | 802.11 wireless security                             | Lab 3 due      |
 | 12 Mar | 802.11 wireless security                             |       |
 | 17 Mar | 802.11 wireless security                             |       |
 | 19 Mar | <span class="label label-primary">lab</span> *Lab 4: WEP/WPA2 cracking*                             |       |
