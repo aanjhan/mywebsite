@@ -9,7 +9,7 @@ layout: fullpage
 <span style="color:red">This course is also cross listed as **CS 6710 - Wireless Networks** for students of the *BSCS program with concentration in Cyber Operations*. </span>
 
 ### Logistics
-**Time and Location:** Tuesdays from *11.45 - 1.25 pm* and Thursdays from *2:50 - 4:30 pm* in Forsyth 201
+**Time and Location:** Tuesdays from *11.45 - 1.25 pm* and Thursdays from *2:50 - 4:30 pm* in <span style="color:red">ISEC 655</span> ~~Forsyth 201~~
 
 **Piazza:** All course related assignment submissions and interactions will take place over [Piazza](https://piazza.com/northeastern/spring2020/cs6710/home) (*Note*: We will use the same Piazza class for both CS4710 and CS6710). [Enroll here](https://piazza.com/northeastern/spring2020/cs6710)!
 
