@@ -15,7 +15,7 @@ layout: fullpage
 
 **Office hours**: Tuesdays from *2 - 3 pm* in *ISEC 608* or by prior appointment
 
-**Teaching Assistant**: Domien Schepers <schepers.d@husky.neu.edu>, Harshad Sathaye <sathaye.h@husky.neu.edu>
+**Teaching Assistants**: Domien Schepers <schepers.d@husky.neu.edu>, Harshad Sathaye <sathaye.h@husky.neu.edu> (TA office hours: Wednesdays 12 - 1 pm ISEC 655)
 
 ### Course Description
 Recent years have seen massive deployment of wireless devices and technologies around us. They are deployed in a wide variety of systems such as telephony, navigation, sensor networks, critical infrastructures etc. With the advent of the Internet of Things and autonomous cyber-physical systems, the proliferation of these wireless systems are only bound to increase. The broadcast nature of wireless technologies and the increased availabiloty of software defined radios have not only improved quality of life but pose significant security challenges. In particular, the course would cover the following topics:
