@@ -92,7 +92,7 @@ The assignments, paper summaries and the project are to be executed in small tea
 | 07 Apr | *Paper presentations #2*                               |       |
 | 09 Apr | Advance topics in wireless security                  |       |
 | 14 Apr | Advance topics in wireless security / Guest lecture  |       |
-| 16 Apr | *Final Project presentation? (3 hr slot)*            |       |
+| **15 Apr (Wed)** | <span class="label label-primary">project</span> *Final Project presentation*            | 1 - 4 pm in ISEC 655      |
 
 #### Acknowledgements
 This course is largely adopted from similar courses offered at ETH Zurich (Prof. Srdjan Capkun), CMU (Prof. Patrick Tague) and EPFL (Prof. Jean Pierre Hubaux).
