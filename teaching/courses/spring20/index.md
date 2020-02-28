@@ -81,9 +81,9 @@ The assignments, paper summaries and the project are to be executed in small tea
 | 27 Feb | <span class="label label-primary">lab</span> *Lab 3: Ring the bell*                                |       |
 | 03 Mar | **Spring Break (No classes)**                           |       |
 | 05 Mar | **Spring Break (No classes)**                            |       |
-| 10 Mar | 802.11 wireless security                             | Lab 3 due      |
+| 10 Mar | <span class="label label-primary">lab</span> *Lab 3: Ring the bell* (contd...)                              |       |
 | 12 Mar | 802.11 wireless security                             |       |
-| 17 Mar | 802.11 wireless security                             |       |
+| 17 Mar | 802.11 wireless security                             | Lab 3 due  |
 | 19 Mar | <span class="label label-primary">lab</span> *Lab 4: WEP/WPA2 cracking*                             |       |
 | 24 Mar | Cellular networks                                    |       |
 | 26 Mar | Cellular networks                                    | Lab 4 due      |
