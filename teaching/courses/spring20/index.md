@@ -81,7 +81,7 @@ The assignments, paper summaries and the project are to be executed in small tea
 | 27 Feb | <span class="label label-primary">lab</span> *Lab 3: Ring the bell*                                |       |
 | 03 Mar | **Spring Break (No classes)**                           |       |
 | 05 Mar | **Spring Break (No classes)**                            |       |
-| 10 Mar | *Lab 3: Ring the bell*                             |       |
+| 10 Mar | <span class="label label-primary">lab</span> *Lab 3: Ring the bell*                             |       |
 | 12 Mar | 802.11 wireless security                             |       |
 | 17 Mar | **cancelled COVID-19**                            |       |
 | 19 Mar | 802.11 wireless security                             |       |
@@ -92,7 +92,7 @@ The assignments, paper summaries and the project are to be executed in small tea
 | 07 Apr | *Paper presentations #2*                               |  Lab 4 due     |
 | 09 Apr | *Paper presentations #2*                  |       |
 | 14 Apr | *Reserve day*  |       |
-| 16 Apr | *Final Project presentation? (3 hr slot)*            |       |
+| 16 Apr | *Final Project presentation (3 hr slot)*            |       |
 
 #### Acknowledgements
 This course is largely adopted from similar courses offered at ETH Zurich (Prof. Srdjan Capkun), CMU (Prof. Patrick Tague) and EPFL (Prof. Jean Pierre Hubaux).

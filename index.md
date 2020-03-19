@@ -13,10 +13,15 @@ Aanjhan is an Assistant Professor in the [Khoury College of Computer Sciences] a
 #### Team
 I am very fortunate to work with some talented and motivated students.
 
-- Nakul Ramesh, MS student (September 2019 - Dec 2019)
+-  Maryam Motallebi, PhD student (September 2020 onwards)
 - [Narmeen Shafqat], PhD student (September 2019 - present)
 - [Harshad Sathaye], PhD student (January 2019 - present)
 - [Domien Schepers], PhD student (September 2018 - present)
+
+
+**Alumni**
+- Nakul Ramesh, MS student (September 2019 - Dec 2019)
+
 
 ### News
 
