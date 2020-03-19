@@ -81,17 +81,17 @@ The assignments, paper summaries and the project are to be executed in small tea
 | 27 Feb | <span class="label label-primary">lab</span> *Lab 3: Ring the bell*                                |       |
 | 03 Mar | **Spring Break (No classes)**                           |       |
 | 05 Mar | **Spring Break (No classes)**                            |       |
-| 10 Mar | 802.11 wireless security                             | Lab 3 due      |
+| 10 Mar | *Lab 3: Ring the bell*                             |       |
 | 12 Mar | 802.11 wireless security                             |       |
-| 17 Mar | 802.11 wireless security                             |       |
-| 19 Mar | <span class="label label-primary">lab</span> *Lab 4: WEP/WPA2 cracking*                             |       |
-| 24 Mar | Cellular networks                                    |       |
-| 26 Mar | Cellular networks                                    | Lab 4 due      |
+| 17 Mar | **cancelled COVID-19**                            |       |
+| 19 Mar | 802.11 wireless security                             |       |
+| 24 Mar | 802.11 wireless security                                    |       |
+| 26 Mar | <span class="label label-primary">lab</span> *Lab 4: WEP/WPA2 cracking*                                    | Lab 3 due      |
 | 31 Mar | Cellular networks                                    |       |
-| 02 Apr | *Paper presentations #2*                               |       |
-| 07 Apr | *Paper presentations #2*                               |       |
-| 09 Apr | Advance topics in wireless security                  |       |
-| 14 Apr | Advance topics in wireless security / Guest lecture  |       |
+| 02 Apr | Cellular networks                               |       |
+| 07 Apr | *Paper presentations #2*                               |  Lab 4 due     |
+| 09 Apr | *Paper presentations #2*                  |       |
+| 14 Apr | *Reserve day*  |       |
 | 16 Apr | *Final Project presentation? (3 hr slot)*            |       |
 
 #### Acknowledgements
