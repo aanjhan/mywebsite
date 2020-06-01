@@ -4,6 +4,10 @@ layout: default
 ---
 
 ### Professional & Social Activities
+- Technical Program Committee Member for IEEE S&P 2021
+- Technical Program Committee Member for Usenix Security 2021
+- Technical Program Committee Member for ACM CCS 2020
+- Replicability committee co-chair for WiSec 2020
 - Technical Program Committee Co-chair for IEEE Safethings 2020 (co-located with IEEE S&P 2020)
 - Technical Program Committee Member for Usenix Security 2020
 - Technical Program Committee Member for IEEE S&P 2020
