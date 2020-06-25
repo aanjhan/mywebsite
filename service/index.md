@@ -4,6 +4,8 @@ layout: default
 ---
 
 ### Professional & Social Activities
+- Review Editor on the Frontiers in Communications and Networks Editorial Board
+- Technical Program Committee Member for ACNS 2021
 - Technical Program Committee Member for IEEE S&P 2021
 - Technical Program Committee Member for Usenix Security 2021
 - Technical Program Committee Member for ACM CCS 2020
