@@ -9,3 +9,4 @@ _site_local/
 .Trashes
 ehthumbs.db
 Thumbs.db
+.jekyll-cache/
