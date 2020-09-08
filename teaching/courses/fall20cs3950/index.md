@@ -33,7 +33,9 @@ By the end of this course, I expect you to:
 As this course is closest to a seminar course, the structure will consist of three components:
 
 **Lectures on the Basics of Research** The first few weeks will consist of lectures and discussions on the basics of computer science, research, and graduate studies. There will weekly assignments consisting of homework and background reading. 
+
 **Reading and Discussing Papers** The middle few weeks of the course will consist of reading and discussing papers from different areas of computer science. The focus will be on different styles of research, and how the results are presented. 
+
 **Paper presentations** The final few weeks of the class will consist of student presentations of research papers in groups. Each group will be expected to give 15-minute presentations on papers of their choice (subject to constraints discussed in class), followed by leading a 10–15 minute discussion of the paper.
 
 
@@ -46,10 +48,9 @@ There won't be any single text book for this course.
 
 ### Grading
 
-| Participation            | 20% |
+| Participation            | 40% |
 | Homeworks                | 30% |
-| Presentation #1          | 25% |
-| Presentation #2          | 25% |
+| Presentation             | 30% |
 
 The homeworks and presentations can be executed in small teams of 2.
 
@@ -60,22 +61,22 @@ The homeworks and presentations can be executed in small teams of 2.
 | Date          | Topic                          | Readings | Notes |
 |---------------|--------------------------------|----------|-------|
 | 09 Sep        | Introduction / Logistics       |          |       |
-| 14/16 Sep     | 5%                             |          |       |
-| 21/23 Sep     |                                |          |       |
-| 28/30 Sep     |                                |          |       |
-| 05/07 Oct     |                                |          |       |
+| 14/16 Sep     | Science in Computer Science / Overview of CS Research Areas |          |       |
+| 21/23 Sep     | How to read (and write) a (good) research paper |          |       |
+| 28/30 Sep     | Research Area talk             |          |       |
+| 05/07 Oct     | Research Area talk             |          |       |
 | 12 Oct        | Columbus day (no class)        |          |       |
-| 14 Oct        |                                |          |       |
-| 19/21 Oct     |                                |          |       |
-| 26/28 Oct     |                                |          |       |
-| 02/04 Nov     |                                |          |       |
-| 09 Nov        |                                |          |       |
+| 14 Oct        | Research Area talk             |          |       |
+| 19/21 Oct     | Research Area talk             |          |       |
+| 26/28 Oct     | Research Area talk             |          |       |
+| 02/04 Nov     | Research Area talk             |          |       |
+| 09 Nov        | PhD student panel              |          |       |
 | 11 Nov        | Veteran's day (no class)       |          |       |
-| 16/18 Nov     |                                |          |       |
-| 23 Nov        |                                |          |       |
+| 16/18 Nov     | Ethics in Research             |          |       |
+| 23 Nov        | Presentations                  |          |       |
 | 25 Nov        | Thanksgiving recess (no class) |          |       |
-| 30 Nov/02 Dec |                                |          |       |
-| 07 Dec/09 Dec |                                |          |       |
+| 30 Nov/02 Dec | Presentations                  |          |       |
+| 07 Dec/09 Dec | Presentations                  |          |       |
 
 
 #### Acknowledgements
