@@ -65,16 +65,16 @@ The homeworks and presentations can be executed in small teams of 2.
 | 21/23 Sep     | How to read (and write) a (good) research paper |          |       |
 | 28/30 Sep     | Research Area talk             |          |       |
 | 05/07 Oct     | Research Area talk             |          |       |
-| 12 Oct        | Columbus day (no class)        |          |       |
+| 12 Oct        | **Columbus day (no class)**        |          |       |
 | 14 Oct        | Research Area talk             |          |       |
 | 19/21 Oct     | Research Area talk             |          |       |
 | 26/28 Oct     | Research Area talk             |          |       |
 | 02/04 Nov     | Research Area talk             |          |       |
 | 09 Nov        | PhD student panel              |          |       |
-| 11 Nov        | Veteran's day (no class)       |          |       |
+| 11 Nov        | **Veteran's day (no class)**       |          |       |
 | 16/18 Nov     | Ethics in Research             |          |       |
 | 23 Nov        | Presentations                  |          |       |
-| 25 Nov        | Thanksgiving recess (no class) |          |       |
+| 25 Nov        | **Thanksgiving recess (no class)** |          |       |
 | 30 Nov/02 Dec | Presentations                  |          |       |
 | 07 Dec/09 Dec | Presentations                  |          |       |
 
