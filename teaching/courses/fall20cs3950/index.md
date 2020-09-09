@@ -3,14 +3,14 @@ title: CS 3950/4950
 layout: fullpage
 ---
 
-## (CS 3950/4950) Intro to CS Research
+## (CS 3950) Intro to CS Research
 ### <span style="color:grey">Fall 2020</span>
 
 
 ### Logistics
-**Time and Location:** Mondays and Wednesdays from 10:30 am to 11:35 am (Forsyth 130 and Zoom (Link available through NU Canvas) )
+**Time and Location:** Mondays and Wednesdays from 10:30 am to 11:35 am (Forsyth 130 and Zoom (Link available through NU Canvas) ). The class will follow [NUFlex Auto](https://nuflex.northeastern.edu/classroom-technology/) with me remotely dialing into the classroom.
 
-**Piazza:** All course related assignment submissions and interactions will take place over [Piazza](https://piazza.com/northeastern/fall2020/cs3950/home) (*Note*: We will use the same Piazza class for both CS3950 and CS4950). [Enroll here](https://piazza.com/northeastern/fall2020/cs3950)!
+**Piazza:** All course related assignment submissions and interactions will take place over [Piazza](https://piazza.com/northeastern/fall2020/cs3950/home). [Enroll here](https://piazza.com/northeastern/fall2020/cs3950)!
 
 **Office hours**: TBD
 
