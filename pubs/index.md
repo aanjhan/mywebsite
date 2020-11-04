@@ -37,7 +37,8 @@ IEEE Security & Privacy Magazine (<a href="http://ieeexplore.ieee.org/document/7
 [14] **Physical-layer Techniques for Secure Proximity Verification & Localization**
 <a href="assets/thesis_abstract.pdf" class="label label-primary">Abstract</a> <a href="assets/aanjhan_thesis.pdf" class="label label-primary">Full-text</a> <a href="assets/aanjhan_thesis.bib" class="label label-default">Bibtex</a><br/>
 *Aanjhan Ranganathan*<br/>
-Ph.D. Dissertation, 2016
+Ph.D. Dissertation, 2016<br/>
+**_ETH Medal for Outstanding Dissertation_**
 
 [13] **SPREE: Spoofing Resistant GPS Receiver**
 <a href="assets/spree_mobicom2016.pdf" class="label label-primary">Paper</a> <a href="assets/spree_ranganathan16.bib" class="label label-default">Bibtex</a><br/>

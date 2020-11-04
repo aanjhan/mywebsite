@@ -4,7 +4,7 @@ layout: default
 ---
 #### Courses at Northeastern (2018-present)
 - **Fall 2020** - CS 3950: Introduction to Computer Science Research [webpage](teaching/courses/fall20cs3950/index.html)
-- **Fall 2020** - CS 4950: Computer Science Research Seminar (Focus Area: Security and Privacy) (_coming soon_)
+- **Fall 2020** - CS 4950: Computer Science Research Seminar (Focus Area: Security and Privacy) 
 - **Spring 2020** - (Security of) Mobile and Wireless Systems (CS4710) / Wireless Networks (CS6710)  [webpage](teaching/courses/spring20/index.html)
 - **Fall 2019** - Computer Systems (CS3650), [webpage](teaching/courses/fall19/index.html)
 - **Spring 2019** - (Security of) Mobile and Wireless Systems (CS4710) / Wireless Networks (CS6710)  [webpage](teaching/courses/spring19/index.html)
