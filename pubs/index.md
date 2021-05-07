@@ -7,6 +7,19 @@ layout: default
 
 The following are the list of papers (sorted in reverse chronological order) that I have (co)-authored.
 
+[23] **Here, There, and Everywhere: Security Analysis of Wi-Fi Fine Timing Measurement** *(to appear)*<br/>
+Domien Schepers, Mridula Singh, *Aanjhan Ranganathan*<br/>
+In Proceedings of 14th ACM Conference on Security and Privacy in Wireless and Mobile Networks (**ACM WiSec 2021**)
+
+[22] **Let Numbers Tell the Tale: Measuring Security Trends in Wi-Fi Networks and Best Practices** *(to appear)*<br/>
+Domien Schepers, *Aanjhan Ranganathan*, Mathy Vanhoef<br/>
+In Proceedings of 14th ACM Conference on Security and Privacy in Wireless and Mobile Networks (**ACM WiSec 2021**)
+
+[21] **SemperFi: A Spoofer Eliminating GPS Receiver for UAVs** <a href="https://arxiv.org/abs/2105.01860" class="label label-primary">Paper</a><br/>
+Harshad Sathaye, Gerald LaMountain, Pau Closas, *Aanjhan Ranganathan*<br/>
+arXiv:2105.01860 [cs.CR]<br/>
+**_Best Poster/Demo award_** at **WiSec 2020**
+
 [20] **Practical Side-Channel Attacks against WPA-TKIP** <a href="assets/schepers_asiaccs2019_tkip.pdf" class="label label-primary">Paper</a><br/>
 Domien Schepers, *Aanjhan Ranganathan*, Mathy Vanhoef<br/>
 In Proceedings of 14th ACM Asia Conference on Information, Computer and Communications Security (**ASIACCS 2019**)

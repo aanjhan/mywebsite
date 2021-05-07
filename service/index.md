@@ -4,6 +4,7 @@ layout: default
 ---
 
 ### Professional & Social Activities
+- Replicability committee co-chair for WiSec 2021
 - Review Editor on the Frontiers in Communications and Networks Editorial Board
 - Technical Program Committee Member for ACNS 2021
 - Technical Program Committee Member for IEEE S&P 2021
