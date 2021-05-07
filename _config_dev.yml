@@ -2,6 +2,7 @@ name: "Aanjhan Ranganathan"
 description: ""
 
 destination: ./_site_local
+url: "http://127.0.0.1:4000"
 baseurl: ""
 
 markdown: kramdown
