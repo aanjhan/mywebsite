@@ -11,15 +11,15 @@ Aanjhan is an Assistant Professor in the [Khoury College of Computer Sciences] a
 #### Team
 I am very fortunate to work with some talented and motivated students.
 
--  Maryam Motallebi, PhD student (September 2020 onwards)
+- [Maryam Motallebighomi], PhD student (September 2020 - present)
 - [Narmeen Shafqat], PhD student (September 2019 - present)
 - [Harshad Sathaye], PhD student (January 2019 - present)
 - [Domien Schepers], PhD student (September 2018 - present)
 
 
 **Alumni**
-- Nakul Ramesh, MS student (September 2019 - Dec 2019)
-
+- Cathleen Zhang, BS (July 2020 - July 2021)
+- Nakul Ramesh, MS (September 2019 - Dec 2019)
 
 ### News
 
@@ -51,4 +51,5 @@ I am very fortunate to work with some talented and motivated students.
 [Domien Schepers]:https://www.khoury.northeastern.edu/people/domien-schepers/
 [Harshad Sathaye]:https://www.khoury.northeastern.edu/people/harshad-sathaye/
 [Narmeen Shafqat]:https://www.khoury.northeastern.edu/people/narmeen-shafqat/
+[Maryam Motallebighomi]:https://www.khoury.northeastern.edu/people/maryam-motallebighomi/
 [NSF CRII grant]:https://www.nsf.gov/awardsearch/showAward?AWD_ID=1850264
