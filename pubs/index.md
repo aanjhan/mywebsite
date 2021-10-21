@@ -7,18 +7,22 @@ layout: default
 
 The following are the list of papers (sorted in reverse chronological order) that I have (co)-authored.
 
-[23] **Here, There, and Everywhere: Security Analysis of Wi-Fi Fine Timing Measurement** <a href="assets/schepers_ftm_wisec21.pdf" class="label label-primary">Paper</a><br/>
+[24] **SemperFi: Anti-spoofing GPS Receiver for UAVs** <br/>
+Harshad Sathaye, Gerald LaMountain, Pau Closas, *Aanjhan Ranganathan*<br/>
+In Proceedings of Network and Distributed System Security Symposium (**NDSS 2022**) (_to appear_)<br/>
+**_Best Poster/Demo award_** at **WiSec 2020**
+
+[23] **V-Range: Enabling Secure Ranging in 5G Wireless Networks**<br/>
+Mridula Singh, Marc Roeschlin, *Aanjhan Ranganathan*, Srdjan Capkun<br/>
+In Proceedings of Network and Distributed System Security Symposium (**NDSS 2022**) (_to appear_)<br/>
+
+[22] **Here, There, and Everywhere: Security Analysis of Wi-Fi Fine Timing Measurement** <a href="assets/schepers_ftm_wisec21.pdf" class="label label-primary">Paper</a><br/>
 Domien Schepers, Mridula Singh, *Aanjhan Ranganathan*<br/>
 In Proceedings of 14th ACM Conference on Security and Privacy in Wireless and Mobile Networks (**ACM WiSec 2021**)
 
-[22] **Let Numbers Tell the Tale: Measuring Security Trends in Wi-Fi Networks and Best Practices** <a href="assets/schepersNumbersWisec21.pdf" class="label label-primary">Paper</a><br/>
+[21] **Let Numbers Tell the Tale: Measuring Security Trends in Wi-Fi Networks and Best Practices** <a href="assets/schepersNumbersWisec21.pdf" class="label label-primary">Paper</a><br/>
 Domien Schepers, *Aanjhan Ranganathan*, Mathy Vanhoef<br/>
 In Proceedings of 14th ACM Conference on Security and Privacy in Wireless and Mobile Networks (**ACM WiSec 2021**)
-
-[21] **SemperFi: A Spoofer Eliminating GPS Receiver for UAVs** <a href="https://arxiv.org/abs/2105.01860" class="label label-primary">Paper</a><br/>
-Harshad Sathaye, Gerald LaMountain, Pau Closas, *Aanjhan Ranganathan*<br/>
-arXiv:2105.01860 [cs.CR]<br/>
-**_Best Poster/Demo award_** at **WiSec 2020**
 
 [20] **Practical Side-Channel Attacks against WPA-TKIP** <a href="assets/schepers_asiaccs2019_tkip.pdf" class="label label-primary">Paper</a><br/>
 Domien Schepers, *Aanjhan Ranganathan*, Mathy Vanhoef<br/>
