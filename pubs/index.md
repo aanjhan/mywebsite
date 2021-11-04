@@ -7,6 +7,10 @@ layout: default
 
 The following are the list of papers (sorted in reverse chronological order) that I have (co)-authored.
 
+[25] **Privacy-Preserving Positioning in Wi-Fi Fine Timing Measurements** <br/>
+Domien Schepers, *Aanjhan Ranganathan*<br/>
+In Proceedings of Privacy Enhancing Technologies (**PoPETS 2022**) (_conditionally accepted_)
+
 [24] **SemperFi: Anti-spoofing GPS Receiver for UAVs** <br/>
 Harshad Sathaye, Gerald LaMountain, Pau Closas, *Aanjhan Ranganathan*<br/>
 In Proceedings of Network and Distributed System Security Symposium (**NDSS 2022**) (_to appear_)<br/>

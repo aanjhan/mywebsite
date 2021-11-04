@@ -22,26 +22,41 @@ I am very fortunate to work with some talented and motivated students.
 - Nakul Ramesh, MS (September 2019 - Dec 2019)
 
 ### News
+* Nov 2021: Paper on privacy-preserving positioning in 802.11 mc WiFi standard _conditionally_ accepted at PETS 2022!
+* Oct 2021: Two papers accepted at NDSS 2022! V-Range is a secure positioning system design for 5G-NR. Semper-Fi is an anti-spoofing GPS receiver specifically designed for UAVs.
+* Jun 2021: Invited talk at the Armasuisse Annual Cyber-alp retreat in Gstaad, Switzerland.
+* May 2021: Two papers accepted for publication at ACM WiSec 2021! Special congrats to [Domien Schepers] who led both the efforts.
 
-* Jul 2019: [Harshad Sathaye] will present our work on aircraft landing system security at the [Aviation Village, DEFCON](https://aviationvillage.org).
-* May 2019: We got the best poster/demo award at [WiSec 2019](https://wisec19.fiu.edu) for our ILS spoofing demo. 
-* May 2019: Lots of media coverage on our ILS attack [[Ars Technica](https://arstechnica.com/information-technology/2019/05/the-radio-navigation-planes-use-to-land-safely-is-insecure-and-can-be-hacked/), [The Register](https://www.theregister.co.uk/2019/05/16/airplane_landing_security/), [Slashdot](https://it.slashdot.org/story/19/05/16/1632231/hackers-can-fake-radio-signals-to-hijack-aircraft-landing-systems-warn-researchers)]
-* Apr 2019: Paper on new side-channel attacks on WPA-TKIP accepted at AsiaCCS 2019.
-* Mar 2019: Paper on wireless attacks on aircraft instrument landing systems accepted at Usenix Security 2019.
-* Mar 2019: Invited to serve on the program committee of Usenix Security 2020.
-* Feb 2019: Awarded the [NSF CRII grant] to build next-gen secure localization technologies. 
-* Jan 2019: Paper on the security of GPS/INS based road navigation systems accepted at IEEE S&P 2019.
-* Jan 2019: [Harshad Sathaye] joins the group as a PhD student. Welcome, Harshad!
-* Dec 2018: Invited to serve on the program committee of IEEE S&P 2020
-* Dec 2018: Invited to serve on the program committee of ACM Wisec 2019
-* Nov 2018: Invited to serve on the program committee of Safethings 2019
-* Sep 2018: [Domien Schepers] joins the group as a PhD student. Welcome, Domien!
-* Jun 2018: Invited to serve on the program committee of NDSS 2019
-* May 2018: Invited talk at armasuisse (Swiss Department of Defense, Research and Technology wing) in Thun, Switzerland
-* Apr 2018: Paper on information leakage in low-power wide area networks (conditionally) accepted at ACM WiSec 2018!
-* Feb 2018: Invited to serve as co-chair of the Poster/Demo session at ACM WiSec 2018
-* Feb 2018: Invited to serve on the technical program committee of ACM WiSec 2018
-* Jan 2018: Started as tenure-track assistant professor at Northeastern University, Boston, USA
+<details>
+
+  <summary><span style="color:gray;">Click for pre-pandemic era news!</span></summary>
+
+<div style="color:gray;">
+<ul>
+<li>Jul 2019: <a href="https://www.khoury.northeastern.edu/people/harshad-sathaye/">Harshad Sathaye</a> will present our work on aircraft landing system security at the <a href="https://aviationvillage.org">Aviation Village, DEFCON</a>.</li>
+<li>May 2019: We got the best poster/demo award at <a href="https://wisec19.fiu.edu">WiSec 2019</a> for our ILS spoofing demo. </li>
+<li>May 2019: Lots of media coverage on our ILS attack [<a href="https://arstechnica.com/information-technology/2019/05/the-radio-navigation-planes-use-to-land-safely-is-insecure-and-can-be-hacked/">Ars Technica</a>, <a href="https://www.theregister.co.uk/2019/05/16/airplane_landing_security/">The Register</a>, <a href="https://it.slashdot.org/story/19/05/16/1632231/hackers-can-fake-radio-signals-to-hijack-aircraft-landing-systems-warn-researchers">Slashdot</a>]</li>
+<li>Apr 2019: Paper on new side-channel attacks on WPA-TKIP accepted at AsiaCCS 2019.</li>
+<li>Mar 2019: Paper on wireless attacks on aircraft instrument landing systems accepted at Usenix Security 2019.</li>
+<li>Mar 2019: Invited to serve on the program committee of Usenix Security 2020.</li>
+<li>Feb 2019: Awarded the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1850264">NSF CRII grant</a> to build next-gen secure localization technologies. </li>
+<li>Jan 2019: Paper on the security of GPS/INS based road navigation systems accepted at IEEE S&amp;P 2019.</li>
+<li>Jan 2019: <a href="https://www.khoury.northeastern.edu/people/harshad-sathaye/">Harshad Sathaye</a> joins the group as a PhD student. Welcome, Harshad!</li>
+<li>Dec 2018: Invited to serve on the program committee of IEEE S&amp;P 2020</li>
+<li>Dec 2018: Invited to serve on the program committee of ACM Wisec 2019</li>
+<li>Nov 2018: Invited to serve on the program committee of Safethings 2019</li>
+<li>Sep 2018: <a href="https://www.khoury.northeastern.edu/people/domien-schepers/">Domien Schepers</a> joins the group as a PhD student. Welcome, Domien!</li>
+<li>Jun 2018: Invited to serve on the program committee of NDSS 2019</li>
+<li>May 2018: Invited talk at armasuisse (Swiss Department of Defense, Research and Technology wing) in Thun, Switzerland</li>
+<li>Apr 2018: Paper on information leakage in low-power wide area networks (conditionally) accepted at ACM WiSec 2018!</li>
+<li>Feb 2018: Invited to serve as co-chair of the Poster/Demo session at ACM WiSec 2018</li>
+<li>Feb 2018: Invited to serve on the technical program committee of ACM WiSec 2018</li>
+<li>Jan 2018: Started as tenure-track assistant professor at Northeastern University, Boston, USA</li>
+</ul>
+</div>
+  
+</details>
+
 
 [System Security group at ETH Zurich]:http://www.syssec.ethz.ch
 [EPFL]:http://epfl.ch
