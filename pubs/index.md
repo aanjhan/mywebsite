@@ -7,6 +7,10 @@ layout: default
 
 The following are the list of papers (sorted in reverse chronological order) that I have (co)-authored.
 
+[26] **ZLeaks: Passive Inference Attacks on Zigbee based Smart Homes**<br/>
+Narmeen Shafqat, Daniel Dubois, David Choffnes, Aaron Schulman, Dinesh Bharadia, *Aanjhan Ranganathan*<br/>
+In Proceedings of 20th International Conference on Applied Cryptography and Network Security (**ACNS 2022**) (_to appear_)
+
 [25] **Privacy-Preserving Positioning in Wi-Fi Fine Timing Measurements** <br/>
 Domien Schepers, *Aanjhan Ranganathan*<br/>
 In Proceedings of Privacy Enhancing Technologies (**PoPETS 2022**) (_conditionally accepted_)
