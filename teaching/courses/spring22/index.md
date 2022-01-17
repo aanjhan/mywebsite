@@ -11,7 +11,9 @@ layout: fullpage
 ### Logistics
 **Time and Location:** Mondays and Thursdays from *11.45am - 1.25 pm*. Kariotis Hall 309.
 
-**Teaching Assistants**: Narmeen Shafqat <@husky.neu.edu>, Harshad Sathaye <sathaye.h@husky.neu.edu> (TA office hours: TBD)
+**Office hours:** Mondays from 3 - 4 pm in ISEC 608
+
+**Teaching Assistants**: Narmeen Shafqat <@husky.neu.edu>, Harshad Sathaye <sathaye.h@husky.neu.edu> (TA office hours: Tuesdays 12 - 1 pm)
 
 ### Course Description
 Recent years have seen massive deployment of wireless devices and technologies around us. They are deployed in a wide variety of systems such as telephony, navigation, sensor networks, critical infrastructures etc. With the advent of the Internet of Things and autonomous cyber-physical systems, the proliferation of these wireless systems are only bound to increase. The broadcast nature of wireless technologies and the increased availabiloty of software defined radios have not only improved quality of life but pose significant security challenges. In particular, the course would cover the following topics:
@@ -45,10 +47,11 @@ There won't be any single text book for this course. Every lecture will contain 
 
 The grades will be based on paper summary reports, presentations and project work during the course of the semester.
 
-| Paper summaries / Discussion            | 35% |
-| Lab exercises and Assignments           | 20% |
+| Paper summaries / Discussion            | 30% |
+| Lab exercises and Assignments           | 25% |
+| Random Quizzes                          | 5%  |  
 | Project pitch                           | 5%  |
-| Project report                          | 20% |
+| Project report                          | 15% |
 | Project presentation                    | 20% |
 
 The assignments, paper summaries and the project are to be executed in small teams of 2.
@@ -61,31 +64,31 @@ The assignments, paper summaries and the project are to be executed in small tea
 |--------|------------------------------------------------------|-------|
 | 20 Jan | Course logistics, Basic Security Notions             |       |
 | 24 Jan | Wireless Basics                                      |       |
-| 27 Jan | Wireless Basics                                      |       |
+| 27 Jan | Wireless Basics                                      |  <span class="label label-primary">lab</span> Lab 1 out       |
 | 31 Jan | Jamming                                              |       |
-| 03 Feb | Jamming, Project Ideas                               | One on one discussions for projects this week |
-| 07 Feb | <span class="label label-primary">lab</span> *Lab Exercise 1 (Intro to SDR)*                       |       |
+| 03 Feb | Jamming, Project Ideas                               | Lab 2 due , One on one discussions for projects this week |
+| 07 Feb | <span class="label label-primary">lab</span> *Lab Exercise 2 (Intro to SDR)*                       |       |
 | 10 Feb | Wireless Channel-based Security                      |       |
-| 14 Feb | *Project pitches*                                      | Lab 1 due |
+| 14 Feb | *Project pitches*                                      | Lab 2 due |
 | 17 Feb | GNSS Security                                        |   |
-| 21 Feb | Patriots Day *no class*                                  |   |
-| 24 Feb | GNSS Security                                        | <span class="label label-primary">lab</span> Lab 2 out |
+| 21 Feb | <span style="color:grey">President's Day *no class*</span>      |   |
+| 24 Feb | GNSS Security, Secure Localization                                        | <span class="label label-primary">lab</span> Lab 3 out |
 | 28 Feb | *in class lab*                                        |   |
-| 03 Mar | Secure Localization                                  |   |
-| 07 Mar | Secure Localization                                  | Lab 2 due |
+| 03 Mar | Secure Localization                                  | Lab 3 due  |
+| 07 Mar | *Paper presentation #1*                                  |  |
 | 10 Mar | *Paper presentation #1*                               |       |
-| 14 Mar | *Paper presentation #1*                                |       |
-| 17 Mar | Broadcast authentication                             |       |
-| 21 Mar | <span class="label label-primary">lab</span> *Lab 3: Ring the bell*                                |       |
-| 24 Mar | <span class="label label-primary">lab</span> *Lab 3: Ring the bell*                         |       |
+| 14 Mar | <span style="color:grey">Spring break *no class*</span>      |       |
+| 17 Mar | <span style="color:grey">Spring break *no class*</span>                             |       |
+| 21 Mar | Broadcast authentication                             |       |
+| 24 Mar | <span class="label label-primary">lab</span> *Lab 4: Ring the bell*                         |       |
 | 28 Mar | 802.11 wireless security                           |       |
 | 31 Mar | 802.11 wireless security                             |       |
-| 04 Apr | 802.11 wireless security                             |       |
-| 11 Apr | <span class="label label-primary">lab</span> *Lab 4: WEP/WPA2 cracking*                                    | Lab 3 due      |
-| 14 Apr | Cellular networks                             |       |
-| 18 Apr | Cellular networks                                     |       |
+| 04 Apr | <span class="label label-primary">lab</span> *Lab 5: WEP/WPA2 cracking*                                    | Lab 4 due      |
+| 11 Apr | Cellular networks                             |       |
+| 14 Apr | Cellular networks                                     | Lab 5 due       |
+| 18 Apr | <span style="color:grey">Patriot's Day *no class*</span>    |       |
 | 21 Apr | *Paper presentations #2*                                    |      |
-| 25 Apr | *Paper presentations #2*                                    | Lab 4 due      |
+| 25 Apr | *Paper presentations #2*                                    |      |
 | 28 Apr | *Final Project presentation*                               |       |
 | 02 May | *Reserve day*                               |       |
 

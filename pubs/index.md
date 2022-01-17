@@ -13,7 +13,7 @@ In Proceedings of 20th International Conference on Applied Cryptography and Netw
 
 [25] **Privacy-Preserving Positioning in Wi-Fi Fine Timing Measurements** <br/>
 Domien Schepers, *Aanjhan Ranganathan*<br/>
-In Proceedings of Privacy Enhancing Technologies (**PoPETS 2022**) (_conditionally accepted_)
+In Proceedings of Privacy Enhancing Technologies (**PoPETS 2022**) (_to appear_)
 
 [24] **SemperFi: Anti-spoofing GPS Receiver for UAVs** <br/>
 Harshad Sathaye, Gerald LaMountain, Pau Closas, *Aanjhan Ranganathan*<br/>
@@ -22,7 +22,7 @@ In Proceedings of Network and Distributed System Security Symposium (**NDSS 2022
 
 [23] **V-Range: Enabling Secure Ranging in 5G Wireless Networks**<br/>
 Mridula Singh, Marc Roeschlin, *Aanjhan Ranganathan*, Srdjan Capkun<br/>
-In Proceedings of Network and Distributed System Security Symposium (**NDSS 2022**) (_to appear_)<br/>
+In Proceedings of Network and Distributed System Security Symposium (**NDSS 2022**) (_to appear_)
 
 [22] **Here, There, and Everywhere: Security Analysis of Wi-Fi Fine Timing Measurement** <a href="assets/schepers_ftm_wisec21.pdf" class="label label-primary">Paper</a><br/>
 Domien Schepers, Mridula Singh, *Aanjhan Ranganathan*<br/>
