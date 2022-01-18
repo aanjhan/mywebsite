@@ -4,6 +4,9 @@ layout: default
 ---
 
 ### Professional & Social Activities
+- Technical Program Committee Member for IEEE S&P 2023
+- Technical Program Committee Member for IEEE Safethings 2022
+- Technical Program Committee Member for WiSec 2022
 - Replicability committee co-chair for WiSec 2021
 - Review Editor on the Frontiers in Communications and Networks Editorial Board
 - Technical Program Committee Member for ACNS 2021
