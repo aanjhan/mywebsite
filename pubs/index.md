@@ -11,18 +11,18 @@ The following are the list of papers (sorted in reverse chronological order) tha
 Narmeen Shafqat, Daniel Dubois, David Choffnes, Aaron Schulman, Dinesh Bharadia, *Aanjhan Ranganathan*<br/>
 In Proceedings of 20th International Conference on Applied Cryptography and Network Security (**ACNS 2022**) (_to appear_)
 
-[25] **Privacy-Preserving Positioning in Wi-Fi Fine Timing Measurements** <br/>
+[25] **Privacy-Preserving Positioning in Wi-Fi Fine Timing Measurements** <a href="assets/schepers_pets21.pdf" class="label label-primary">Paper</a> <a href="https://github.com/domienschepers/wifi-ftm" class="label label-info">Website</a> <br/>
 Domien Schepers, *Aanjhan Ranganathan*<br/>
-In Proceedings of Privacy Enhancing Technologies (**PoPETS 2022**) (_to appear_)
+In Proceedings of Privacy Enhancing Technologies (**PoPETS 2022**)
 
-[24] **SemperFi: Anti-spoofing GPS Receiver for UAVs** <br/>
+[24] **SemperFi: Anti-spoofing GPS Receiver for UAVs** <a href="assets/sathaye_semperfi.pdf" class="label label-primary">Paper</a> <a href="https://semperfi-gps.com" class="label label-info">Website</a><br/>
 Harshad Sathaye, Gerald LaMountain, Pau Closas, *Aanjhan Ranganathan*<br/>
-In Proceedings of Network and Distributed System Security Symposium (**NDSS 2022**) (_to appear_)<br/>
+In Proceedings of Network and Distributed System Security Symposium (**NDSS 2022**) <br/>
 **_Best Poster/Demo award_** at **WiSec 2020**
 
-[23] **V-Range: Enabling Secure Ranging in 5G Wireless Networks**<br/>
+[23] **V-Range: Enabling Secure Ranging in 5G Wireless Networks** <a href="assets/singh_vrange.pdf" class="label label-primary">Paper</a><br/>
 Mridula Singh, Marc Roeschlin, *Aanjhan Ranganathan*, Srdjan Capkun<br/>
-In Proceedings of Network and Distributed System Security Symposium (**NDSS 2022**) (_to appear_)
+In Proceedings of Network and Distributed System Security Symposium (**NDSS 2022**)
 
 [22] **Here, There, and Everywhere: Security Analysis of Wi-Fi Fine Timing Measurement** <a href="assets/schepers_ftm_wisec21.pdf" class="label label-primary">Paper</a><br/>
 Domien Schepers, Mridula Singh, *Aanjhan Ranganathan*<br/>
