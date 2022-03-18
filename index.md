@@ -22,6 +22,7 @@ I am very fortunate to work with some talented and motivated students.
 - Nakul Ramesh, MS (September 2019 - Dec 2019)
 
 ### News
+* Mar 2022: Paper on the robustness of WiFi De-authentication countermeasures accepted at WiSec 2022! Congrats Domien!
 * Nov 2021: Paper on information leakage in Zigbee home networks accepted at ACNS 2022!
 * Nov 2021: Paper on privacy-preserving positioning in 802.11 mc WiFi standard _conditionally_ accepted at PETS 2022!
 * Oct 2021: Two papers accepted at NDSS 2022! V-Range is a secure positioning system design for 5G-NR. Semper-Fi is an anti-spoofing GPS receiver specifically designed for UAVs.

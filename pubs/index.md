@@ -7,6 +7,10 @@ layout: default
 
 The following are the list of papers (sorted in reverse chronological order) that I have (co)-authored.
 
+[27] **On the Robustness of Wi-Fi Deauthentication Countermeasures** <br/>
+Domien Schepers, *Aanjhan Ranganathan*, Mathy Vanhoef<br/>
+In Proceedings of 15th ACM Conference on Security and Privacy in Wireless and Mobile Networks (**ACM WiSec 2022**) (_to appear_)
+
 [26] **ZLeaks: Passive Inference Attacks on Zigbee based Smart Homes**<br/>
 Narmeen Shafqat, Daniel Dubois, David Choffnes, Aaron Schulman, Dinesh Bharadia, *Aanjhan Ranganathan*<br/>
 In Proceedings of 20th International Conference on Applied Cryptography and Network Security (**ACNS 2022**) (_to appear_)
