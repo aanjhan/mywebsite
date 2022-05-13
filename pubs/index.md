@@ -9,7 +9,7 @@ The following are the list of papers (sorted in reverse chronological order) tha
 
 [27] **On the Robustness of Wi-Fi Deauthentication Countermeasures** <br/>
 Domien Schepers, *Aanjhan Ranganathan*, Mathy Vanhoef<br/>
-In Proceedings of 15th ACM Conference on Security and Privacy in Wireless and Mobile Networks (**ACM WiSec 2022**) <a href="assets/schepers22wisec" class="label label-primary">Paper</a>
+In Proceedings of 15th ACM Conference on Security and Privacy in Wireless and Mobile Networks (**ACM WiSec 2022**) <a href="assets/schepers22wisec.pdf" class="label label-primary">Paper</a>
 
 [26] **ZLeaks: Passive Inference Attacks on Zigbee based Smart Homes**<br/>
 Narmeen Shafqat, Daniel Dubois, David Choffnes, Aaron Schulman, Dinesh Bharadia, *Aanjhan Ranganathan*<br/>
