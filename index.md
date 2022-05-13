@@ -11,6 +11,7 @@ Aanjhan is an Assistant Professor in the [Khoury College of Computer Sciences] a
 #### Team
 I am very fortunate to work with some talented and motivated students.
 
+- Evangelos (Vaggelis) Bitsikas, PhD student (September 2022 onwards)
 - [Maryam Motallebighomi], PhD student (September 2020 - present)
 - [Narmeen Shafqat], PhD student (September 2019 - present)
 - [Harshad Sathaye], PhD student (January 2019 - present) (co-advised with Prof. Guevara Noubir)
