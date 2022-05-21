@@ -7,6 +7,10 @@ layout: default
 
 The following are the list of papers (sorted in reverse chronological order) that I have (co)-authored.
 
+[28] **An Experimental Study of GPS Spoofing and Takeover Attacks on UAVs** <br/>
+Harshad Sathaye, Martin Strohmeier, Vincent Lenders, *Aanjhan Ranganathan*<br/>
+In Proceedings of 31st USENIX Security Symposium (**USENIX Security 2022**) (_to appear_)
+
 [27] **On the Robustness of Wi-Fi Deauthentication Countermeasures** <br/>
 Domien Schepers, *Aanjhan Ranganathan*, Mathy Vanhoef<br/>
 In Proceedings of 15th ACM Conference on Security and Privacy in Wireless and Mobile Networks (**ACM WiSec 2022**) <a href="assets/schepers22wisec.pdf" class="label label-primary">Paper</a>

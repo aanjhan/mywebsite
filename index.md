@@ -23,6 +23,8 @@ I am very fortunate to work with some talented and motivated students.
 - Nakul Ramesh, MS (September 2019 - Dec 2019)
 
 ### News
+* May 2022: Paper on an experimental study of GPS spoofing and takeover attacks on UAVs accepted at Usenix Security 2022! Congrats Harshad!
+* May 2022: Won the top prize of $50k at sandpit challenge organized by INCS-COE in collaboration with Prof. Alessio Lomuscio at Imperial College, London.
 * Mar 2022: Paper on the robustness of WiFi De-authentication countermeasures accepted at WiSec 2022! Congrats Domien!
 * Nov 2021: Paper on information leakage in Zigbee home networks accepted at ACNS 2022!
 * Nov 2021: Paper on privacy-preserving positioning in 802.11 mc WiFi standard _conditionally_ accepted at PETS 2022!
