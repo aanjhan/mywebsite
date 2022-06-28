@@ -17,7 +17,8 @@ In Proceedings of 15th ACM Conference on Security and Privacy in Wireless and Mo
 
 [26] **ZLeaks: Passive Inference Attacks on Zigbee based Smart Homes**<br/>
 Narmeen Shafqat, Daniel Dubois, David Choffnes, Aaron Schulman, Dinesh Bharadia, *Aanjhan Ranganathan*<br/>
-In Proceedings of 20th International Conference on Applied Cryptography and Network Security (**ACNS 2022**) <a href="assets/shafqat22acns.pdf" class="label label-primary">Paper</a>
+In Proceedings of 20th International Conference on Applied Cryptography and Network Security (**ACNS 2022**) <a href="assets/shafqat22acns.pdf" class="label label-primary">Paper</a><br/>
+**_Best Student Paper award_** at **ACNS 2022**
 
 [25] **Privacy-Preserving Positioning in Wi-Fi Fine Timing Measurements** <a href="assets/schepers_pets21.pdf" class="label label-primary">Paper</a> <a href="https://github.com/domienschepers/wifi-ftm" class="label label-info">Website</a> <br/>
 Domien Schepers, *Aanjhan Ranganathan*<br/>

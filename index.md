@@ -23,6 +23,7 @@ I am very fortunate to work with some talented and motivated students.
 - Nakul Ramesh, MS (September 2019 - Dec 2019)
 
 ### News
+* Jun 2022: Our paper on Zigbee information leaks was awarded the Best Student Paper award at ACNS 2022. Congrats Narmeen!
 * May 2022: Paper on an experimental study of GPS spoofing and takeover attacks on UAVs accepted at Usenix Security 2022! Congrats Harshad!
 * May 2022: Won the top prize of $50k at sandpit challenge organized by INCS-COE in collaboration with Prof. Alessio Lomuscio at Imperial College, London.
 * Mar 2022: Paper on the robustness of WiFi De-authentication countermeasures accepted at WiSec 2022! Congrats Domien!
