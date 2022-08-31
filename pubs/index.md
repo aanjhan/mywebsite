@@ -9,7 +9,7 @@ The following are the list of papers (sorted in reverse chronological order) tha
 
 [28] **An Experimental Study of GPS Spoofing and Takeover Attacks on UAVs** <br/>
 Harshad Sathaye, Martin Strohmeier, Vincent Lenders, *Aanjhan Ranganathan*<br/>
-In Proceedings of 31st USENIX Security Symposium (**USENIX Security 2022**) (_to appear_)
+In Proceedings of 31st USENIX Security Symposium (**USENIX Security 2022**) <a href="assets/sathaye22_usenix.pdf" class="label label-primary">Paper</a>
 
 [27] **On the Robustness of Wi-Fi Deauthentication Countermeasures** <br/>
 Domien Schepers, *Aanjhan Ranganathan*, Mathy Vanhoef<br/>

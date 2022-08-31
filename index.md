@@ -22,6 +22,15 @@ I am very fortunate to work with some talented and motivated students.
 - Cathleen Zhang, BS (July 2020 - July 2021)
 - Nakul Ramesh, MS (September 2019 - Dec 2019)
 
+#### Sponsors
+Thanks to all the following organization for generously funding my research:
+- U.S. National Science Foundation (NSF)
+- armasuisse S+T (Dept of Defense in Switzerland)
+- U.S. Office of Naval Research (ONR)
+- U.S. Army Combat Capabilities Development Command (ARL/DEVCOM)
+- U.S. Army Research Laboratory (ARL)
+
+
 ### News
 * Jul 2022: Awarded the NSF CAREER grant for developing security paradigms for next-generation wireless networks. Thank you NSF!
 * Jun 2022: Our paper on Zigbee information leaks was awarded the Best Student Paper award at ACNS 2022. Congrats Narmeen!
