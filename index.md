@@ -32,6 +32,7 @@ Thanks to all the following organization for generously funding my research:
 
 
 ### News
+* Sep 2022: Paper on implications of spoofing aviation data link applications accepted to ACSAC 2022. Congrats Harshad!
 * Jul 2022: Awarded the NSF CAREER grant for developing security paradigms for next-generation wireless networks. Thank you NSF!
 * Jun 2022: Our paper on Zigbee information leaks was awarded the Best Student Paper award at ACNS 2022. Congrats Narmeen!
 * May 2022: Paper on an experimental study of GPS spoofing and takeover attacks on UAVs accepted at Usenix Security 2022! Congrats Harshad!

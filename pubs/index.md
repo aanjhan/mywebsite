@@ -7,6 +7,10 @@ layout: default
 
 The following are the list of papers (sorted in reverse chronological order) that I have (co)-authored.
 
+[29] **On the Implications of Spoofing and Jamming Aviation Datalink Applications** <br/>
+Harshad Sathaye, Guevara Noubir, *Aanjhan Ranganathan*<br/>
+In Proceedings of Annual Computer Security Applications Conference (**ACSAC 2022**) (_to appear_)
+
 [28] **An Experimental Study of GPS Spoofing and Takeover Attacks on UAVs** <br/>
 Harshad Sathaye, Martin Strohmeier, Vincent Lenders, *Aanjhan Ranganathan*<br/>
 In Proceedings of 31st USENIX Security Symposium (**USENIX Security 2022**) <a href="assets/sathaye22_usenix.pdf" class="label label-primary">Paper</a>
