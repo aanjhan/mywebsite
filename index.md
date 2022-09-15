@@ -11,7 +11,7 @@ Aanjhan is an Assistant Professor in the [Khoury College of Computer Sciences] a
 #### Team
 I am very fortunate to work with some talented and motivated students.
 
-- Evangelos (Vaggelis) Bitsikas, PhD student (September 2022 onwards)
+- [Evangelos (Vaggelis) Bitsikas], PhD student (September 2022 onwards)
 - [Maryam Motallebighomi], PhD student (September 2020 - present)
 - [Narmeen Shafqat], PhD student (September 2019 - present)
 - [Harshad Sathaye], PhD student (January 2019 - present) (co-advised with Prof. Guevara Noubir)
@@ -84,5 +84,6 @@ Thanks to all the following organization for generously funding my research:
 [Harshad Sathaye]:https://www.khoury.northeastern.edu/people/harshad-sathaye/
 [Narmeen Shafqat]:https://www.khoury.northeastern.edu/people/narmeen-shafqat/
 [Maryam Motallebighomi]:https://www.khoury.northeastern.edu/people/maryam-motallebighomi/
+[Evangelos (Vaggelis) Bitsikas]:https://evangelosbitsikas.com
 [NSF CRII grant]:https://www.nsf.gov/awardsearch/showAward?AWD_ID=1850264
 [Department of Electrical and Computer Engineering]:https://ece.northeastern.edu
