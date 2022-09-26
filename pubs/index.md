@@ -7,6 +7,10 @@ layout: default
 
 The following are the list of papers (sorted in reverse chronological order) that I have (co)-authored.
 
+[30] **Framing Frames: Bypassing Wi-Fi Encryption by Manipulating Transmit Queues** <br/>
+Domien Schepers, *Aanjhan Ranganathan*, Mathy Vanhoef<br/>
+In Proceedings of 32nd USENIX Security Symposium (**USENIX Security 2023**) (_to appear_) 
+
 [29] **On the Implications of Spoofing and Jamming Aviation Datalink Applications** <br/>
 Harshad Sathaye, Guevara Noubir, *Aanjhan Ranganathan*<br/>
 In Proceedings of Annual Computer Security Applications Conference (**ACSAC 2022**) (_to appear_)
