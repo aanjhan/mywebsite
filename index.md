@@ -32,6 +32,8 @@ Thanks to all the following organization for generously funding my research:
 
 
 ### News
+* Dec 2022: Our paper on implications of spoofing aviation data link applications got _Honorable Mention_ at ACSAC 2022!
+* Dec 2022: Paper on spoofing attacks on automotive FMCW radars using millimeter-wave reflect arrays accepted to S&P 2023! 
 * Sep 2022: Paper on how security context in Wi-Fi frames are mishandled causing several critical vulnerabilities accepted at Usenix Security 2023. Congrats to Domien who is wrapping up his thesis with a bang!
 * Sep 2022: Paper on implications of spoofing aviation data link applications accepted to ACSAC 2022. Congrats Harshad!
 * Jul 2022: Awarded the NSF CAREER grant for developing security paradigms for next-generation wireless networks. Thank you NSF!
