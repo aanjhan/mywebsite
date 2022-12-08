@@ -21,8 +21,8 @@ In Proceedings of 32nd USENIX Security Symposium (**USENIX Security 2023**) (_to
 
 [29] **On the Implications of Spoofing and Jamming Aviation Datalink Applications** <br/>
 Harshad Sathaye, Guevara Noubir, *Aanjhan Ranganathan*<br/>
-In Proceedings of Annual Computer Security Applications Conference (**ACSAC 2022**) (_to appear_)<br/>
-**_Honourable Mention_** at **ACSAC 2022**
+In Proceedings of Annual Computer Security Applications Conference (**ACSAC 2022**) <a href="assets/sathaye22_acsac.pdf" class="label label-primary">Paper</a><br/>
+<i class="fa fa-trophy"></i> **_Honourable Mention_** at **ACSAC 2022** <i class="fa fa-trophy"></i> 
 
 [28] **An Experimental Study of GPS Spoofing and Takeover Attacks on UAVs** <br/>
 Harshad Sathaye, Martin Strohmeier, Vincent Lenders, *Aanjhan Ranganathan*<br/>
@@ -35,7 +35,7 @@ In Proceedings of 15th ACM Conference on Security and Privacy in Wireless and Mo
 [26] **ZLeaks: Passive Inference Attacks on Zigbee based Smart Homes**<br/>
 Narmeen Shafqat, Daniel Dubois, David Choffnes, Aaron Schulman, Dinesh Bharadia, *Aanjhan Ranganathan*<br/>
 In Proceedings of 20th International Conference on Applied Cryptography and Network Security (**ACNS 2022**) <a href="assets/shafqat22acns.pdf" class="label label-primary">Paper</a><br/>
-**_Best Student Paper award_** at **ACNS 2022**
+<i class="fa fa-trophy"></i> **_Best Student Paper award_** at **ACNS 2022** <i class="fa fa-trophy"></i>
 
 [25] **Privacy-Preserving Positioning in Wi-Fi Fine Timing Measurements** <a href="assets/schepers_pets21.pdf" class="label label-primary">Paper</a> <a href="https://github.com/domienschepers/wifi-ftm" class="label label-info">Website</a> <br/>
 Domien Schepers, *Aanjhan Ranganathan*<br/>
