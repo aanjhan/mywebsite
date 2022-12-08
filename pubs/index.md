@@ -44,7 +44,7 @@ In Proceedings of Privacy Enhancing Technologies (**PoPETS 2022**)
 [24] **SemperFi: Anti-spoofing GPS Receiver for UAVs** <a href="assets/sathaye_semperfi.pdf" class="label label-primary">Paper</a> <a href="https://semperfi-gps.com" class="label label-info">Website</a><br/>
 Harshad Sathaye, Gerald LaMountain, Pau Closas, *Aanjhan Ranganathan*<br/>
 In Proceedings of Network and Distributed System Security Symposium (**NDSS 2022**) <br/>
-**_Best Poster/Demo award_** at **WiSec 2020**
+<i class="fa fa-trophy"></i> **_Best Poster/Demo award_** at **WiSec 2020** <i class="fa fa-trophy"></i>
 
 [23] **V-Range: Enabling Secure Ranging in 5G Wireless Networks** <a href="assets/singh_vrange.pdf" class="label label-primary">Paper</a><br/>
 Mridula Singh, Marc Roeschlin, *Aanjhan Ranganathan*, Srdjan Capkun<br/>
@@ -69,7 +69,7 @@ In Proceedings of 14th ACM Asia Conference on Information, Computer and Communic
 [19] **Wireless Attacks on Aircraft Instrument Landing Systems** <a href="assets/ils_usenix2019.pdf" class="label label-primary">Paper</a> <a href="https://www.youtube.com/watch?v=Wp4CpyxYJq4" class="label label-danger">Video</a><br/>
 Harshad Sathaye, Domien Schepers, *Aanjhan Ranganathan*, Guevara Noubir<br/>
 In Proceedings of 28th USENIX Security Symposium (**USENIX Security 19**) <br/>
-**_Best Poster/Demo award_** at **WiSec 2019**<br/>
+<i class="fa fa-trophy"></i> **_Best Poster/Demo award_** at **WiSec 2019** <i class="fa fa-trophy"></i><br/>
 **_Media coverage:_** [[Ars Technica](https://arstechnica.com/information-technology/2019/05/the-radio-navigation-planes-use-to-land-safely-is-insecure-and-can-be-hacked/), [The Register](https://www.theregister.co.uk/2019/05/16/airplane_landing_security/), [Slashdot](https://it.slashdot.org/story/19/05/16/1632231/hackers-can-fake-radio-signals-to-hijack-aircraft-landing-systems-warn-researchers)]
 
 [18] **Security of GPS/INS based On-road Location Tracking Systems** <a href="assets/gpsins_sashank.pdf" class="label label-primary">Paper</a> <a href="https://www.youtube.com/watch?v=Tvj8Fv5jFLw" class="label label-danger">Video</a><br/>
@@ -99,12 +99,13 @@ IEEE Security & Privacy Magazine (<a href="http://ieeexplore.ieee.org/document/7
 <a href="assets/thesis_abstract.pdf" class="label label-primary">Abstract</a> <a href="assets/aanjhan_thesis.pdf" class="label label-primary">Full-text</a> <a href="assets/aanjhan_thesis.bib" class="label label-default">Bibtex</a><br/>
 *Aanjhan Ranganathan*<br/>
 Ph.D. Dissertation, 2016<br/>
-**_ETH Medal for Outstanding Dissertation_**
+<i class="fa fa-trophy"></i> **_ETH Medal for Outstanding Dissertation_** <i class="fa fa-trophy"></i>
 
 [13] **SPREE: Spoofing Resistant GPS Receiver**
 <a href="assets/spree_mobicom2016.pdf" class="label label-primary">Paper</a> <a href="assets/spree_ranganathan16.bib" class="label label-default">Bibtex</a><br/>
 *Aanjhan Ranganathan*, Hildur Ólafsdóttir, Srdjan Capkun<br/>
-In Proceedings of the 22nd Annual International Conference on Mobile Computing and Networking (**MobiCom 2016**)
+In Proceedings of the 22nd Annual International Conference on Mobile Computing and Networking (**MobiCom 2016**)<br/>
+<i class="fa fa-trophy"></i> **_Regional Winner-Switzerland ESA Satellite Navigation Competition_** <i class="fa fa-trophy"></i>
 
 [12] **Investigation of Multi-device Location Spoofing Attacks on Air Traffic Control and Possible Countermeasures**
 <a href="assets/tdoaSpoofing_moser16.pdf" class="label label-primary">Paper</a> <a href="assets/tdoaSpoofing.bib" class="label label-default">Bibtex</a><br/>
