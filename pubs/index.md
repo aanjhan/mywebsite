@@ -22,7 +22,7 @@ In Proceedings of 32nd USENIX Security Symposium (**USENIX Security 2023**) (_to
 [29] **On the Implications of Spoofing and Jamming Aviation Datalink Applications** <br/>
 Harshad Sathaye, Guevara Noubir, *Aanjhan Ranganathan*<br/>
 In Proceedings of Annual Computer Security Applications Conference (**ACSAC 2022**) <a href="assets/sathaye22_acsac.pdf" class="label label-primary">Paper</a><br/>
-<i class="fa fa-trophy"></i> **_Honourable Mention_** at **ACSAC 2022** <i class="fa fa-trophy"></i> 
+<i class="fa-solid fa-bullhorn"></i> **_Honourable Mention_** at **ACSAC 2022** <i class="fa-solid fa-bullhorn"></i> 
 
 [28] **An Experimental Study of GPS Spoofing and Takeover Attacks on UAVs** <br/>
 Harshad Sathaye, Martin Strohmeier, Vincent Lenders, *Aanjhan Ranganathan*<br/>
@@ -99,7 +99,7 @@ IEEE Security & Privacy Magazine (<a href="http://ieeexplore.ieee.org/document/7
 <a href="assets/thesis_abstract.pdf" class="label label-primary">Abstract</a> <a href="assets/aanjhan_thesis.pdf" class="label label-primary">Full-text</a> <a href="assets/aanjhan_thesis.bib" class="label label-default">Bibtex</a><br/>
 *Aanjhan Ranganathan*<br/>
 Ph.D. Dissertation, 2016<br/>
-<i class="fa fa-trophy"></i> **_ETH Medal for Outstanding Dissertation_** <i class="fa fa-trophy"></i>
+<i class="fa-solid fa-medal"></i> **_ETH Medal for Outstanding Dissertation_** <i class="fa-solid fa-medal"></i>
 
 [13] **SPREE: Spoofing Resistant GPS Receiver**
 <a href="assets/spree_mobicom2016.pdf" class="label label-primary">Paper</a> <a href="assets/spree_ranganathan16.bib" class="label label-default">Bibtex</a><br/>
