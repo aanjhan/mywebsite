@@ -11,16 +11,15 @@ Aanjhan is an Assistant Professor in the [Khoury College of Computer Sciences] a
 #### Team
 I am very fortunate to work with some talented and motivated students.
 
-- [Evangelos (Vaggelis) Bitsikas], PhD student (September 2022 onwards)
-- [Maryam Motallebighomi], PhD student (September 2020 - present)
-- [Narmeen Shafqat], PhD student (September 2019 - present)
-- [Harshad Sathaye], PhD student (January 2019 - present) (co-advised with Prof. Guevara Noubir)
-- [Domien Schepers], PhD student (September 2018 - present)
-
+- [Evangelos (Vaggelis) Bitsikas], PhD student (Sep 2022 onwards)
+- [Maryam Motallebighomi], PhD student (Sep 2020 - present)
+- [Narmeen Shafqat], PhD student (Sep 2019 - present)
+- [Harshad Sathaye], PhD student (Jan 2019 - May 2023) (co-advised with Prof. Guevara Noubir)
 
 **Alumni**
-- Cathleen Zhang, BS (July 2020 - July 2021)
-- Nakul Ramesh, MS (September 2019 - Dec 2019)
+- [Dr. Domien Schepers], PhD student (Sep 2018 - Jan 2023) -> Qualcomm
+- Cathleen Zhang, BS (Jul 2020 - Jul 2021)
+- Nakul Ramesh, MS (Sep 2019 - Dec 2019)
 
 #### Sponsors
 Thanks to all the following organization for generously funding my research:
@@ -32,6 +31,8 @@ Thanks to all the following organization for generously funding my research:
 
 
 ### News
+* Apr 2023: Harshad defends his thesis "Towards Secure Autonomous Aerial Vehicle Navigation"! Congrats Dr. Harshad Sathaye.
+* Jan 2023: Domien defends his thesis "Towards Rapid Prototyping for Wi-Fi Security Research"! Congrats Dr. Domien Schepers.
 * Dec 2022: Our paper on implications of spoofing aviation data link applications got _Honorable Mention_ at ACSAC 2022!
 * Dec 2022: Paper on spoofing attacks on automotive FMCW radars using millimeter-wave reflect arrays accepted to S&P 2023! 
 * Sep 2022: Paper on how security context in Wi-Fi frames are mishandled causing several critical vulnerabilities accepted at Usenix Security 2023. Congrats to Domien who is wrapping up his thesis with a bang!
@@ -83,7 +84,7 @@ Thanks to all the following organization for generously funding my research:
 [Prof. Dr. Srdjan Capkun]:http://www.syssec.ethz.ch/people/capkun.html
 [Khoury College of Computer Sciences]:http://khoury.northeastern.edu
 [Northeastern University]:http://www.northeastern.edu
-[Domien Schepers]:https://www.khoury.northeastern.edu/people/domien-schepers/
+[Dr. Domien Schepers]:https://www.khoury.northeastern.edu/people/domien-schepers/
 [Harshad Sathaye]:https://www.khoury.northeastern.edu/people/harshad-sathaye/
 [Narmeen Shafqat]:https://www.khoury.northeastern.edu/people/narmeen-shafqat/
 [Maryam Motallebighomi]:https://www.khoury.northeastern.edu/people/maryam-motallebighomi/
