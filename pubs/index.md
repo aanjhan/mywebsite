@@ -9,13 +9,13 @@ The following are the list of papers (sorted in reverse chronological order) tha
 
 ### 2023
 
-[31] **mmSpoof: Spoofing Attacks on Automotive FMCW Radars using Millimeter-wave Reflect Array** <br/>
-Rohith Reddy Vennam, Ish Kumar Jain, Kshitiz Bansal, Joshua Orozco, Puja Shukla, *Aanjhan Ranganathan*, Dinesh Bharadia<br/>
-In Proceedings of the 44th IEEE Symposium on Security and Privacy (**S&P 2023**) (_to appear_)
-
-[30] **Framing Frames: Bypassing Wi-Fi Encryption by Manipulating Transmit Queues** <br/>
+[32] **Framing Frames: Bypassing Wi-Fi Encryption by Manipulating Transmit Queues** <br/>
 Domien Schepers, *Aanjhan Ranganathan*, Mathy Vanhoef<br/>
 In Proceedings of 32nd USENIX Security Symposium (**USENIX Security 2023**) (_to appear_) 
+
+[30] **mmSpoof: Spoofing Attacks on Automotive FMCW Radars using Millimeter-wave Reflect Array** <br/>
+Rohith Reddy Vennam, Ish Kumar Jain, Kshitiz Bansal, Joshua Orozco, Puja Shukla, *Aanjhan Ranganathan*, Dinesh Bharadia<br/>
+In Proceedings of the 44th IEEE Symposium on Security and Privacy (**S&P 2023**) (_to appear_)
 
 ### 2022
 

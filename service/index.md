@@ -4,6 +4,7 @@ layout: default
 ---
 
 ### Professional & Social Activities
+- Technical Program Committee Member for SpaceSec 2023
 - Technical Program Committee Member for ACM WiSec 2023
 - Technical Program Committee Member for Usenix Security 2023
 - Technical Program Committee Member for IEEE S&P 2023
