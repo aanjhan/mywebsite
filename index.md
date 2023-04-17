@@ -50,7 +50,7 @@ Thanks to all the following organization for generously funding my research:
 
 <details>
 
-  <summary><span style="color:gray;">Click for pre-pandemic era news!</span></summary>
+  <summary><span style="color:gray;">Archived News!</span></summary>
 
 <div style="color:gray;">
 <ul>

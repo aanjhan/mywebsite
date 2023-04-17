@@ -9,6 +9,14 @@ The following are the list of papers (sorted in reverse chronological order) tha
 
 ### 2023
 
+[34] **UE Security Reloaded: Developing a 5G Standalone User-Side Security Testing Framework** <br/>
+Evangelos Bitsikas, Syed Khandker, Ahmad Salous, *Aanjhan Ranganathan*, Roger Piqueras Jover, Christina Poepper<br/>
+In Proceedings of 16th ACM Conference on Security and Privacy in Wireless and Mobile Networks (**ACM WiSec 2023**) (_to appear_) 
+
+[33] **Location Independent GNSS Relay Attack: A Lazy Attacker's Guide to Bypassing Navigation Message Authentication** <br/>
+Marya Motallebighomi, Harshad Sathaye, Mridula Singh, *Aanjhan Ranganathan*<br/>
+In Proceedings of 16th ACM Conference on Security and Privacy in Wireless and Mobile Networks (**ACM WiSec 2023**) (_to appear_) 
+
 [32] **Framing Frames: Bypassing Wi-Fi Encryption by Manipulating Transmit Queues** <br/>
 Domien Schepers, *Aanjhan Ranganathan*, Mathy Vanhoef<br/>
 In Proceedings of 32nd USENIX Security Symposium (**USENIX Security 2023**) (_to appear_) 
