@@ -9,6 +9,14 @@ The following are the list of papers (sorted in reverse chronological order) tha
 
 ### 2023
 
+[36] **Analyzing the Impact of GNSS Spoofing on Swarms of Unmanned Systems** <br/>
+*Aanjhan Ranganathan*, Pau Closas<br/>
+Extended Abstract at Institute of Navigation GNSS+ 2023 (_to appear_) 
+
+[35] **Galileo-SDR-SIM: An Open-Source Tool for Generating Galileo Satellite Signals** <br/>
+Harshad Sathaye, Maryam Motallebighomi, *Aanjhan Ranganathan*<br/>
+Extended Abstract at Institute of Navigation GNSS+ 2023 (_to appear_) 
+
 [34] **UE Security Reloaded: Developing a 5G Standalone User-Side Security Testing Framework** <br/>
 Evangelos Bitsikas, Syed Khandker, Ahmad Salous, *Aanjhan Ranganathan*, Roger Piqueras Jover, Christina Poepper<br/>
 In Proceedings of 16th ACM Conference on Security and Privacy in Wireless and Mobile Networks (**ACM WiSec 2023**) (_to appear_) 
