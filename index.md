@@ -14,9 +14,11 @@ I am very fortunate to work with some talented and motivated students.
 - [Evangelos (Vaggelis) Bitsikas], PhD student (Sep 2022 onwards)
 - [Maryam Motallebighomi], PhD student (Sep 2020 - present)
 - [Narmeen Shafqat], PhD student (Sep 2019 - present)
-- [Harshad Sathaye], PhD student (Jan 2019 - May 2023) (co-advised with Prof. Guevara Noubir)
+- Adam Belfki, UG student Researcher (Jan 2023 - present)
+- Ayyappan Rajesh, UG student Researcher (May 2023 - present)
 
 **Alumni**
+- [Dr. Harshad Sathaye], PhD student (Jan 2019 - Apr 2023) -> ETH Zurich (post doc)
 - [Dr. Domien Schepers], PhD student (Sep 2018 - Jan 2023) -> Qualcomm
 - Cathleen Zhang, BS (Jul 2020 - Jul 2021)
 - Nakul Ramesh, MS (Sep 2019 - Dec 2019)
@@ -85,7 +87,7 @@ Thanks to all the following organization for generously funding my research:
 [Khoury College of Computer Sciences]:http://khoury.northeastern.edu
 [Northeastern University]:http://www.northeastern.edu
 [Dr. Domien Schepers]:https://www.khoury.northeastern.edu/people/domien-schepers/
-[Harshad Sathaye]:https://www.khoury.northeastern.edu/people/harshad-sathaye/
+[Dr. Harshad Sathaye]:https://harshadsathaye.com
 [Narmeen Shafqat]:https://www.khoury.northeastern.edu/people/narmeen-shafqat/
 [Maryam Motallebighomi]:https://www.khoury.northeastern.edu/people/maryam-motallebighomi/
 [Evangelos (Vaggelis) Bitsikas]:https://evangelosbitsikas.com
