@@ -31,7 +31,7 @@ In Proceedings of 32nd USENIX Security Symposium (**USENIX Security 2023**) (_to
 
 [30] **mmSpoof: Spoofing Attacks on Automotive FMCW Radars using Millimeter-wave Reflect Array** <br/>
 Rohith Reddy Vennam, Ish Kumar Jain, Kshitiz Bansal, Joshua Orozco, Puja Shukla, *Aanjhan Ranganathan*, Dinesh Bharadia<br/>
-In Proceedings of the 44th IEEE Symposium on Security and Privacy (**S&P 2023**) (_to appear_)
+In Proceedings of the 44th IEEE Symposium on Security and Privacy (**S&P 2023**) <a href="assets/mmspoof-oakland23.pdf" class="label label-primary">Paper</a> <a href="https://youtu.be/Lx6Hn4g7ItQ" class="label label-danger">Teaser Video</a>
 
 ### 2022
 
