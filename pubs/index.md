@@ -23,11 +23,11 @@ In Proceedings of 16th ACM Conference on Security and Privacy in Wireless and Mo
 
 [33] **Location Independent GNSS Relay Attack: A Lazy Attacker's Guide to Bypassing Navigation Message Authentication** <br/>
 Maryam Motallebighomi, Harshad Sathaye, Mridula Singh, *Aanjhan Ranganathan*<br/>
-In Proceedings of 16th ACM Conference on Security and Privacy in Wireless and Mobile Networks (**ACM WiSec 2023**) (_to appear_) 
+In Proceedings of 16th ACM Conference on Security and Privacy in Wireless and Mobile Networks (**ACM WiSec 2023**) <a href="assets/motallebighomi23-gnssrelay.pdf" class="label label-primary">Paper</a> <a href="https://www.gnssrelayattack.com" class="label label-info">Website</a> 
 
 [32] **Framing Frames: Bypassing Wi-Fi Encryption by Manipulating Transmit Queues** <br/>
 Domien Schepers, *Aanjhan Ranganathan*, Mathy Vanhoef<br/>
-In Proceedings of 32nd USENIX Security Symposium (**USENIX Security 2023**) (_to appear_) 
+In Proceedings of 32nd USENIX Security Symposium (**USENIX Security 2023**) <a href="assets/schepers23-framing.pdf" class="label label-primary">Paper</a> <a href="https://github.com/domienschepers/wifi-framing" class="label label-info">Code</a>
 
 [30] **mmSpoof: Spoofing Attacks on Automotive FMCW Radars using Millimeter-wave Reflect Array** <br/>
 Rohith Reddy Vennam, Ish Kumar Jain, Kshitiz Bansal, Joshua Orozco, Puja Shukla, *Aanjhan Ranganathan*, Dinesh Bharadia<br/>
