@@ -33,6 +33,10 @@ Thanks to all the following organization for generously funding my research:
 
 
 ### News
+* Jun 2023: Our paper demonstrating how SMS leaks location "Freaky Leaky SMS: Extracting User Locations by Analyzing SMS Timings" has been accepted at Usenix Security 2023! Thats two papers from our group at Usenix this year. Congrats Vaggelis.
+* Jun 2023: Our paper on understanding the Airtags ecosystem "Track You: A Deep Dive into Safety Alerts for Apple AirTags" has been accepted at PETS 2023! Congrats Narmeen. 
+* Jun 2023: Gave an invited lecture on "From Skyjacking to Carjacking: Challenges and Opportunities in Securing Modern Navigation Technologies" at the summer school on real-world crypto and privacy 2023 in Vodice, Croatia!
+* Apr 2023: Gave an invited lecture on "From Skyjacking to Carjacking: Challenges and Opportunities in Securing Modern Navigation Technologies" at UMASS, Dartmouth.
 * Apr 2023: Harshad defends his thesis "Towards Secure Autonomous Aerial Vehicle Navigation"! Congrats Dr. Harshad Sathaye.
 * Jan 2023: Domien defends his thesis "Towards Rapid Prototyping for Wi-Fi Security Research"! Congrats Dr. Domien Schepers.
 * Dec 2022: Our paper on implications of spoofing aviation data link applications got _Honorable Mention_ at ACSAC 2022!
