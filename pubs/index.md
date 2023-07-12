@@ -31,7 +31,7 @@ Extended Abstract at Institute of Navigation GNSS+ 2023 (_to appear_)
 
 - **UE Security Reloaded: Developing a 5G Standalone User-Side Security Testing Framework** <br/>
 Evangelos Bitsikas, Syed Khandker, Ahmad Salous, *Aanjhan Ranganathan*, Roger Piqueras Jover, Christina Poepper<br/>
-In Proceedings of 16th ACM Conference on Security and Privacy in Wireless and Mobile Networks (**ACM WiSec 2023**) (_to appear_) 
+In Proceedings of 16th ACM Conference on Security and Privacy in Wireless and Mobile Networks (**ACM WiSec 2023**) <a href="assets/bitsikas23wisec5g.pdf" class="label label-primary">Paper</a> <a href="https://github.com/vaggelis-sudo/5G-UE-SecurityTesting" class="label label-info">Code</a> 
 
 - **Location Independent GNSS Relay Attack: A Lazy Attacker's Guide to Bypassing Navigation Message Authentication** <br/>
 Maryam Motallebighomi, Harshad Sathaye, Mridula Singh, *Aanjhan Ranganathan*<br/>
