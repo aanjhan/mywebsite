@@ -7,6 +7,12 @@ layout: default
 
 The following are the list of papers (sorted in reverse chronological order) that I have (co)-authored.
 
+### 2024
+- **Assessing the Feasibility of Virtual Smartphone Paradigm in Countering Zero-Click Attacks** <br/>
+Narmeen Shafqat, Cem Topcuoglu, Engin Kirda, *Aanjhan Ranganathan*<br/>
+In Proceedings of Hawaii International Conference on System Sciences, (**HICSS 2024**) (_to appear_) <br/>
+arXiv version:  <a href="https://arxiv.org/abs/2211.03015">*Experience Report on the Challenges and Opportunities in Securing Smartphones Against Zero-Click Attacks*</a>  
+
 ### 2023
 
 - **Freaky Leaky SMS: Extracting User Locations by Analyzing SMS Timings** <br/>

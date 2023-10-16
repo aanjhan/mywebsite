@@ -3,8 +3,9 @@ title: Teaching and Projects Supervised
 layout: default
 ---
 #### Courses at Northeastern (2018-present)
-- **Fall 2022** - CS 3950: Introduction to Computer Science Research
-- **Fall 2022** - CS 4950: Computer Science Research Seminar (Focus Area: Security and Privacy) 
+- **Fall 2023** - CS 3950: Introduction to Computer Science Research
+- **Fall 2023** - CS 4950: Computer Science Research Seminar (Focus Area: Security and Privacy) 
+- **Spring 2023** - (Security of) Mobile and Wireless Systems (CY4760) / Wireless Networks (CY6760)
 - **Spring 2022** - (Security of) Mobile and Wireless Systems (CS4710) / Wireless Networks (CS6710)  [webpage](teaching/courses/spring22/index.html)
 - **Spring 2021** - (Security of) Mobile and Wireless Systems (CS4710) / Wireless Networks (CS6710)  [webpage](teaching/courses/spring21/index.html)
 - **Fall 2020** - CS 3950: Introduction to Computer Science Research [webpage](teaching/courses/fall20cs3950/index.html)

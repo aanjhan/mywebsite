@@ -4,6 +4,7 @@ layout: default
 ---
 
 ### Professional & Social Activities
+- Track Chair (Network Security) ACM CCS 2024
 - Associate TPC Chair for IEEE S&P 2024
 - Technical Program Committee Member for NDSS 2024
 - Technical Program Committee Member for SpaceSec 2023
