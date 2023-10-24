@@ -17,7 +17,8 @@ arXiv version:  <a href="https://arxiv.org/abs/2211.03015">*Experience Report on
 
 - **Freaky Leaky SMS: Extracting User Locations by Analyzing SMS Timings** <br/>
 Evangelos Bitsikas, Theodor Schnitzler, Christina Poepper, *Aanjhan Ranganathan*<br/>
-In Proceedings of 32nd USENIX Security Symposium (**USENIX Security 2023**) (_to appear_)
+In Proceedings of 32nd USENIX Security Symposium (**USENIX Security 2023**) <a href="assets/bitsikas23sms.pdf" class="label label-primary">Paper</a><br/>
+arXiv version:  <a href="https://arxiv.org/abs/2306.07695">*Longer version*</a>  
 
 - **Framing Frames: Bypassing Wi-Fi Encryption by Manipulating Transmit Queues** <br/>
 Domien Schepers, *Aanjhan Ranganathan*, Mathy Vanhoef<br/>
@@ -25,15 +26,15 @@ In Proceedings of 32nd USENIX Security Symposium (**USENIX Security 2023**) <a h
 
 - **Track You: A Deep Dive into Safety Alerts for Apple AirTags** <br/>
 Narmeen Shafqat, Nicole Gerzon, Maggie Van Nortwick, Viktor Sun, Alan Mislove, *Aanjhan Ranganathan*<br/>
-In Proceedings of Privacy Enhancing Technologies (**PoPETS 2023**) (_to appear_)
+In Proceedings of Privacy Enhancing Technologies (**PoPETS 2023**) <a href="assets/shafqat23pets.pdf" class="label label-primary">Paper</a>
 
 - **Analyzing the Impact of GNSS Spoofing on Swarms of Unmanned Systems** <br/>
 *Aanjhan Ranganathan*, Pau Closas<br/>
-Extended Abstract at Institute of Navigation GNSS+ 2023 (_to appear_) 
+In the Proceedings of Institute of Navigation GNSS+ 2023 (**ION GNSS+ 2023**) <a href="assets/swarmiongnss23.pdf" class="label label-primary">Paper</a>
 
 - **Galileo-SDR-SIM: An Open-Source Tool for Generating Galileo Satellite Signals** <br/>
 Harshad Sathaye, Maryam Motallebighomi, *Aanjhan Ranganathan*<br/>
-Extended Abstract at Institute of Navigation GNSS+ 2023 (_to appear_) 
+Extended Abstract at Institute of Navigation GNSS+ 2023 (**ION GNSS+ 2023**) <a href="assets/sathaye23galileo.pdf" class="label label-primary">Paper</a>
 
 - **UE Security Reloaded: Developing a 5G Standalone User-Side Security Testing Framework** <br/>
 Evangelos Bitsikas, Syed Khandker, Ahmad Salous, *Aanjhan Ranganathan*, Roger Piqueras Jover, Christina Poepper<br/>
