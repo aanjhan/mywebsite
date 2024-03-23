@@ -8,6 +8,10 @@ layout: default
 The following are the list of papers (sorted in reverse chronological order) that I have (co)-authored.
 
 ### 2024
+- **ASTRA-5G: Automated Over-the-Air Security Testing and Research Architecture for 5G SA Devices** <br/>
+Syed Khandker, Michele Guerra, Evangelos Bitsikas, Roger Piqueras Jover, *Aanjhan Ranganathan*, Christina Poepper<br/>
+In Proceedings of 17th ACM Conference on Security and Privacy in Wireless and Mobile Networks (**ACM WiSec 2024**) (_to appear_)
+
 - **Seamlessly Insecure: Uncovering Outsider Access Risks in AiDot-Controlled Matter Devices** <br/>
 Narmeen Shafqat, *Aanjhan Ranganathan*<br/>
 In Proceedings of IEEE/ACM Workshop on the Internet of Safe Things (**SafeThings 2024**) (_to appear_)
