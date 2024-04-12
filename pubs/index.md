@@ -8,6 +8,10 @@ layout: default
 The following are the list of papers (sorted in reverse chronological order) that I have (co)-authored.
 
 ### 2024
+- **Amplifying Threats: The Role of Multi-Sender Coordination in SMS-Timing-Based Location Inference Attacks** <br/>
+Evangelos Bitsikas, Theodor Schnitzler, Christina Poepper, *Aanjhan Ranganathan*,<br/>
+In Proceedings of 18th USENIX WOOT Conference on Offensive Technologies (**Usenix WOOT 2024**) (_to appear_)
+
 - **ASTRA-5G: Automated Over-the-Air Security Testing and Research Architecture for 5G SA Devices** <br/>
 Syed Khandker, Michele Guerra, Evangelos Bitsikas, Roger Piqueras Jover, *Aanjhan Ranganathan*, Christina Poepper<br/>
 In Proceedings of 17th ACM Conference on Security and Privacy in Wireless and Mobile Networks (**ACM WiSec 2024**) (_to appear_)
