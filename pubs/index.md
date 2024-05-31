@@ -8,7 +8,7 @@ layout: default
 The following are the list of papers (sorted in reverse chronological order) that I have (co)-authored.
 
 ### 2024
-- **Makeshift: MakeShift: Security Analysis of \<redacted\> Wireless Gear Shifting in Bicycles** <br/>
+- **MakeShift: Security Analysis of \<redacted\> Wireless Gear Shifting in Bicycles** <br/>
 Maryam Motallebighomi, Earlence Fernandes, *Aanjhan Ranganathan*<br/>
 In Proceedings of 18th USENIX WOOT Conference on Offensive Technologies (**Usenix WOOT 2024**) (_to appear_) (_under embargo_)
 
