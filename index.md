@@ -6,17 +6,21 @@ layout: default
 ## Bio
 
 ---
-Aanjhan is an Assistant Professor in the [Khoury College of Computer Sciences] at [Northeastern University] in Boston, USA. He is also an affiliate faculty in the [Department of Electrical and Computer Engineering]. His current research revolves around the security and privacy of wireless networks with a strong focus on autonomous cyber-physical systems and smart ecosystems. He has worked on a wide variety of topics including physical-layer security of wireless systems, secure localization and proximity verification, trusted computing architectures, and side-channels. He is a recipient of several awards including the outstanding dissertation award from ETH Zurich, regional winner of European Space Agency’s Satellite Navigation competition and the Cyber Award from Armasuisse (Switzerland’s Department of Defense). Prior to joining Northeastern, he was a senior researcher in the System Security group at ETH Zurich and has over 3 years of industry research experience as a senior engineer at Robert Bosch GmbH's Car Multimedia Division "Blaupunkt" where he was involved in the development of embedded modules for top automotive manufacturers including Audi and Volkswagen. He holds an M.Sc with specialization in Electronics and Microelectronics from [EPFL], Switzerland and a Ph.D in Computer Science from ETH Zurich, Switzerland.
+Aanjhan is an associate professor (with tenure) in the [Khoury College of Computer Sciences] at [Northeastern University] in Boston, USA. He is also an affiliate faculty in the [Department of Electrical and Computer Engineering]. His current research revolves around the security and privacy of wireless networks with a strong focus on autonomous cyber-physical systems and smart ecosystems. He has worked on a wide variety of topics including physical-layer security of wireless systems, secure localization and proximity verification, trusted computing architectures, and side-channels. He is a recipient of several awards including the outstanding dissertation award from ETH Zurich, regional winner of European Space Agency’s Satellite Navigation competition and the Cyber Award from Armasuisse (Switzerland’s Department of Defense). Prior to joining Northeastern, he was a senior researcher in the System Security group at ETH Zurich and has over 3 years of industry research experience as a senior engineer at Robert Bosch GmbH's Car Multimedia Division "Blaupunkt" where he was involved in the development of embedded modules for top automotive manufacturers including Audi and Volkswagen. He holds an M.Sc with specialization in Electronics and Microelectronics from [EPFL], Switzerland and a Ph.D in Computer Science from ETH Zurich, Switzerland.
 
 #### Team
 I am very fortunate to work with some talented and motivated students.
 
-- [Evangelos (Vaggelis) Bitsikas], PhD student (Sep 2022 onwards)
-- [Maryam Motallebighomi], PhD student (Sep 2020 - present)
-- [Narmeen Shafqat], PhD student (Sep 2019 - present)
-- Adam Belfki, UG student researcher (Jan 2023 - present)
-- Manav Jain, UG student researcher (Jan 2024 - present)
-
+- Jason Veara, PhD student (Sep 2024 - )
+- [Evangelos (Vaggelis) Bitsikas], PhD student (Sep 2022 - )
+- [Maryam Motallebighomi], PhD student (Sep 2020 - )
+- [Narmeen Shafqat], PhD student (Sep 2019 - )
+- Ismael Sanchez, UG co-op (July 2024 - )
+- Kyle Moy, UG co-op (July 2024 - )
+- Bhavesh Matapathi, UG student researcher (Jan 2024 - )
+- Harry Rosenstein, UG student researcher (Jan 2024 - )
+- Adam Belfki, UG student researcher (Jan 2023 - )
+- Manav Jain, MS student researcher (Jan 2024 - )
 
 **Alumni**
 - Ayyappan Rajesh, UG student Researcher (May 2023 - Dec 2023)
@@ -35,6 +39,7 @@ Thanks to all the following organization for generously funding my research:
 
 
 ### News
+* Jun 2024: Tenured and promoted to Associate Professor. 
 * Mar 2024: Paper on "ASTRA-5G: Automated Over-the-Air Security Testing and Research Architecture for 5G SA Devices" accepted at ACM WiSec 2024. Congrats to all collaborators and group member Vaggelis!
 * Mar 2024: Paper on "Seamlessly Insecure: Uncovering Outsider Access Risks in AiDot-Controlled Matter Devices" accepted at IEEE/ACM Safethings 2024 (co-located with IEEE S&P 2024). Congrats Narmeen! 
 * Mar 2024: Panelist for mentoring Khoury PhD students on "Navigating Troubles during one's PhD" alongside Profs. Lawson Wong, Daniel Wichs, Amal Ahmed, and Alexandra To (moderator).
