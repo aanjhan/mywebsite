@@ -14,7 +14,6 @@ I am very fortunate to work with some talented and motivated students.
 - Jason Veara, PhD student (Sep 2024 - )
 - [Evangelos (Vaggelis) Bitsikas], PhD student (Sep 2022 - )
 - [Maryam Motallebighomi], PhD student (Sep 2020 - )
-- [Narmeen Shafqat], PhD student (Sep 2019 - )
 - Ismael Sanchez, UG co-op (July 2024 - )
 - Kyle Moy, UG co-op (July 2024 - )
 - Bhavesh Matapathi, UG student researcher (Jan 2024 - )
@@ -23,6 +22,7 @@ I am very fortunate to work with some talented and motivated students.
 - Manav Jain, MS student researcher (Jan 2024 - )
 
 **Alumni**
+- [Dr. Narmeen Shafqat], PhD student (Sep 2019 - Aug 2024) -> NUST Pakistan (Assistant Professor)
 - Ayyappan Rajesh, UG student Researcher (May 2023 - Dec 2023)
 - [Dr. Harshad Sathaye], PhD student (Jan 2019 - Apr 2023) -> ETH Zurich (post doc)
 - [Dr. Domien Schepers], PhD student (Sep 2018 - Jan 2023) -> Qualcomm
@@ -106,7 +106,7 @@ Thanks to all the following organization for generously funding my research:
 [Northeastern University]:http://www.northeastern.edu
 [Dr. Domien Schepers]:https://www.khoury.northeastern.edu/people/domien-schepers/
 [Dr. Harshad Sathaye]:https://harshadsathaye.com
-[Narmeen Shafqat]:https://www.khoury.northeastern.edu/people/narmeen-shafqat/
+[Dr. Narmeen Shafqat]:https://www.khoury.northeastern.edu/people/narmeen-shafqat/
 [Maryam Motallebighomi]:https://www.khoury.northeastern.edu/people/maryam-motallebighomi/
 [Evangelos (Vaggelis) Bitsikas]:https://evangelosbitsikas.com
 [NSF CRII grant]:https://www.nsf.gov/awardsearch/showAward?AWD_ID=1850264
