@@ -4,6 +4,9 @@ layout: default
 ---
 
 ### Professional & Social Activities
+- Technical Program Committee (co-chair) ACM WiSec 2025
+- Technical Program Committee (co-chair) SpaceSec 2025
+- Technical Program Committee Member for Usenix Security 2025
 - Technical Program Committee Member for ACM WiSec 2024
 - Technical Program Committee Member for SpaceSec 2024
 - Track Chair (Network Security) ACM CCS 2024
