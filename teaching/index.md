@@ -3,6 +3,8 @@ title: Teaching and Projects Supervised
 layout: default
 ---
 #### Courses at Northeastern (2018-present)
+- **Fall 2024** - CS 7775: Computer Science Research Seminar (Focus Area: Security and Privacy) 
+- **Fall 2024** - (Security of) Mobile and Wireless Systems (CY4760) / Wireless Networks (CY6760)
 - **Spring 2024** - (Security of) Mobile and Wireless Systems (CY4760) / Wireless Networks (CY6760)
 - **Fall 2023** - CS 3950: Introduction to Computer Science Research
 - **Fall 2023** - CS 4950: Computer Science Research Seminar (Focus Area: Security and Privacy) 

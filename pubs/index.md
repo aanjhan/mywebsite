@@ -7,6 +7,11 @@ layout: default
 
 The following are the list of papers (sorted in reverse chronological order) that I have (co)-authored.
 
+### 2025
+- **eSIMplicity or eSIMplification? Privacy and Security Risks in the eSIM Ecosystem** <br/>
+Maryam Motallebighomi, Jason Veara, Evangelos Bitsikas, *Aanjhan Ranganathan*<br/>
+In Proceedings of 34th USENIX Security Symposium (**USENIX Security 2025**) (_to appear_)
+
 ### 2024
 - **MakeShift: Security Analysis of \<redacted\> Wireless Gear Shifting in Bicycles** <br/>
 Maryam Motallebighomi, Earlence Fernandes, *Aanjhan Ranganathan*<br/>
