@@ -6,14 +6,14 @@ date: 2025-06-05
 
 ## Are We Still Asking the Right Questions?
 
-_It’s been a decade since I last wrote a non-scientific, free-flowing essay (though I’ve been jotting down thoughts all along). I didn’t realize how much I missed it until I sat down at 6 AM to finally shape this one from my notes._
+_It’s been a decade since I last wrote a non-scientific, free-flowing essay (though I’ve been jotting down thoughts all along). I didn’t realize how much I missed it until I sat down at 6 AM to finally shape this one from my notes. Disclaimer: Before people ask, this is a general trend that I am observing across many places in academia not just Northeastern._
 
 
 ---
 
-In the past few decades, computer science has thrived on a delicate balance: industry drives application, academia explores possibility. But something is shifting. And not for the better.
+In the past few decades, computer science has thrived on a delicate balance: industry drives application, academia explores possibility. But something is shifting. And I am not sure it is for the better.
 
-U.S. universities, longstanding engines of foundational innovation, are under growing pressure. Public funding for research is shrinking. The current administration, for instance, has proposed sweeping cuts to agencies that sustain early-stage, curiosity-driven work. The National Science Foundation’s 2025 budget proposal includes a 57% cut overall, with a 65% drop in fellowships and complete elimination of several STEM education programs. NIH and NASA science programs face similar reductions. These aren’t just budget line items—they’re signals about what kind of future we are, or aren’t, investing in.
+U.S. universities, longstanding engines of foundational innovation, are under growing pressure. Public funding for research is shrinking. The current administration, for instance, has proposed sweeping cuts to agencies that sustain early-stage, curiosity-driven work. The National Science Foundation’s 2025 budget proposal includes a 57% cut overall, with a 65% drop in fellowships and complete elimination of several STEM education programs. NIH and NASA science programs face similar reductions. These aren’t just budget line items. They’re signals about what kind of future we are, or aren’t, investing in.
 
 At the same time, universities are becoming increasingly corporatized. Branding strategies, performance dashboards, and marketable degree portfolios have started to replace open-ended inquiry. Faculty, once the primary drivers of institutional direction, now often find themselves chasing KPIs set by people far removed from the intellectual core. Strategic visions are handed down. Decisions about hiring, research priorities, or even curriculum design are increasingly made in service of visibility, rankings, or revenue goals.
 
