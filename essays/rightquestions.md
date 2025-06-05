@@ -21,9 +21,9 @@ This erosion of faculty agency is not just a management issue. It undermines the
 
 >And here's the deeper concern: this shift doesn’t just affect universities. It affects all of us, the country, and the world.
 
-The next 20 years will present problems that don’t have obvious commercial solutions: climate instability, AI governance, cyber-physical system security, post-quantum cryptography, and the growing intersection of technology and democratic institutions. These are problems that require slow, careful, foundational work—the kind that rarely fits neatly into a product cycle or a profit model.
+The next 20 years will present problems that don’t have obvious commercial solutions: climate instability, AI governance, cyber-physical system security, post-quantum cryptography, and the growing intersection of technology and democratic institutions. These are problems that require slow, careful, foundational work. The kind that rarely fits neatly into a product cycle or a profit model.
 
-Corporate research labs do impressive work, no question. But they are shaped by strategic incentives. Much of their output depends on prior advances made in "non-profit" settings—universities, government labs, and public research consortia. When those institutions lose their ability to think independently, we don’t just lose knowledge. We lose foresight.
+Corporate research labs do impressive work, no question. But they are shaped by strategic incentives. Much of their output depends on prior advances made in "non-profit" settings such as universities, government labs, and public research consortia. When those institutions lose their ability to think independently, we don’t just lose knowledge. We lose foresight.
 
 >What makes academia unique is not just the freedom to explore, but that it’s built to support research that doesn’t need immediate justification. For example, a decade-long inquiry into a mathematical structure, or a systems prototype with no clear user base yet. 
 
