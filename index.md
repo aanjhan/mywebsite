@@ -11,17 +11,18 @@ Aanjhan is an associate professor (with tenure) in the [Khoury College of Comput
 #### Team
 I am very fortunate to work with some talented and motivated students.
 
+- Alejandro Ayala, PhD student (Sep 2025 - )
 - Jason Veara, PhD student (Sep 2024 - )
 - [Evangelos (Vaggelis) Bitsikas], PhD student (Sep 2022 - )
 - [Maryam Motallebighomi], PhD student (Sep 2020 - )
-- Ismael Sanchez, UG co-op (July 2024 - )
-- Kyle Moy, UG co-op (July 2024 - )
-- Bhavesh Matapathi, UG student researcher (Jan 2024 - )
-- Harry Rosenstein, UG student researcher (Jan 2024 - )
-- Adam Belfki, UG student researcher (Jan 2023 - )
-- Manav Jain, MS student researcher (Jan 2024 - )
+- Alexandre Riou, MS Thesis exchange student from EPFL, Switzerland (May 2025 - )
+- Kyle Moy, UG Research Assistant (July 2024 - )
+- Harry Rosenstein, UG Research Assistant (Jan 2024 - )
+- Manav Jain, MS Research Assistant (Jan 2024 - )
 
 **Alumni**
+- Adam Belfki, UG student researcher (Jan 2023 - Dec 2023) -> National Deep Inference Fabric (Research Software Engineer)
+- Ismael Sanchez, UG co-op (Jul 2024 - Dec 2024)
 - [Dr. Narmeen Shafqat], PhD student (Sep 2019 - Aug 2024) -> NUST Pakistan (Assistant Professor)
 - Ayyappan Rajesh, UG student Researcher (May 2023 - Dec 2023)
 - [Dr. Harshad Sathaye], PhD student (Jan 2019 - Apr 2023) -> ETH Zurich (post doc)
