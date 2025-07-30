@@ -10,7 +10,7 @@ The following are the list of papers (sorted in reverse chronological order) tha
 ### 2025
 - **eSIMplicity or eSIMplification? Privacy and Security Risks in the eSIM Ecosystem** <br/>
 Maryam Motallebighomi, Jason Veara, Evangelos Bitsikas, *Aanjhan Ranganathan*<br/>
-In Proceedings of 34th USENIX Security Symposium (**USENIX Security 2025**) (_to appear_)
+In Proceedings of 34th USENIX Security Symposium (**USENIX Security 2025**) <a href="assets/sec25-motallebighomi.pdf" class="label label-primary">Paper</a>
 
 ### 2024
 - **MakeShift: Security Analysis of \<redacted\> Wireless Gear Shifting in Bicycles** <br/>
@@ -20,19 +20,19 @@ In Proceedings of 18th USENIX WOOT Conference on Offensive Technologies (**Useni
 
 - **Amplifying Threats: The Role of Multi-Sender Coordination in SMS-Timing-Based Location Inference Attacks** <br/>
 Evangelos Bitsikas, Theodor Schnitzler, Christina Poepper, *Aanjhan Ranganathan*<br/>
-In Proceedings of 18th USENIX WOOT Conference on Offensive Technologies (**Usenix WOOT 2024**) 
+In Proceedings of 18th USENIX WOOT Conference on Offensive Technologies (**Usenix WOOT 2024**) <a href="assets/woot24-bitsikas.pdf" class="label label-primary">Paper</a>
 
 - **ASTRA-5G: Automated Over-the-Air Security Testing and Research Architecture for 5G SA Devices** <br/>
 Syed Khandker, Michele Guerra, Evangelos Bitsikas, Roger Piqueras Jover, *Aanjhan Ranganathan*, Christina Poepper<br/>
-In Proceedings of 17th ACM Conference on Security and Privacy in Wireless and Mobile Networks (**ACM WiSec 2024**) 
+In Proceedings of 17th ACM Conference on Security and Privacy in Wireless and Mobile Networks (**ACM WiSec 2024**) <a href="assets/wisec24-khandker.pdf" class="label label-primary">Paper</a>
 
 - **Seamlessly Insecure: Uncovering Outsider Access Risks in AiDot-Controlled Matter Devices** <br/>
 Narmeen Shafqat, *Aanjhan Ranganathan*<br/>
-In Proceedings of IEEE/ACM Workshop on the Internet of Safe Things (**SafeThings 2024**) 
+In Proceedings of IEEE/ACM Workshop on the Internet of Safe Things (**SafeThings 2024**) <a href="assets/safethings24-shafqat.pdf" class="label label-primary">Paper</a>
 
 - **Assessing the Feasibility of Virtual Smartphone Paradigm in Countering Zero-Click Attacks** <br/>
 Narmeen Shafqat, Cem Topcuoglu, Engin Kirda, *Aanjhan Ranganathan*<br/>
-In Proceedings of Hawaii International Conference on System Sciences, (**HICSS 2024**)  <br/>
+In Proceedings of Hawaii International Conference on System Sciences, (**HICSS 2024**) <a href="assets/hiccs24-shafqat.pdf" class="label label-primary">Paper</a><br/> 
 arXiv version:  <a href="https://arxiv.org/abs/2211.03015">*Experience Report on the Challenges and Opportunities in Securing Smartphones Against Zero-Click Attacks*</a>  
 
 ### 2023
