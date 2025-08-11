@@ -13,7 +13,7 @@ Maryam Motallebighomi, Jason Veara, Evangelos Bitsikas, *Aanjhan Ranganathan*<br
 In Proceedings of 34th USENIX Security Symposium (**USENIX Security 2025**) <a href="assets/sec25-motallebighomi.pdf" class="label label-primary">Paper</a>
 
 ### 2024
-- **MakeShift: Security Analysis of \<redacted\> Wireless Gear Shifting in Bicycles** <br/>
+- **MakeShift: Security Analysis of Shimano Di2 Wireless Gear Shifting in Bicycles** <br/>
 Maryam Motallebighomi, Earlence Fernandes, *Aanjhan Ranganathan*<br/>
 In Proceedings of 18th USENIX WOOT Conference on Offensive Technologies (**Usenix WOOT 2024**) <a href="assets/woot24-motallebighomi.pdf" class="label label-primary">Paper</a>
 
