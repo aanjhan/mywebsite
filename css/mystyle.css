@@ -2,7 +2,14 @@
    Modern Academic Website Styles
    ======================================== */
 
-/* Typography */
+/* ========================================
+   COLOR THEME CONFIGURATION
+
+   To switch themes, comment out one section and uncomment the other.
+   Current: NORTHEASTERN
+   ======================================== */
+
+/* NORTHEASTERN THEME (Default) */
 :root {
   --primary-color: #c8102e;        /* Northeastern Red */
   --primary-dark: #9e0b23;
@@ -18,6 +25,26 @@
   --shadow-md: 0 4px 6px rgba(0,0,0,0.1);
   --shadow-lg: 0 10px 25px rgba(0,0,0,0.15);
 }
+
+/* ETH ZURICH THEME (Alternative)
+   Uncomment this section and comment out the Northeastern section above to use ETH colors */
+/*
+:root {
+  --primary-color: #1f407a;
+  --primary-dark: #152d57;
+  --primary-light: #3a5fa0;
+  --secondary-color: #1a1a1a;
+  --text-color: #2c3e50;
+  --text-light: #6c757d;
+  --bg-light: #f8f9fa;
+  --bg-white: #ffffff;
+  --border-color: #dee2e6;
+  --navbar-bg: #ffffff;
+  --shadow-sm: 0 2px 4px rgba(0,0,0,0.08);
+  --shadow-md: 0 4px 6px rgba(0,0,0,0.1);
+  --shadow-lg: 0 10px 25px rgba(0,0,0,0.15);
+}
+*/
 
 html {
   font-size: 16px;
