@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Disallow private/development directories
+Disallow: /_site_local/
+Disallow: /.git/
+Disallow: /.jekyll-cache/
+
+# Sitemap
+Sitemap: https://aanjhan.com/sitemap.xml
