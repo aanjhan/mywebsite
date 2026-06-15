@@ -137,7 +137,7 @@ In Proceedings of Cryptographic Hardware and Embedded Systems (**CHES 2017**)
 
 - **Are We Really Close? Verifying Proximity in Wireless Systems** <a href="assets/ieeemag_secureranging.pdf" class="label label-primary">Draft version</a><br/> 
 *Aanjhan Ranganathan*, Srdjan Capkun<br/>
-IEEE Security & Privacy Magazine (<a href="http://ieeexplore.ieee.org/document/7945214/">June-July 2017 edition</a>)
+IEEE Security & Privacy Magazine (<a href="https://ieeexplore.ieee.org/document/7945214/">June-July 2017 edition</a>)
 
 - **Physical-layer Techniques for Secure Proximity Verification & Localization**
 <a href="assets/thesis_abstract.pdf" class="label label-primary">Abstract</a> <a href="assets/aanjhan_thesis.pdf" class="label label-primary">Full-text</a> <a href="assets/aanjhan_thesis.bib" class="label label-default">Bibtex</a><br/>

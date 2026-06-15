@@ -40,11 +40,11 @@ Thanks to all the following organization for generously funding my research:
 - U.S. Army Combat Capabilities Development Command (ARL/DEVCOM)
 - U.S. Army Research Laboratory (ARL)
 
-[System Security group at ETH Zurich]:http://www.syssec.ethz.ch
-[EPFL]:http://epfl.ch
-[Prof. Dr. Srdjan Capkun]:http://www.syssec.ethz.ch/people/capkun.html
-[Khoury College of Computer Sciences]:http://khoury.northeastern.edu
-[Northeastern University]:http://www.northeastern.edu
+[System Security group at ETH Zurich]:https://www.syssec.ethz.ch
+[EPFL]:https://epfl.ch
+[Prof. Dr. Srdjan Capkun]:https://srdjan-capkun.github.io
+[Khoury College of Computer Sciences]:https://khoury.northeastern.edu
+[Northeastern University]:https://www.northeastern.edu
 [Dr. Domien Schepers]:https://www.khoury.northeastern.edu/people/domien-schepers/
 [Dr. Harshad Sathaye]:https://harshadsathaye.com
 [Dr. Narmeen Shafqat]:https://www.khoury.northeastern.edu/people/narmeen-shafqat/

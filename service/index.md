@@ -56,7 +56,7 @@ layout: default
 - Reviewer for ACM Transactions on Embedded Computing Systems (TECS 2015)
 - Reviewer for IEEE Journal of Selected Topics in Signal Processing 2014
 - Reviewer for Transactions on Emerging Telecommunications Technologies 2014
-- “Free and Open Source VLSI CAD Tools” at Jawaharlal Nehru University, Delhi [http://freed.in]
+- “Free and Open Source VLSI CAD Tools” at Jawaharlal Nehru University, Delhi
 - “Icarus Verilog and Free/Open Source EDA Tools” at Indian Institute of Technology Madras.
 - “Hybrid Electric Vehicle - with Intelligent Drive Switching” at IIT Bombay [Techfest 2004]
 - Organized and conducted workshops for School/College students on ’Developing Leadership Qualities’ as the head of the technical division of ’PEOPLE FIRST’, a youth organization.
@@ -64,5 +64,5 @@ layout: default
 - [RTEMS] Contributor 
 - Active Participation in Linux demo Days Conducted by the Chennai Linux users Group in creating Awareness on FLOSS to students in both the semi-urban and urban areas.
 
-[RTEMS]:http://www.rtems.com
-[GNUSim8085]:http://gnusim8085.github.io
+[RTEMS]:https://www.rtems.org
+[GNUSim8085]:https://gnusim8085.github.io
