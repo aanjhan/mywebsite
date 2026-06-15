@@ -7,16 +7,21 @@ layout: default
 
 The following are the list of papers (sorted in reverse chronological order) that I have (co)-authored.
 
-### 2025
+- **Security Analysis of LTE Connectivity in Connected Cars: A Case Study of Tesla** <br/>
+Evangelos Bitsikas, Jason Veara, *Aanjhan Ranganathan*<br/>
+In Proceedings of 20th USENIX WOOT Conference on Offensive Technologies (**Usenix WOOT 2026**) (_to appear_) <a href="https://arxiv.org/abs/2510.22024" class="label label-primary">Paper</a> <a href="https://github.com/Signal-Intelligence-Laboratory/Tesla-security" class="label label-info">Code</a>
+
+- **Beyond the Hype: Empirical Analysis of Matter Standard’s Security and Privacy** <br/>
+Andrew Losty, Tianrui Hu, Daniel J. Dubois, Narmeen Shafqat, *Aanjhan Ranganathan*, David Choffnes, Anna Maria Mandalari<br/>
+In Proceedings of the 26th ACM Internet Measurement Conference (**IMC 2026**) (_to appear_)
+
 - **eSIMplicity or eSIMplification? Privacy and Security Risks in the eSIM Ecosystem** <br/>
 Maryam Motallebighomi, Jason Veara, Evangelos Bitsikas, *Aanjhan Ranganathan*<br/>
 In Proceedings of 34th USENIX Security Symposium (**USENIX Security 2025**) <a href="assets/sec25-motallebighomi.pdf" class="label label-primary">Paper</a>
 
-### 2024
 - **MakeShift: Security Analysis of Shimano Di2 Wireless Gear Shifting in Bicycles** <br/>
 Maryam Motallebighomi, Earlence Fernandes, *Aanjhan Ranganathan*<br/>
 In Proceedings of 18th USENIX WOOT Conference on Offensive Technologies (**Usenix WOOT 2024**) <a href="assets/woot24-motallebighomi.pdf" class="label label-primary">Paper</a>
-
 
 - **Amplifying Threats: The Role of Multi-Sender Coordination in SMS-Timing-Based Location Inference Attacks** <br/>
 Evangelos Bitsikas, Theodor Schnitzler, Christina Poepper, *Aanjhan Ranganathan*<br/>
@@ -34,8 +39,6 @@ In Proceedings of IEEE/ACM Workshop on the Internet of Safe Things (**SafeThings
 Narmeen Shafqat, Cem Topcuoglu, Engin Kirda, *Aanjhan Ranganathan*<br/>
 In Proceedings of Hawaii International Conference on System Sciences, (**HICSS 2024**) <a href="assets/hiccs24-shafqat.pdf" class="label label-primary">Paper</a><br/> 
 arXiv version:  <a href="https://arxiv.org/abs/2211.03015">*Experience Report on the Challenges and Opportunities in Securing Smartphones Against Zero-Click Attacks*</a>  
-
-### 2023
 
 - **Freaky Leaky SMS: Extracting User Locations by Analyzing SMS Timings** <br/>
 Evangelos Bitsikas, Theodor Schnitzler, Christina Poepper, *Aanjhan Ranganathan*<br/>
@@ -70,8 +73,6 @@ In Proceedings of 16th ACM Conference on Security and Privacy in Wireless and Mo
 Rohith Reddy Vennam, Ish Kumar Jain, Kshitiz Bansal, Joshua Orozco, Puja Shukla, *Aanjhan Ranganathan*, Dinesh Bharadia<br/>
 In Proceedings of the 44th IEEE Symposium on Security and Privacy (**S&P 2023**) <a href="assets/mmspoof-oakland23.pdf" class="label label-primary">Paper</a> <a href="https://youtu.be/Lx6Hn4g7ItQ" class="label label-danger">Teaser Video</a>
 
-### 2022
-
 - **On the Implications of Spoofing and Jamming Aviation Datalink Applications** <br/>
 Harshad Sathaye, Guevara Noubir, *Aanjhan Ranganathan*<br/>
 In Proceedings of Annual Computer Security Applications Conference (**ACSAC 2022**) <a href="assets/sathaye22_acsac.pdf" class="label label-primary">Paper</a><br/>
@@ -103,8 +104,6 @@ In Proceedings of Network and Distributed System Security Symposium (**NDSS 2022
 Mridula Singh, Marc Roeschlin, *Aanjhan Ranganathan*, Srdjan Capkun<br/>
 In Proceedings of Network and Distributed System Security Symposium (**NDSS 2022**)
 
-### 2021
-
 - **Here, There, and Everywhere: Security Analysis of Wi-Fi Fine Timing Measurement** <a href="assets/schepers_ftm_wisec21.pdf" class="label label-primary">Paper</a><br/>
 Domien Schepers, Mridula Singh, *Aanjhan Ranganathan*<br/>
 In Proceedings of 14th ACM Conference on Security and Privacy in Wireless and Mobile Networks (**ACM WiSec 2021**)
@@ -112,8 +111,6 @@ In Proceedings of 14th ACM Conference on Security and Privacy in Wireless and Mo
 - **Let Numbers Tell the Tale: Measuring Security Trends in Wi-Fi Networks and Best Practices** <a href="assets/schepersNumbersWisec21.pdf" class="label label-primary">Paper</a><br/>
 Domien Schepers, *Aanjhan Ranganathan*, Mathy Vanhoef<br/>
 In Proceedings of 14th ACM Conference on Security and Privacy in Wireless and Mobile Networks (**ACM WiSec 2021**)
-
-### 2019
 
 - **Practical Side-Channel Attacks against WPA-TKIP** <a href="assets/schepers_asiaccs2019_tkip.pdf" class="label label-primary">Paper</a><br/>
 Domien Schepers, *Aanjhan Ranganathan*, Mathy Vanhoef<br/>
@@ -129,14 +126,10 @@ In Proceedings of 28th USENIX Security Symposium (**USENIX Security 19**) <br/>
 Sashank Narain, *Aanjhan Ranganathan*, Guevara Noubir<br/>
 In Proceedings of the 40th IEEE Symposium on Security and Privacy (**S&P 2019**)
 
-### 2018
-
 - **I Send, Therefore I Leak: Information Leakage in Low-Power Wide Area Networks** <a href="assets/leu_lorawisec18.pdf" class="label label-primary">Paper</a><br/> 
 Patrick Leu, Ivan Puddu, *Aanjhan Ranganathan*, Srdjan Capkun<br/>
 In Proceedings of ACM Conference on Security and Privacy in Wireless and Mobile
 Networks (**WiSec 2018**) 
-
-### 2017
 
 - **On the Security of Carrier Phase-based Ranging** <a href="assets/phase_ranging.pdf" class="label label-primary">Paper</a> <a href="assets/phase_ranging.bib" class="label label-default">Bibtex</a><br/> 
 Hildur Ólafsdóttir, *Aanjhan Ranganathan*, Srdjan Capkun<br/>
@@ -145,8 +138,6 @@ In Proceedings of Cryptographic Hardware and Embedded Systems (**CHES 2017**)
 - **Are We Really Close? Verifying Proximity in Wireless Systems** <a href="assets/ieeemag_secureranging.pdf" class="label label-primary">Draft version</a><br/> 
 *Aanjhan Ranganathan*, Srdjan Capkun<br/>
 IEEE Security & Privacy Magazine (<a href="http://ieeexplore.ieee.org/document/7945214/">June-July 2017 edition</a>)
-
-### 2016
 
 - **Physical-layer Techniques for Secure Proximity Verification & Localization**
 <a href="assets/thesis_abstract.pdf" class="label label-primary">Abstract</a> <a href="assets/aanjhan_thesis.pdf" class="label label-primary">Full-text</a> <a href="assets/aanjhan_thesis.bib" class="label label-default">Bibtex</a><br/>
@@ -170,8 +161,6 @@ In Proceedings of the 22nd Annual International Conference on Mobile Computing a
 Der-Yeuan Yu, *Aanjhan Ranganathan*, Ramya Jayaram Masti, Claudio Soriente, Srdjan Capkun<br/>
 In Proceedings of the 22nd Annual International Conference on Mobile Computing and Networking (**MobiCom 2016**)
 
-### 2015
-
 - **Proximity Verification for Contactless Access Control and Authentication Systems**
 <a href="assets/fmcw_acsac2015.pdf" class="label label-primary">Paper</a> <a href="assets/fmcw_acsac2015.bib" class="label label-default">Bibtex</a><br/>
 *Aanjhan Ranganathan*, Boris Danev, Srdjan Capkun<br/>
@@ -187,8 +176,6 @@ In the proceedings of 24th USENIX Security Symposium (**USENIX Security 15**)
 Der-Yeuan Yu, *Aanjhan Ranganathan*, Ramya Jayaram Masti, Claudio Soriente, Srdjan Capkun<br/>
 Cryptology ePrint Archive: Report 2015/230
 
-### 2014
-
 - **Short Paper: Detection of GPS Spoofing Attacks in Power Grids**
  <a href="assets/yu-gpsspoofing-wisec14.pdf" class="label label-primary">Paper</a> <a href="assets/gps_short_wisec14.bib" class="label label-default">Bibtex</a><br/>
 Der-Yeuan Yu, *Aanjhan Ranganathan*, Thomas Locher, Srdjan Capkun, David A. Basin.<br/>
@@ -199,14 +186,10 @@ In Proceedings of the 2014 ACM conference on Security and privacy in wireless & 
 *Aanjhan Ranganathan*, Boris Danev, Srdjan Capkun<br/>
 arXiv preprint arXiv:1404.4435 (2014)
 
-### 2013
-
 - **On Limitations of Friendly Jamming for Confidentiality**
  <a href="assets/friendlyjaming_tippenhauer.pdf" class="label label-primary">Paper</a> <a href="assets/friendlyjamming.bib" class="label label-default">Bibtex</a><br/>
 Nils Ole Tippenhauer, Luka Malisa, *Aanjhan Ranganathan*, Srdjan Capkun.<br/>
 In Security and Privacy (SP), 2013 IEEE Symposium on (**IEEE S&P 2013**)
-
-### 2012
 
 - **Enabling Trusted Scheduling in Embedded Systems**
 <a href="assets/trusted_scheduling_acsac2012.pdf" class="label label-primary">Paper</a> <a href="assets/trustedscheduling_acsac12.bib" class="label label-default">Bibtex</a><br/>

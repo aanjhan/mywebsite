@@ -5,6 +5,8 @@ layout: default
 
 ### Professional & Social Activities
 - Steering Committee Member SpaceSec
+- Technical Program Committee Member for ACM WiSec 2026
+- Technical Program Committee Member for SpaceSec 2026
 - Technical Program Committee (co-chair) ACM WiSec 2025
 - Technical Program Committee (co-chair) SpaceSec 2025
 - Technical Program Committee Security for Space Systems (3S) 2025
