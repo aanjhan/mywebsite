@@ -11,6 +11,10 @@ The following are the list of papers (sorted in reverse chronological order) tha
 Evangelos Bitsikas, Jason Veara, *Aanjhan Ranganathan*<br/>
 In Proceedings of 20th USENIX WOOT Conference on Offensive Technologies (**Usenix WOOT 2026**) (_to appear_) <a href="https://arxiv.org/abs/2510.22024" class="label label-primary">Paper</a> <a href="https://github.com/Signal-Intelligence-Laboratory/Tesla-security" class="label label-info">Code</a>
 
+- **Automatic Transmission: An Empirical Study of Data Privacy in the Connected Vehicle Ecosystem** <br/>
+Nicole Gerzon, Sarah Elizabeth Gillespie, Jason Veara, Devin Patel, David Choffnes, Alan Mislove, *Aanjhan Ranganathan*, Piotr Sapiezynski, Christo Wilson<br/>
+In Proceedings of the 26th ACM Internet Measurement Conference (**IMC 2026**) (_to appear_)
+
 - **Beyond the Hype: Empirical Analysis of Matter Standard’s Security and Privacy** <br/>
 Andrew Losty, Tianrui Hu, Daniel J. Dubois, Narmeen Shafqat, *Aanjhan Ranganathan*, David Choffnes, Anna Maria Mandalari<br/>
 In Proceedings of the 26th ACM Internet Measurement Conference (**IMC 2026**) (_to appear_)
