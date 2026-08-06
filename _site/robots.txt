@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aanjhan.com/sitemap.xml
+
+# ------------------------------------------------------------------
+#  Hello, curious human. Crawlers don't read comments. You do.
+#  Reading robots.txt on purpose is step one of every real web
+#  assessment -- and it's why robots.txt is not a security control.
+#
+#      synt{nnawuna_fnlf_u3yy0_u4px3e}
+#
+#  That is not base64. It is older than the internet.
+#  One alphabet, shifted. Thirteen letters. Have fun.
+# ------------------------------------------------------------------
